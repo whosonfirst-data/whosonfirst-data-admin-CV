@@ -1,0 +1,139 @@
+{
+  "id": 421194047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.75381,15.27591,-23.75381,15.27591",
+    "geom:latitude":15.27591,
+    "geom:longitude":-23.75381,
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:ceb_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:chi_x_preferred":[
+        "\u5854\u62c9\u6cd5\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03c1\u03c1\u03b1\u03c6\u03ac\u03bb"
+    ],
+    "name:eng_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:fra_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:fre_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03b1\u03c1\u03c1\u03b1\u03c6\u03ac\u03bb"
+    ],
+    "name:ita_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\ud558\ud314"
+    ],
+    "name:nld_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:pol_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:por_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u0440\u0430\u0444\u0430\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:swe_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:unk_x_variant":[
+        "Vila do Tarrafal"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u62c9\u6cd5\u723e"
+    ],
+    "qs:gn_country":"CV",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":3374166,
+    "qs:gn_pop":6463,
+    "qs:name":"Tarrafal",
+    "qs:name_adm0":"Cabo Verde",
+    "qs:name_adm1":"Tarrafal",
+    "qs:photos":633,
+    "qs:photos_1k":128,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":633,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":910605,
+    "qs:woe_adm0":23424794,
+    "qs:woe_id":1310905,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":15.266667,
+    "wd:longitude":-23.75,
+    "wd:wordcount":158,
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374166,
+        "gp:id":1310905,
+        "qs:id":910605,
+        "wd:id":"Q2311253",
+        "wk:page":"Tarrafal, Cape Verde"
+    },
+    "wof:country":"CV",
+    "wof:created":1459009792,
+    "wof:geomhash":"302d021146c4ac24a7d8fd18fb1867ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":421194047,
+            "region_id":85670299
+        }
+    ],
+    "wof:id":421194047,
+    "wof:lastmodified":1527716130,
+    "wof:name":"Tarrafal",
+    "wof:parent_id":85670299,
+    "wof:placetype":"locality",
+    "wof:population":6463,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.75381,
+    15.27591,
+    -23.75381,
+    15.27591
+],
+  "geometry": {"coordinates":[-23.75381,15.27591],"type":"Point"}
+}

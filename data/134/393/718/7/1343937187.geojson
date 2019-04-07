@@ -1,0 +1,66 @@
+{
+  "id": 1343937187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.31667,14.98333,-24.31667,14.98333",
+    "geom:latitude":14.98333,
+    "geom:longitude":-24.31667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Relva",
+    "gn:country_code":"CV",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374291,
+    "gn:latitude":14.98333,
+    "gn:longitude":-24.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Relva",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374291,
+        "wk:page":"Relva%2C_Cape_Verde"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"cc5484267abb59923a8f7dd55b3c110d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1343937187,
+            "region_id":85670287
+        }
+    ],
+    "wof:id":1343937187,
+    "wof:lastmodified":1537504003,
+    "wof:name":"Relva",
+    "wof:parent_id":85670287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.31667,
+    14.98333,
+    -24.31667,
+    14.98333
+],
+  "geometry": {"coordinates":[-24.31667,14.98333],"type":"Point"}
+}

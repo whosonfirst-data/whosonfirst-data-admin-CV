@@ -1,0 +1,98 @@
+{
+  "id": 421200787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-22.98333,16.76667,-22.98333,16.76667",
+    "geom:latitude":16.76667,
+    "geom:longitude":-22.98333,
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Palmeira"
+    ],
+    "name:deu_x_preferred":[
+        "Palmeira"
+    ],
+    "name:dut_x_preferred":[
+        "Palmeira"
+    ],
+    "name:eng_x_preferred":[
+        "Palmeira"
+    ],
+    "name:ger_x_preferred":[
+        "Palmeira"
+    ],
+    "name:nds_x_preferred":[
+        "Palmeira"
+    ],
+    "name:por_x_preferred":[
+        "Palmeira"
+    ],
+    "qs:gn_country":"CV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3374403,
+    "qs:gn_pop":0,
+    "qs:name":"Palmeira",
+    "qs:name_adm0":"Cabo Verde",
+    "qs:name_adm1":"Sal",
+    "qs:photos":228,
+    "qs:photos_1k":46,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":228,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":894737,
+    "qs:woe_adm0":23424794,
+    "qs:woe_id":1310832,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":64,
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374403,
+        "gp:id":1310832,
+        "qs:id":894737,
+        "wd:id":"Q1679554",
+        "wk:page":"Palmeira, Cape Verde"
+    },
+    "wof:country":"CV",
+    "wof:created":1459010041,
+    "wof:geomhash":"bb1b5adff6ceb6e0bd26bea7a88630e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":421200787,
+            "region_id":85670341
+        }
+    ],
+    "wof:id":421200787,
+    "wof:lastmodified":1527716430,
+    "wof:name":"Palmeira",
+    "wof:parent_id":85670341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.98333,
+    16.76667,
+    -22.98333,
+    16.76667
+],
+  "geometry": {"coordinates":[-22.98333,16.76667],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1226810929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.7,15.26667,-23.7,15.26667",
+    "geom:latitude":15.26667,
+    "geom:longitude":-23.7,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Lapa Cachorro",
+    "gn:country_code":"CV",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374512,
+    "gn:latitude":15.26667,
+    "gn:longitude":-23.7,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Lapa Cachorro",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374512
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"2f6486082a028a97963e81375cfa76c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1226810929,
+            "region_id":85670299
+        }
+    ],
+    "wof:id":1226810929,
+    "wof:lastmodified":1536619700,
+    "wof:name":"Lapa Cachorro",
+    "wof:parent_id":85670299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.7,
+    15.26667,
+    -23.7,
+    15.26667
+],
+  "geometry": {"coordinates":[-23.7,15.26667],"type":"Point"}
+}

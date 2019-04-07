@@ -1,0 +1,97 @@
+{
+  "id": 421192765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.31667,15.0,-24.31667,15.0",
+    "geom:latitude":15.0,
+    "geom:longitude":-24.31667,
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Corvo"
+    ],
+    "name:eng_x_preferred":[
+        "Corvo"
+    ],
+    "name:fra_x_preferred":[
+        "Corvo"
+    ],
+    "name:ita_x_preferred":[
+        "Corvo"
+    ],
+    "name:por_x_preferred":[
+        "Corvo"
+    ],
+    "name:slk_x_preferred":[
+        "Corvo"
+    ],
+    "name:spa_x_preferred":[
+        "Corvo"
+    ],
+    "qs:gn_country":"CV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3374715,
+    "qs:gn_pop":0,
+    "qs:name":"Corvo",
+    "qs:name_adm0":"Cabo Verde",
+    "qs:name_adm1":"Mosteiros",
+    "qs:photos":216,
+    "qs:photos_1k":44,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":216,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1175172,
+    "qs:woe_adm0":23424794,
+    "qs:woe_id":1310726,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":215,
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374715,
+        "gp:id":1310726,
+        "qs:id":1175172,
+        "wd:id":"Q5173470"
+    },
+    "wof:country":"CV",
+    "wof:created":1459009748,
+    "wof:geomhash":"07d94c989d907910ca0016a7d044a6d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":421192765,
+            "region_id":85670287
+        }
+    ],
+    "wof:id":421192765,
+    "wof:lastmodified":1527716108,
+    "wof:name":"Corvo",
+    "wof:parent_id":85670287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.31667,
+    15.0,
+    -24.31667,
+    15.0
+],
+  "geometry": {"coordinates":[-24.31667,15.0],"type":"Point"}
+}

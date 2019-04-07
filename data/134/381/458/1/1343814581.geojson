@@ -1,0 +1,70 @@
+{
+  "id": 1343814581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.31667,16.63333,-24.31667,16.63333",
+    "geom:latitude":16.63333,
+    "geom:longitude":-24.31667,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Queimadas",
+    "gn:country_code":"CV",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374304,
+    "gn:latitude":16.63333,
+    "gn:longitude":-24.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Queimadas",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Queimada",
+        "Queimadas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374304,
+        "wk:page":"Queimada%2C_Cape_Verde"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"0420c5ea306dd74244824400a8a5d0a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1343814581,
+            "region_id":85670347
+        }
+    ],
+    "wof:id":1343814581,
+    "wof:lastmodified":1537619234,
+    "wof:name":"Queimadas",
+    "wof:parent_id":85670347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.31667,
+    16.63332999999999,
+    -24.31667,
+    16.63332999999999
+],
+  "geometry": {"coordinates":[-24.31667,16.63332999999999],"type":"Point"}
+}

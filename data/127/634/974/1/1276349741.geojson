@@ -1,0 +1,70 @@
+{
+  "id": 1276349741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-22.85,16.18333,-22.85,16.18333",
+    "geom:latitude":16.18333,
+    "geom:longitude":-22.85,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ponta Adiante",
+    "gn:country_code":"CV",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374349,
+    "gn:latitude":16.18333,
+    "gn:longitude":-22.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ponta Adiante",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Point Adeante",
+        "Ponta Adeante",
+        "Ponta Adiante"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374349
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"274811db61da4cd5e5d751d7de85022b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1276349741,
+            "region_id":85670339
+        }
+    ],
+    "wof:id":1276349741,
+    "wof:lastmodified":1537619235,
+    "wof:name":"Ponta Adiante",
+    "wof:parent_id":85670339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.85,
+    16.18333,
+    -22.85,
+    16.18333
+],
+  "geometry": {"coordinates":[-22.85,16.18333],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1343515799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.41129,16.60079,-24.41129,16.60079",
+    "geom:latitude":16.60079,
+    "geom:longitude":-24.41129,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Barril",
+    "gn:country_code":"CV",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439749,
+    "gn:latitude":16.60079,
+    "gn:longitude":-24.41129,
+    "gn:modification_date":"2017-09-18",
+    "gn:name":"Barril",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439749,
+        "wk:page":"Barril%2C_S%C3%A3o_Nicolau"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"52e78e6da792f56bde3c16eb0cb349b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1343515799,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343515799,
+    "wof:lastmodified":1537504005,
+    "wof:name":"Barril",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.41129,
+    16.60079,
+    -24.41129,
+    16.60079
+],
+  "geometry": {"coordinates":[-24.41129,16.60079],"type":"Point"}
+}

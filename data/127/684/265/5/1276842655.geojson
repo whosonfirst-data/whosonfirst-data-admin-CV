@@ -1,0 +1,65 @@
+{
+  "id": 1276842655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.53215,15.13493,-23.53215,15.13493",
+    "geom:latitude":15.13493,
+    "geom:longitude":-23.53215,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Pedra Badejo",
+    "gn:country_code":"CV",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":8441169,
+    "gn:latitude":15.13493,
+    "gn:longitude":-23.53215,
+    "gn:modification_date":"2013-08-03",
+    "gn:name":"Pedra Badejo",
+    "gn:population":9343,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8441169,
+        "wk:page":"Pedra_Badejo"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"bdcfdc4bffa11c17be3235d9a19f2f68",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276842655,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276842655,
+    "wof:lastmodified":1537504005,
+    "wof:name":"Pedra Badejo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":9343,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.53215,
+    15.13493,
+    -23.53215,
+    15.13493
+],
+  "geometry": {"coordinates":[-23.53215,15.13493],"type":"Point"}
+}

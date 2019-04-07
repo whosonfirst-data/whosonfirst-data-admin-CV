@@ -1,0 +1,65 @@
+{
+  "id": 1326500391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.71667,15.13333,-23.71667,15.13333",
+    "geom:latitude":15.13333,
+    "geom:longitude":-23.71667,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Malveira",
+    "gn:country_code":"CV",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374483,
+    "gn:latitude":15.13333,
+    "gn:longitude":-23.71667,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Malveira",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374483
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"450aab7b5be8e8d2d90a5b451389f6b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1326500391,
+            "region_id":85670301
+        }
+    ],
+    "wof:id":1326500391,
+    "wof:lastmodified":1537028805,
+    "wof:name":"Malveira",
+    "wof:parent_id":85670301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.71667,
+    15.13333,
+    -23.71667,
+    15.13333
+],
+  "geometry": {"coordinates":[-23.71667,15.13333],"type":"Point"}
+}

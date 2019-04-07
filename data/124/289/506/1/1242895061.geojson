@@ -1,0 +1,65 @@
+{
+  "id": 1242895061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.15,17.11667,-25.15,17.11667",
+    "geom:latitude":17.11667,
+    "geom:longitude":-25.15,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Esgamaleiro",
+    "gn:country_code":"CV",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374666,
+    "gn:latitude":17.11667,
+    "gn:longitude":-25.15,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Esgamaleiro",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374666
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"ad42bac497296cfd4f3ce539b2c65ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1242895061,
+            "region_id":85670363
+        }
+    ],
+    "wof:id":1242895061,
+    "wof:lastmodified":1536603359,
+    "wof:name":"Esgamaleiro",
+    "wof:parent_id":85670363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.15,
+    17.11667000000001,
+    -25.15,
+    17.11667000000001
+],
+  "geometry": {"coordinates":[-25.15,17.11667000000001],"type":"Point"}
+}

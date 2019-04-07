@@ -1,0 +1,65 @@
+{
+  "id": 1243564949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.088,17.136,-25.088,17.136",
+    "geom:latitude":17.136,
+    "geom:longitude":-25.088,
+    "gn:asciiname":"Corda",
+    "gn:country_code":"CV",
+    "gn:dem":989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11237555,
+    "gn:latitude":17.136,
+    "gn:longitude":-25.088,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Corda",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11237555,
+        "wk:page":"Corda,_Ribeira_Grande"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"5ccf1105f6848d538977fe54a8fb3737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1243564949,
+            "region_id":85670363
+        }
+    ],
+    "wof:id":1243564949,
+    "wof:lastmodified":1537504006,
+    "wof:name":"Corda",
+    "wof:parent_id":85670363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.088,
+    17.136,
+    -25.088,
+    17.136
+],
+  "geometry": {"coordinates":[-25.088,17.136],"type":"Point"}
+}

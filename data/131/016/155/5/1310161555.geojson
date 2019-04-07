@@ -1,0 +1,69 @@
+{
+  "id": 1310161555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.31103,14.87113,-24.31103,14.87113",
+    "geom:latitude":14.87113,
+    "geom:longitude":-24.31103,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Figueira Pavao",
+    "gn:country_code":"CV",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374630,
+    "gn:latitude":14.87113,
+    "gn:longitude":-24.31103,
+    "gn:modification_date":"2012-02-12",
+    "gn:name":"Figueira Pav\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Figueira Pav\u00e3o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374630,
+        "wk:page":"Figueira_Pav%C3%A3o"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"db5fdd361a5083e6c35167349760aec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1310161555,
+            "region_id":85670283
+        }
+    ],
+    "wof:id":1310161555,
+    "wof:lastmodified":1537619236,
+    "wof:name":"Figueira Pavao",
+    "wof:parent_id":85670283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.31103,
+    14.87113,
+    -24.31103,
+    14.87113
+],
+  "geometry": {"coordinates":[-24.31103,14.87113],"type":"Point"}
+}

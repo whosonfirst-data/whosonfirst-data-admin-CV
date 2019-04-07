@@ -1,0 +1,66 @@
+{
+  "id": 1293752225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.68457,14.95085,-23.68457,14.95085",
+    "geom:latitude":14.95085,
+    "geom:longitude":-23.68457,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Porto Mosquito",
+    "gn:country_code":"CV",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11608863,
+    "gn:latitude":14.95085,
+    "gn:longitude":-23.68457,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Porto Mosquito",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11608863,
+        "wk:page":"Porto_Mosquito"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"7c60b77ba08bcc7e19edd7619c44e43a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1293752225,
+            "region_id":85670327
+        }
+    ],
+    "wof:id":1293752225,
+    "wof:lastmodified":1537504006,
+    "wof:name":"Porto Mosquito",
+    "wof:parent_id":85670327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.68457,
+    14.95085,
+    -23.68457,
+    14.95085
+],
+  "geometry": {"coordinates":[-23.68457,14.95085],"type":"Point"}
+}

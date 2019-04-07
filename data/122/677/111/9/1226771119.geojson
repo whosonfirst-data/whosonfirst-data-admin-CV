@@ -1,0 +1,71 @@
+{
+  "id": 1226771119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.16667,17.16667,-25.16667,17.16667",
+    "geom:latitude":17.16667,
+    "geom:longitude":-25.16667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Cha da Igreja",
+    "gn:country_code":"CV",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374748,
+    "gn:latitude":17.16667,
+    "gn:longitude":-25.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ch\u00e3 da Igreja",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u00e3 da Egreja",
+        "Ch\u00e3 de Igreja",
+        "Ch\u00e3 da Igreja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374748,
+        "wk:page":"Ch%C3%A3_de_Igreja"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"b8669f123256f5da9f28f116e0a98edb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1226771119,
+            "region_id":85670363
+        }
+    ],
+    "wof:id":1226771119,
+    "wof:lastmodified":1537619237,
+    "wof:name":"Cha da Igreja",
+    "wof:parent_id":85670363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.16667,
+    17.16667,
+    -25.16667,
+    17.16667
+],
+  "geometry": {"coordinates":[-25.16667,17.16667],"type":"Point"}
+}

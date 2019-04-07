@@ -1,0 +1,104 @@
+{
+  "id": 421188413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-23.59228,15.18613,-23.59228,15.18613",
+    "geom:latitude":15.18613,
+    "geom:longitude":-23.59228,
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:arg_x_preferred":[
+        "Calheta"
+    ],
+    "name:cat_x_preferred":[
+        "Calheta"
+    ],
+    "name:deu_x_preferred":[
+        "Calheta"
+    ],
+    "name:fra_x_preferred":[
+        "Calheta"
+    ],
+    "name:ita_x_preferred":[
+        "Calheta"
+    ],
+    "name:kor_x_preferred":[
+        "\uce7c\ub840\ud0c0"
+    ],
+    "name:nld_x_preferred":[
+        "Calheta"
+    ],
+    "name:por_x_preferred":[
+        "Calheta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u044c\u0435\u0442\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Calheta"
+    ],
+    "name:vol_x_preferred":[
+        "Calheta"
+    ],
+    "qs:gn_country":"CV",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":3374794,
+    "qs:gn_pop":0,
+    "qs:name":"Calheta",
+    "qs:name_adm0":"Cabo Verde",
+    "qs:name_adm1":"S\u00e3o Miguel",
+    "qs:photos":8,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":8,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1096487,
+    "qs:woe_adm0":23424794,
+    "qs:woe_id":1310704,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":129,
+    "wof:belongsto":[
+        85632721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374794,
+        "gp:id":1310704,
+        "qs:id":1096487,
+        "wd:id":"Q299796"
+    },
+    "wof:country":"CV",
+    "wof:created":1459009555,
+    "wof:geomhash":"05447a30b9eebf08e441c8397edac6d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632721,
+            "locality_id":421188413
+        }
+    ],
+    "wof:id":421188413,
+    "wof:lastmodified":1527716276,
+    "wof:name":"Calheta",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.59228,
+    15.18613,
+    -23.59228,
+    15.18613
+],
+  "geometry": {"coordinates":[-23.59228,15.18613],"type":"Point"}
+}

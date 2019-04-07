@@ -1,0 +1,89 @@
+{
+  "id": 421185733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-22.83333,16.18333,-22.83333,16.18333",
+    "geom:latitude":16.18333,
+    "geom:longitude":-22.83333,
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Bofarreira"
+    ],
+    "name:eng_x_preferred":[
+        "Bofareira"
+    ],
+    "name:por_x_preferred":[
+        "Bafureira"
+    ],
+    "name:unk_x_variant":[
+        "Bafureira"
+    ],
+    "qs:gn_country":"CV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3374848,
+    "qs:gn_pop":0,
+    "qs:name":"Bofareira",
+    "qs:name_adm0":"Cabo Verde",
+    "qs:name_adm1":"Boa Vista",
+    "qs:photos":213,
+    "qs:photos_1k":43,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":213,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1040453,
+    "qs:woe_adm0":23424794,
+    "qs:woe_id":1310690,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":178,
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374848,
+        "gp:id":1310690,
+        "qs:id":1040453,
+        "wd:id":"Q13581467",
+        "wk:page":"Bofarreira"
+    },
+    "wof:country":"CV",
+    "wof:created":1459009452,
+    "wof:geomhash":"899a3db05056cc5c5869278fb5b11d10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":421185733,
+            "region_id":85670339
+        }
+    ],
+    "wof:id":421185733,
+    "wof:lastmodified":1527726507,
+    "wof:name":"Bofareira",
+    "wof:parent_id":85670339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.83333,
+    16.18333,
+    -22.83333,
+    16.18333
+],
+  "geometry": {"coordinates":[-22.83333,16.18333],"type":"Point"}
+}

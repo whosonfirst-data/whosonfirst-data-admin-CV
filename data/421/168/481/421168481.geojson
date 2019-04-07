@@ -1,0 +1,86 @@
+{
+  "id": 421168481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.86667,16.85,-24.86667,16.85",
+    "geom:latitude":16.85,
+    "geom:longitude":-24.86667,
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Calhau"
+    ],
+    "name:eng_x_preferred":[
+        "Calhau"
+    ],
+    "name:fre_x_preferred":[
+        "Calhau"
+    ],
+    "name:por_x_preferred":[
+        "Calhau"
+    ],
+    "name:rum_x_preferred":[
+        "Calhau"
+    ],
+    "qs:gn_country":"CV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3374800,
+    "qs:gn_pop":0,
+    "qs:name":"Calhau",
+    "qs:name_adm0":"Cabo Verde",
+    "qs:name_adm1":"S\u00e3o Vicente",
+    "qs:photos":99,
+    "qs:photos_1k":20,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":99,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":894738,
+    "qs:woe_adm0":23424794,
+    "qs:woe_id":1310703,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        85632721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374800,
+        "gp:id":1310703,
+        "qs:id":894738,
+        "wd:id":"Q2933920"
+    },
+    "wof:country":"CV",
+    "wof:created":1459008766,
+    "wof:geomhash":"76719c420264de37b0ebb40573577949",
+    "wof:hierarchy":[
+        {
+            "country_id":85632721,
+            "locality_id":421168481
+        }
+    ],
+    "wof:id":421168481,
+    "wof:lastmodified":1553816356,
+    "wof:name":"Calhau",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.86667,
+    16.85,
+    -24.86667,
+    16.85
+],
+  "geometry": {"coordinates":[-24.86667,16.85],"type":"Point"}
+}

@@ -1,0 +1,237 @@
+{
+  "id": 85670369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003175,
+    "geom:area_square_m":37520900.572057,
+    "geom:bbox":"-25.0729761316,17.0788645902,-24.9712621742,17.144924221",
+    "geom:latitude":17.114427,
+    "geom:longitude":-25.013329,
+    "gn:population":6997,
+    "iso:country":"CV",
+    "label:eng_x_preferred_longname":[
+        "Paul County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "lbl:latitude":17.117265,
+    "lbl:longitude":-25.008321,
+    "mps:latitude":17.117265,
+    "mps:longitude":-25.008321,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bre_x_preferred":[
+        "Paul"
+    ],
+    "name:cat_x_preferred":[
+        "Paul"
+    ],
+    "name:ceb_x_preferred":[
+        "Concelho do Paul"
+    ],
+    "name:dan_x_preferred":[
+        "Pa\u00fal"
+    ],
+    "name:deu_x_preferred":[
+        "Paul"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03b1\u03bf\u03cd\u03bb"
+    ],
+    "name:eng_x_preferred":[
+        "Paul"
+    ],
+    "name:eng_x_variant":[
+        "Paul Municipality"
+    ],
+    "name:fra_x_preferred":[
+        "Paul"
+    ],
+    "name:ita_x_preferred":[
+        "Contea di Paul"
+    ],
+    "name:kor_x_preferred":[
+        "\ud30c\uc6b8 \uc2dc"
+    ],
+    "name:lit_x_preferred":[
+        "Paulio savivaldyb\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "Pa\u00fal"
+    ],
+    "name:nor_x_preferred":[
+        "Pa\u00fal"
+    ],
+    "name:pol_x_preferred":[
+        "Pa\u00fal"
+    ],
+    "name:por_x_preferred":[
+        "Paul"
+    ],
+    "name:ron_x_preferred":[
+        "Pa\u00fal"
+    ],
+    "name:spa_x_preferred":[
+        "Paul"
+    ],
+    "name:swe_x_preferred":[
+        "Concelho do Paul"
+    ],
+    "name:unk_x_variant":[
+        "Concelho do Paul"
+    ],
+    "name:zho_x_preferred":[
+        "\u4fdd\u723e\u7e23"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"CPV",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"CPV-5062",
+    "ne:adm1_code":"CPV-5062",
+    "ne:admin":"Cape Verde",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"CV.PA",
+    "ne:code_local":"12",
+    "ne:datarank":"10",
+    "ne:diss_me":"5062",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"CV05",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Cape Verde",
+    "ne:gn_a1_code":"CV.05",
+    "ne:gn_id":"3374391",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Concelho do Paul",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"CV05",
+    "ne:gns_id":"-1313410",
+    "ne:gns_lang":"por",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Paul",
+    "ne:gns_region":"",
+    "ne:gu_a3":"CPV",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"CV-PA",
+    "ne:iso_a2":"CV",
+    "ne:labelrank":"20",
+    "ne:latitude":"17.11790000000",
+    "ne:longitude":"-25.01510000000",
+    "ne:mapcolor13":11,
+    "ne:mapcolor9":4,
+    "ne:name":"Paul",
+    "ne:name_alt":"",
+    "ne:name_len":4,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"Ilhas de Barlavento",
+    "ne:region_cod":"CV-B",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"CPV",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Paul_(Cape_Verde)",
+    "ne:woe_id":20069964,
+    "ne:woe_label":"Paul, CV, Cape Verde",
+    "ne:woe_name":"Paul",
+    "qs:a0":"Cape Verde",
+    "qs:a0_lc":"CV",
+    "qs:a1":"Paul",
+    "qs:a1_lc":"CPV-5062",
+    "qs:a1r":"Ilhas de Barlavento",
+    "qs:a1r_lc":"CV-B",
+    "qs:adm0":"Cape Verde",
+    "qs:adm0_a3":"CPV",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-06-16",
+    "statoids:area_km":"54",
+    "statoids:area_mi":"21",
+    "statoids:as_of_date":"2010-06-16",
+    "statoids:capital":"Vila das Pombas",
+    "statoids:country":"CV",
+    "statoids:gec":"CV05",
+    "statoids:hasc":"CV.PA",
+    "statoids:iso":"PA",
+    "statoids:name":"Paul",
+    "statoids:population":"6997",
+    "statoids:timezone":"-1",
+    "statoids:type":"county",
+    "unlc:subdivision":"CV-PA",
+    "wd:wordcount":493,
+    "wof:belongsto":[
+        102191573,
+        85632721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"CV05",
+        "gn:id":3374391,
+        "gp:id":20069964,
+        "hasc:id":"CV.PA",
+        "iso:id":"CV-PA",
+        "loc:id":"no2014070592",
+        "qs:id":902458,
+        "unlc:id":"CV-PA",
+        "wd:id":"Q1475374",
+        "wk:page":"Paul, Cape Verde"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"42b4ad7e9107ecae2cf6269a26bf2d0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "region_id":85670369
+        }
+    ],
+    "wof:id":85670369,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lang_x_official":[
+        "por"
+    ],
+    "wof:lang_x_spoken":[
+        "por"
+    ],
+    "wof:lastmodified":1553550350,
+    "wof:name":"Paul",
+    "wof:parent_id":85632721,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"county",
+    "wof:population":6997,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:shortcode":"PA",
+    "wof:subdivision":"CV-PA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.07297613164309,
+    17.0788645902287,
+    -24.97126217420993,
+    17.14492422097607
+],
+  "geometry": {"coordinates":[[[-24.98668247611533,17.0788645902287],[-25.00053852962941,17.08776071988137],[-25.02832281534563,17.1056220462205],[-25.07297613164309,17.1135604131826],[-25.0541225086468,17.12745255649031],[-25.03824577472267,17.13836781162524],[-25.0258682929873,17.14492422097607],[-25.02057857963769,17.1403669289906],[-24.99705970014497,17.13418203317434],[-24.9917699858961,17.13092682551263],[-24.98867753753831,17.12571849271433],[-24.9749649726553,17.11448802340362],[-24.97126217420993,17.10732656546867],[-24.97301184751871,17.09662506749294],[-24.97899329330579,17.08690013253516],[-24.98668247611533,17.0788645902287]]],"type":"Polygon"}
+}

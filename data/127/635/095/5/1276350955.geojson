@@ -1,0 +1,64 @@
+{
+  "id": 1276350955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-22.90649,16.61851,-22.90649,16.61851",
+    "geom:latitude":16.61851,
+    "geom:longitude":-22.90649,
+    "gn:asciiname":"Cha de Alecrim",
+    "gn:country_code":"CV",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11398229,
+    "gn:latitude":16.61851,
+    "gn:longitude":-22.90649,
+    "gn:modification_date":"2017-01-03",
+    "gn:name":"Ch\u00e3 de Alecrim",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11398229
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"67163822b1b4d5d3f407389357ef929b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1276350955,
+            "region_id":85670341
+        }
+    ],
+    "wof:id":1276350955,
+    "wof:lastmodified":1536754875,
+    "wof:name":"Cha de Alecrim",
+    "wof:parent_id":85670341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.90649,
+    16.61851,
+    -22.90649,
+    16.61851
+],
+  "geometry": {"coordinates":[-22.90649,16.61851],"type":"Point"}
+}

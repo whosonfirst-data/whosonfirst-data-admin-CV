@@ -1,0 +1,66 @@
+{
+  "id": 1343534379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.67775,15.13867,-23.67775,15.13867",
+    "geom:latitude":15.13867,
+    "geom:longitude":-23.67775,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Achada Lem",
+    "gn:country_code":"CV",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11496152,
+    "gn:latitude":15.13867,
+    "gn:longitude":-23.67775,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Achada Lem",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11496152,
+        "wk:page":"Achada_Lem"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"298b20bb76ccc047088e4fabaaea5184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1343534379,
+            "region_id":85670301
+        }
+    ],
+    "wof:id":1343534379,
+    "wof:lastmodified":1537504006,
+    "wof:name":"Achada Lem",
+    "wof:parent_id":85670301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.67775,
+    15.13867,
+    -23.67775,
+    15.13867
+],
+  "geometry": {"coordinates":[-23.67775,15.13867],"type":"Point"}
+}

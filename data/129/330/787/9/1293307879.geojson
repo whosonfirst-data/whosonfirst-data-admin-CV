@@ -1,0 +1,64 @@
+{
+  "id": 1293307879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.49994,14.89502,-24.49994,14.89502",
+    "geom:latitude":14.89502,
+    "geom:longitude":-24.49994,
+    "gn:asciiname":"Monte Tabor",
+    "gn:country_code":"CV",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11428176,
+    "gn:latitude":14.89502,
+    "gn:longitude":-24.49994,
+    "gn:modification_date":"2017-01-21",
+    "gn:name":"Monte Tabor",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11428176
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"0755b609ddbc6f8ac6cb41a5db41fee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1293307879,
+            "region_id":85670283
+        }
+    ],
+    "wof:id":1293307879,
+    "wof:lastmodified":1537044070,
+    "wof:name":"Monte Tabor",
+    "wof:parent_id":85670283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.49994,
+    14.89502,
+    -24.49994,
+    14.89502
+],
+  "geometry": {"coordinates":[-24.49994,14.89502],"type":"Point"}
+}

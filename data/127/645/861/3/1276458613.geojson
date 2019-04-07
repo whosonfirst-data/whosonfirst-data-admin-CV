@@ -1,0 +1,65 @@
+{
+  "id": 1276458613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.32373,16.64869,-24.32373,16.64869",
+    "geom:latitude":16.64869,
+    "geom:longitude":-24.32373,
+    "gn:asciiname":"Faja de Baixo",
+    "gn:country_code":"CV",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7669156,
+    "gn:latitude":16.64869,
+    "gn:longitude":-24.32373,
+    "gn:modification_date":"2011-02-22",
+    "gn:name":"Faja de Baixo",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7669156,
+        "wk:page":"Faj%C3%A3_de_Baixo%2C_Cape_Verde"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"594cd51659f9dd7777d249373726c0b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1276458613,
+            "region_id":85670347
+        }
+    ],
+    "wof:id":1276458613,
+    "wof:lastmodified":1537504005,
+    "wof:name":"Faja de Baixo",
+    "wof:parent_id":85670347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.32373,
+    16.64869,
+    -24.32373,
+    16.64869
+],
+  "geometry": {"coordinates":[-24.32373,16.64869],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242631663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.31667,16.6,-24.31667,16.6",
+    "geom:latitude":16.6,
+    "geom:longitude":-24.31667,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Calejao",
+    "gn:country_code":"CV",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374801,
+    "gn:latitude":16.6,
+    "gn:longitude":-24.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Calej\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caleij\u00e3o",
+        "Calej\u00e3o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374801,
+        "wk:page":"Calej%C3%A3o"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"42aa9ef77d94ff4660afc7c8d95ecd54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1242631663,
+            "region_id":85670347
+        }
+    ],
+    "wof:id":1242631663,
+    "wof:lastmodified":1537619237,
+    "wof:name":"Calejao",
+    "wof:parent_id":85670347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.31667,
+    16.6,
+    -24.31667,
+    16.6
+],
+  "geometry": {"coordinates":[-24.31667,16.6],"type":"Point"}
+}

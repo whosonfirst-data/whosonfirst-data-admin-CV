@@ -1,0 +1,64 @@
+{
+  "id": 1310124641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.98963,16.88261,-24.98963,16.88261",
+    "geom:latitude":16.88261,
+    "geom:longitude":-24.98963,
+    "gn:asciiname":"Cha do Cemiterio",
+    "gn:country_code":"CV",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11204774,
+    "gn:latitude":16.88261,
+    "gn:longitude":-24.98963,
+    "gn:modification_date":"2016-07-22",
+    "gn:name":"Ch\u00e3 do Cemit\u00e9rio",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11204774
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"6e7c2a110c0197b6d25d0bdbaab8a73e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1310124641,
+            "region_id":85670355
+        }
+    ],
+    "wof:id":1310124641,
+    "wof:lastmodified":1536968585,
+    "wof:name":"Cha do Cemiterio",
+    "wof:parent_id":85670355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.98963,
+    16.88261,
+    -24.98963,
+    16.88261
+],
+  "geometry": {"coordinates":[-24.98963,16.88261],"type":"Point"}
+}

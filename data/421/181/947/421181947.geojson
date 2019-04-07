@@ -1,0 +1,149 @@
+{
+  "id": 421181947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.21667,15.13333,-23.21667,15.13333",
+    "geom:latitude":15.13333,
+    "geom:longitude":-23.21667,
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Vila do Maio"
+    ],
+    "name:ceb_x_preferred":[
+        "Vila do Maio"
+    ],
+    "name:chi_x_preferred":[
+        "\u99ac\u7d04\u57ce"
+    ],
+    "name:deu_x_preferred":[
+        "Cidade do Maio"
+    ],
+    "name:dut_x_preferred":[
+        "Vila do Maio"
+    ],
+    "name:eng_x_preferred":[
+        "Vila do Maio"
+    ],
+    "name:eng_x_variant":[
+        "Porto Ingl\u00eas"
+    ],
+    "name:fra_x_preferred":[
+        "Vila do Maio"
+    ],
+    "name:fre_x_preferred":[
+        "Vila do Maio"
+    ],
+    "name:ger_x_preferred":[
+        "Vila do Maio"
+    ],
+    "name:ita_x_preferred":[
+        "Vila do Maio"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30fc\u30e9\u30fb\u30c9\u30fb\u30de\u30a4\u30aa"
+    ],
+    "name:kor_x_preferred":[
+        "\ube4c\ub77c\ub450\ub9c8\uc774\uc6b0"
+    ],
+    "name:nds_x_preferred":[
+        "Vila do Maio"
+    ],
+    "name:nob_x_preferred":[
+        "Vila do Maio"
+    ],
+    "name:nor_x_preferred":[
+        "Vila do Maio"
+    ],
+    "name:pol_x_preferred":[
+        "Vila do Maio"
+    ],
+    "name:por_x_preferred":[
+        "Vila do Maio"
+    ],
+    "name:spa_x_preferred":[
+        "Vila do Maio"
+    ],
+    "name:swe_x_preferred":[
+        "Vila do Maio"
+    ],
+    "name:unk_x_variant":[
+        "Port Ingles"
+    ],
+    "name:wol_x_preferred":[
+        "Cidade do Maio"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u7d04\u57ce"
+    ],
+    "qs:gn_country":"CV",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":3374120,
+    "qs:gn_pop":3009,
+    "qs:name":"Vila do Maio",
+    "qs:name_adm0":"Cabo Verde",
+    "qs:name_adm1":"Maio",
+    "qs:photos":10,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":10,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":519920,
+    "qs:woe_adm0":23424794,
+    "qs:woe_id":1310917,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":135,
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374120,
+        "gp:id":1310917,
+        "qs:id":519920,
+        "wd:id":"Q489776",
+        "wk:page":"Vila do Maio"
+    },
+    "wof:country":"CV",
+    "wof:created":1459009313,
+    "wof:geomhash":"2ba61ddd7fcb095699c42ac884f0b7a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":421181947,
+            "region_id":85670335
+        }
+    ],
+    "wof:id":421181947,
+    "wof:lastmodified":1527716325,
+    "wof:name":"Vila do Maio",
+    "wof:parent_id":85670335,
+    "wof:placetype":"locality",
+    "wof:population":3009,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.21667,
+    15.13333,
+    -23.21667,
+    15.13333
+],
+  "geometry": {"coordinates":[-23.21667,15.13333],"type":"Point"}
+}

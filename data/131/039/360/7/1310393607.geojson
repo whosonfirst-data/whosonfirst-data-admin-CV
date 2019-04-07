@@ -1,0 +1,70 @@
+{
+  "id": 1310393607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.02183,16.87642,-25.02183,16.87642",
+    "geom:latitude":16.87642,
+    "geom:longitude":-25.02183,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Lazareto",
+    "gn:country_code":"CV",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374509,
+    "gn:latitude":16.87642,
+    "gn:longitude":-25.02183,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Lazareto",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lazaretto",
+        "Lazareto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374509,
+        "wk:page":"Lazareto_%28Mindelo%29"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"7cddf2956d89de4f458b7f88695c84c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1310393607,
+            "region_id":85670355
+        }
+    ],
+    "wof:id":1310393607,
+    "wof:lastmodified":1537619235,
+    "wof:name":"Lazareto",
+    "wof:parent_id":85670355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.02183,
+    16.87642,
+    -25.02183,
+    16.87642
+],
+  "geometry": {"coordinates":[-25.02183,16.87642],"type":"Point"}
+}

@@ -1,0 +1,219 @@
+{
+  "id": 85670315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003381,
+    "geom:area_square_m":40368835.515069,
+    "geom:bbox":"-23.6479591112,15.0393402824,-23.5784751958,15.1057778362",
+    "geom:latitude":15.073006,
+    "geom:longitude":-23.612637,
+    "gn:population":8643,
+    "iso:country":"CV",
+    "label:eng_x_preferred_longname":[
+        "S\u00e3o Salvador do Mundo County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "lbl:latitude":15.072752,
+    "lbl:longitude":-23.612637,
+    "mps:latitude":15.072752,
+    "mps:longitude":-23.612637,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bre_x_preferred":[
+        "S\u00e3o Salvador do Mundo"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043e \u0421\u0430\u043b\u0432\u0430\u0434\u043e\u0440 \u0434\u043e \u041c\u0443\u043d\u0434\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "S\u00e3o Salvador do Mundo"
+    ],
+    "name:ceb_x_preferred":[
+        "Concelho de S\u00e3o Salvador do Mundo"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03ac\u03bf \u03a3\u03b1\u03bb\u03b2\u03b1\u03b4\u03cc\u03c1 \u03bd\u03c4\u03bf \u039c\u03bf\u03cd\u03bd\u03c4\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e3o Salvador do Mundo Municipality"
+    ],
+    "name:eng_x_variant":[
+        "S\u00e3o Salvador do Mundo",
+        "S\u00e3o Salvador do Mundo"
+    ],
+    "name:fra_x_preferred":[
+        "S\u00e3o Salvador do Mundo"
+    ],
+    "name:ita_x_preferred":[
+        "Contea di S\u00e3o Salvador do Mundo"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0c1\uc0b4\ubc14\ub3c4\ub974\ub450\ubb38\ub450 \uc2dc"
+    ],
+    "name:lit_x_preferred":[
+        "San Salvador do Mundas"
+    ],
+    "name:por_x_colloquial":[
+        "Sao Salvador do Mundo"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Salvador do Mundo"
+    ],
+    "name:spa_x_preferred":[
+        "S\u00e3o Salvador do Mundo"
+    ],
+    "name:unk_x_variant":[
+        "Concelho de S\u00e3o Salvador do Mundo"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"CPV",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"CPV-5049",
+    "ne:adm1_code":"CPV-5049",
+    "ne:admin":"Cape Verde",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"CV.SS",
+    "ne:code_local":"72",
+    "ne:datarank":"10",
+    "ne:diss_me":"5049",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"CV26",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Cape Verde",
+    "ne:gn_a1_code":"CV.26",
+    "ne:gn_id":"7602871",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Concelho de Sao Salvador do Mundo",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"CV26",
+    "ne:gns_id":"10874253",
+    "ne:gns_lang":"por",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Sao Salvador do Mundo, Concelho de",
+    "ne:gns_region":"",
+    "ne:gu_a3":"CPV",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"CV-SS",
+    "ne:iso_a2":"CV",
+    "ne:labelrank":"20",
+    "ne:latitude":"15.06780000000",
+    "ne:longitude":"-23.61640000000",
+    "ne:mapcolor13":11,
+    "ne:mapcolor9":4,
+    "ne:name":"S\u00e3o Salvador do Mundo",
+    "ne:name_alt":"",
+    "ne:name_len":21,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"SS",
+    "ne:provnum_ne":"0",
+    "ne:region":"Ilhas de Sotavento",
+    "ne:region_cod":"CV-S",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"CPV",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/S%C3%A3o_Salvador_do_Mundo",
+    "ne:woe_id":56051557,
+    "ne:woe_label":"",
+    "ne:woe_name":"S\u00e3o Salvador do Mundo",
+    "qs:a0":"Cape Verde",
+    "qs:a0_lc":"CV",
+    "qs:a1":"S\u00e3o Salvador do Mundo",
+    "qs:a1_lc":"CPV-5049",
+    "qs:a1r":"Ilhas de Sotavento",
+    "qs:a1r_lc":"CV-S",
+    "qs:adm0":"Cape Verde",
+    "qs:adm0_a3":"CPV",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-06-16",
+    "statoids:area_km":"30",
+    "statoids:area_mi":"12",
+    "statoids:as_of_date":"2010-06-16",
+    "statoids:capital":"Assomada",
+    "statoids:country":"CV",
+    "statoids:gec":"CV26",
+    "statoids:hasc":"CV.SS",
+    "statoids:iso":"SS",
+    "statoids:name":"S\u00e3o Salvador do Mundo",
+    "statoids:population":"8677",
+    "statoids:timezone":"-1",
+    "statoids:type":"county",
+    "unlc:subdivision":"CV-SS",
+    "wd:wordcount":383,
+    "wof:belongsto":[
+        102191573,
+        85632721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"CV26",
+        "gn:id":7602871,
+        "gp:id":56051557,
+        "hasc:id":"CV.SS",
+        "iso:id":"CV-SS",
+        "qs:id":1002263,
+        "unlc:id":"CV-SS",
+        "wd:id":"Q494877",
+        "wk:page":"S\u00e3o Salvador do Mundo, Cape Verde"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"8f7ef6d4c097d94d6b97a9675fa03f77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "region_id":85670315
+        }
+    ],
+    "wof:id":85670315,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lang_x_official":[
+        "por"
+    ],
+    "wof:lang_x_spoken":[
+        "por"
+    ],
+    "wof:lastmodified":1553550349,
+    "wof:name":"S\u00e3o Salvador do Mundo",
+    "wof:parent_id":85632721,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"county",
+    "wof:population":8677,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:shortcode":"SS",
+    "wof:subdivision":"CV-SS",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.64795911122394,
+    15.03934028242816,
+    -23.57847519577365,
+    15.10577783617822
+],
+  "geometry": {"coordinates":[[[-23.57997618675159,15.08155686046081],[-23.58179707377587,15.07366635182075],[-23.58511895087884,15.05594967064081],[-23.60505021709378,15.04155486746322],[-23.61203886759961,15.04091953600783],[-23.6294106533789,15.03934028242816],[-23.63702845519902,15.0490849476123],[-23.64431555921561,15.06305189562852],[-23.64795911122394,15.08187691298917],[-23.64188652454345,15.087342240552],[-23.61833772820353,15.10577783617822],[-23.6072648021289,15.10356325114316],[-23.58068978080871,15.09802678810581],[-23.57847519577365,15.08806115499834],[-23.57997618675159,15.08155686046081]]],"type":"Polygon"}
+}

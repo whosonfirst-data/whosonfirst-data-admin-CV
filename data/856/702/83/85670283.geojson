@@ -1,0 +1,215 @@
+{
+  "id": 85670283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.024485,
+    "geom:area_square_m":292563908.631472,
+    "geom:bbox":"-24.5262345042,14.815985419,-24.292836067,15.0250152334",
+    "geom:latitude":14.909571,
+    "geom:longitude":-24.427909,
+    "gn:population":22227,
+    "iso:country":"CV",
+    "label:eng_x_preferred_longname":[
+        "S\u00e3o Filipe County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "lbl:latitude":14.926747,
+    "lbl:longitude":-24.449127,
+    "mps:latitude":14.926747,
+    "mps:longitude":-24.449127,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bre_x_preferred":[
+        "S\u00e3o Filipe"
+    ],
+    "name:cat_x_preferred":[
+        "S\u00e3o Filipe"
+    ],
+    "name:ceb_x_preferred":[
+        "Concelho do S\u00e3o Filipe"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e3o Filipe Municipality"
+    ],
+    "name:eng_x_variant":[
+        "S\u00e3o Filipe",
+        "S\u00e3o Filipe"
+    ],
+    "name:fra_x_preferred":[
+        "S\u00e3o Filipe"
+    ],
+    "name:ita_x_preferred":[
+        "Contea di S\u00e3o Filipe"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0c1\ud544\ub9ac\ud504 \uc2dc"
+    ],
+    "name:lit_x_preferred":[
+        "San Filip\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "S\u00e3o Filipe"
+    ],
+    "name:por_x_colloquial":[
+        "Sao Filipe"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Filipe"
+    ],
+    "name:spa_x_preferred":[
+        "S\u00e3o Filipe"
+    ],
+    "name:unk_x_variant":[
+        "Concelho de S\u00e3o Filipe"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"CPV",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"CPV-5042",
+    "ne:adm1_code":"CPV-5042",
+    "ne:admin":"Cape Verde",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"CV.SF",
+    "ne:code_local":"82",
+    "ne:datarank":"10",
+    "ne:diss_me":"5042",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"CV18",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Cape Verde",
+    "ne:gn_a1_code":"CV.18",
+    "ne:gn_id":"3411927",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Concelho do Sao Filipe",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"CV18",
+    "ne:gns_id":"9146429",
+    "ne:gns_lang":"por",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Sao Filipe, Concelho do",
+    "ne:gns_region":"",
+    "ne:gu_a3":"CPV",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"CV-SF",
+    "ne:iso_a2":"CV",
+    "ne:labelrank":"20",
+    "ne:latitude":"14.92410000000",
+    "ne:longitude":"-24.44030000000",
+    "ne:mapcolor13":11,
+    "ne:mapcolor9":4,
+    "ne:name":"S\u00e3o Filipe",
+    "ne:name_alt":"",
+    "ne:name_len":10,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"SF",
+    "ne:provnum_ne":"0",
+    "ne:region":"Ilhas de Sotavento",
+    "ne:region_cod":"CV-S",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"CPV",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/S%C3%A3o_Filipe_(municipality)",
+    "ne:woe_id":56051564,
+    "ne:woe_label":"S\u00c3\u00a3o Filipe, CV, Cape Verde",
+    "ne:woe_name":"S\u00c3\u00a3o Filipe",
+    "qs:a0":"Cape Verde",
+    "qs:a0_lc":"CV",
+    "qs:a1":"S\u00e3o Filipe",
+    "qs:a1_lc":"CPV-5042",
+    "qs:a1r":"Ilhas de Sotavento",
+    "qs:a1r_lc":"CV-S",
+    "qs:adm0":"Cape Verde",
+    "qs:adm0_a3":"CPV",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-06-16",
+    "statoids:area_km":"394",
+    "statoids:area_mi":"152",
+    "statoids:as_of_date":"2010-06-16",
+    "statoids:capital":"S\u00e3o Filipe",
+    "statoids:country":"CV",
+    "statoids:gec":"CV18",
+    "statoids:hasc":"CV.FP",
+    "statoids:iso":"SF",
+    "statoids:name":"S\u00e3o Filipe",
+    "statoids:population":"22228",
+    "statoids:timezone":"-1",
+    "statoids:type":"county",
+    "unlc:subdivision":"CV-SF",
+    "wof:belongsto":[
+        102191573,
+        85632721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"CV18",
+        "gn:id":3411927,
+        "gp:id":56051564,
+        "hasc:id":"CV.FP",
+        "iso:id":"CV-SF",
+        "qs:id":1086865,
+        "unlc:id":"CV-SF",
+        "wd:id":"Q6430079",
+        "wk:page":"S\u00e3o Filipe, Cape Verde (municipality)"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"137fbb62b7252c6f884e975fc4fb08aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "region_id":85670283
+        }
+    ],
+    "wof:id":85670283,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lang_x_official":[
+        "por"
+    ],
+    "wof:lang_x_spoken":[
+        "por"
+    ],
+    "wof:lastmodified":1553550348,
+    "wof:name":"S\u00e3o Filipe",
+    "wof:parent_id":85632721,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"county",
+    "wof:population":22228,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:shortcode":"FP",
+    "wof:subdivision":"CV-SF",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.52623450421896,
+    14.81598541899194,
+    -24.29283606703081,
+    15.02501523336639
+],
+  "geometry": {"coordinates":[[[-24.37404423355451,14.94491775475063],[-24.37861866841678,14.92731749980283],[-24.38343133818569,14.9080668234252],[-24.37380599954719,14.88560770053499],[-24.3529510999133,14.86956546977063],[-24.32086663838459,14.87277391538396],[-24.29820716093167,14.89545319231104],[-24.29328365781453,14.8843447942769],[-24.29283606703081,14.87287018421171],[-24.2995499341821,14.86302317887663],[-24.33446204318869,14.83185455904072],[-24.37653561102957,14.81598541899194],[-24.41502844990299,14.82086823138383],[-24.4490860671682,14.8380801455823],[-24.50658118427418,14.8849551452638],[-24.52037512880912,14.90395742439568],[-24.52623450421896,14.92470937683635],[-24.52061926956361,14.9452578801471],[-24.5067439435781,14.96918366149686],[-24.48892167929205,14.99054596582369],[-24.46458899608524,15.00771719019622],[-24.42969106399136,15.02501523336639],[-24.40687914965298,14.99088663620932],[-24.37404423355451,14.94491775475063]]],"type":"Polygon"}
+}

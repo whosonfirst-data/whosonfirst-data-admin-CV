@@ -1,0 +1,64 @@
+{
+  "id": 1276677025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.65168,15.04394,-23.65168,15.04394",
+    "geom:latitude":15.04394,
+    "geom:longitude":-23.65168,
+    "gn:asciiname":"Pico Leao",
+    "gn:country_code":"CV",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11287473,
+    "gn:latitude":15.04394,
+    "gn:longitude":-23.65168,
+    "gn:modification_date":"2016-11-10",
+    "gn:name":"Pico Leao",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11287473
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"b84a874a7ca0bf63cde25152a85ed9f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1276677025,
+            "region_id":85670301
+        }
+    ],
+    "wof:id":1276677025,
+    "wof:lastmodified":1536814478,
+    "wof:name":"Pico Leao",
+    "wof:parent_id":85670301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.65168,
+    15.04394,
+    -23.65168,
+    15.04394
+],
+  "geometry": {"coordinates":[-23.65168,15.04394],"type":"Point"}
+}

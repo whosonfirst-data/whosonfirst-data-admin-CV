@@ -1,0 +1,219 @@
+{
+  "id": 85670305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.005903,
+    "geom:area_square_m":70451228.565104,
+    "geom:bbox":"-23.686989867,15.1190653473,-23.5916007399,15.2297223979",
+    "geom:latitude":15.175676,
+    "geom:longitude":-23.642531,
+    "gn:population":15630,
+    "iso:country":"CV",
+    "label:eng_x_preferred_longname":[
+        "S\u00e3o Miguel County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "lbl:latitude":15.175675,
+    "lbl:longitude":-23.643254,
+    "mps:latitude":15.175675,
+    "mps:longitude":-23.643254,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bre_x_preferred":[
+        "S\u00e3o Miguel"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043e \u041c\u0438\u0433\u0435\u043b"
+    ],
+    "name:cat_x_preferred":[
+        "S\u00e3o Miguel"
+    ],
+    "name:ceb_x_preferred":[
+        "Concelho de S\u00e3o Miguel"
+    ],
+    "name:deu_x_preferred":[
+        "S\u00e3o Miguel"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e3o Miguel Municipality"
+    ],
+    "name:eng_x_variant":[
+        "S\u00e3o Miguel",
+        "S\u00e3o Miguel"
+    ],
+    "name:fra_x_preferred":[
+        "S\u00e3o Miguel"
+    ],
+    "name:ita_x_preferred":[
+        "Contea di S\u00e3o Miguel"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0c1\ubbf8\uac94 \uc2dc"
+    ],
+    "name:lit_x_preferred":[
+        "San Migelis"
+    ],
+    "name:por_x_colloquial":[
+        "Sao Miguel"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Miguel"
+    ],
+    "name:spa_x_preferred":[
+        "S\u00e3o Miguel"
+    ],
+    "name:unk_x_variant":[
+        "Concelho de S\u00e3o Miguel"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"CPV",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"CPV-5047",
+    "ne:adm1_code":"CPV-5047",
+    "ne:admin":"Cape Verde",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"CV.SM",
+    "ne:code_local":"76",
+    "ne:datarank":"10",
+    "ne:diss_me":"5047",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"CV19",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Cape Verde",
+    "ne:gn_a1_code":"CV.19",
+    "ne:gn_id":"3411928",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Concelho de Sao Miguel",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"CV19",
+    "ne:gns_id":"9146436",
+    "ne:gns_lang":"por",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Sao Miguel",
+    "ne:gns_region":"",
+    "ne:gu_a3":"CPV",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"CV-SM",
+    "ne:iso_a2":"CV",
+    "ne:labelrank":"20",
+    "ne:latitude":"15.17800000000",
+    "ne:longitude":"-23.63560000000",
+    "ne:mapcolor13":11,
+    "ne:mapcolor9":4,
+    "ne:name":"S\u00e3o Miguel",
+    "ne:name_alt":"",
+    "ne:name_len":10,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"SM",
+    "ne:provnum_ne":"0",
+    "ne:region":"Ilhas de Sotavento",
+    "ne:region_cod":"CV-S",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"CPV",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/S%C3%A3o_Miguel_(Cape_Verde)",
+    "ne:woe_id":56051558,
+    "ne:woe_label":"S\u00c3\u00a3o Miguel, CV, Cape Verde",
+    "ne:woe_name":"S\u00c3\u00a3o Miguel",
+    "qs:a0":"Cape Verde",
+    "qs:a0_lc":"CV",
+    "qs:a1":"S\u00e3o Miguel",
+    "qs:a1_lc":"CPV-5047",
+    "qs:a1r":"Ilhas de Sotavento",
+    "qs:a1r_lc":"CV-S",
+    "qs:adm0":"Cape Verde",
+    "qs:adm0_a3":"CPV",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-06-16",
+    "statoids:area_km":"91",
+    "statoids:area_mi":"35",
+    "statoids:as_of_date":"2010-06-16",
+    "statoids:capital":"Calheta",
+    "statoids:country":"CV",
+    "statoids:gec":"CV19",
+    "statoids:hasc":"CV.SM",
+    "statoids:iso":"SM",
+    "statoids:name":"S\u00e3o Miguel",
+    "statoids:population":"15648",
+    "statoids:timezone":"-1",
+    "statoids:type":"county",
+    "unlc:subdivision":"CV-SM",
+    "wd:wordcount":229,
+    "wof:belongsto":[
+        102191573,
+        85632721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"CV19",
+        "gn:id":3411928,
+        "gp:id":56051558,
+        "hasc:id":"CV.SM",
+        "iso:id":"CV-SM",
+        "qs:id":1105207,
+        "unlc:id":"CV-SM",
+        "wd:id":"Q494874",
+        "wk:page":"S\u00e3o Miguel, Cape Verde"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"a7e43bd93b59f4314258609509dac3a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "region_id":85670305
+        }
+    ],
+    "wof:id":85670305,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lang_x_official":[
+        "por"
+    ],
+    "wof:lang_x_spoken":[
+        "por"
+    ],
+    "wof:lastmodified":1553550349,
+    "wof:name":"S\u00e3o Miguel",
+    "wof:parent_id":85632721,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"county",
+    "wof:population":15648,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:shortcode":"SM",
+    "wof:subdivision":"CV-SM",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.68698986698871,
+    15.11906534728797,
+    -23.59160073988221,
+    15.22972239787043
+],
+  "geometry": {"coordinates":[[[-23.59160073988221,15.17021233892837],[-23.62055231323865,15.13678202756859],[-23.62660042127237,15.13140593163848],[-23.64048357945359,15.11906534728797],[-23.64823462752599,15.12127993232309],[-23.65044921256106,15.13678202756859],[-23.66816589374093,15.14896224661044],[-23.68698986698871,15.166678926891],[-23.68588257492087,15.18439560807093],[-23.67038047877605,15.20654145932093],[-23.65607662673489,15.22972239787043],[-23.63878333198511,15.22626373928017],[-23.63027910079984,15.2191836609972],[-23.61510169228922,15.19501373889301],[-23.59160073988221,15.17021233892837]]],"type":"Polygon"}
+}

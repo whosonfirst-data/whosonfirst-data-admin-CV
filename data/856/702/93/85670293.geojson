@@ -1,0 +1,218 @@
+{
+  "id": 85670293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00594,
+    "geom:area_square_m":70977785.748993,
+    "geom:bbox":"-24.3834313382,14.8695654698,-24.2957657543,14.954845977",
+    "geom:latitude":14.913944,
+    "geom:longitude":-24.338084,
+    "gn:population":5299,
+    "iso:country":"CV",
+    "label:eng_x_preferred_longname":[
+        "Santa Catarina do Fogo County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "lbl:latitude":14.91149,
+    "lbl:longitude":-24.341633,
+    "mps:latitude":14.91149,
+    "mps:longitude":-24.341633,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bre_x_preferred":[
+        "Santa Catarina do Fogo"
+    ],
+    "name:cat_x_preferred":[
+        "Santa Catarina do Fogo"
+    ],
+    "name:ceb_x_preferred":[
+        "Concelho de Santa Catarina do Fogo"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Catarina do Fogo"
+    ],
+    "name:eng_x_variant":[
+        "Santa Catarina do Fogo Municipality"
+    ],
+    "name:fra_x_preferred":[
+        "Santa Catarina do Fogo"
+    ],
+    "name:ita_x_preferred":[
+        "Contea di Santa Catarina do Fogo"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud0c0\uce74\ud0c0\ub9ac\ub098\ub450\ud3ec\uad6c \uc2dc"
+    ],
+    "name:lit_x_preferred":[
+        "Santa Katarinos savivaldyb\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "Santa Catarina do Fogo"
+    ],
+    "name:por_x_preferred":[
+        "Santa Catarina do Fogo"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Catarina do Fogo"
+    ],
+    "name:swe_x_preferred":[
+        "Concelho de Santa Catarina do Fogo"
+    ],
+    "name:unk_x_variant":[
+        "Concelho de Santa Catarina do Fogo"
+    ],
+    "name:zho_x_preferred":[
+        "\u798f\u6208\u8056\u5361\u5854\u7433\u5a1c\u7e23"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"CPV",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"CPV-5044",
+    "ne:adm1_code":"CPV-5044",
+    "ne:admin":"Cape Verde",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"CV.CF",
+    "ne:code_local":"82",
+    "ne:datarank":"10",
+    "ne:diss_me":"5044",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"CV24",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Cape Verde",
+    "ne:gn_a1_code":"CV.24",
+    "ne:gn_id":"7602870",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Concelho de Santa Catarina do Fogo",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"CV24",
+    "ne:gns_id":"10874226",
+    "ne:gns_lang":"por",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Santa Catarina do Fogo, Concelho de",
+    "ne:gns_region":"",
+    "ne:gu_a3":"CPV",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"CV-CF",
+    "ne:iso_a2":"CV",
+    "ne:labelrank":"20",
+    "ne:latitude":"14.92410000000",
+    "ne:longitude":"-24.33010000000",
+    "ne:mapcolor13":11,
+    "ne:mapcolor9":4,
+    "ne:name":"Santa Catarina do Fogo",
+    "ne:name_alt":"",
+    "ne:name_len":22,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"CF",
+    "ne:provnum_ne":"0",
+    "ne:region":"Ilhas de Sotavento",
+    "ne:region_cod":"CV-S",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"CPV",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Santa_Catarina_do_Fogo",
+    "ne:woe_id":56051565,
+    "ne:woe_label":"",
+    "ne:woe_name":"Santa Catarina do Fogo",
+    "qs:a0":"Cape Verde",
+    "qs:a0_lc":"CV",
+    "qs:a1":"Santa Catarina do Fogo",
+    "qs:a1_lc":"CPV-5044",
+    "qs:a1r":"Ilhas de Sotavento",
+    "qs:a1r_lc":"CV-S",
+    "qs:adm0":"Cape Verde",
+    "qs:adm0_a3":"CPV",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-06-16",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"2010-06-16",
+    "statoids:capital":"Cova Figueira",
+    "statoids:country":"CV",
+    "statoids:gec":"CV24",
+    "statoids:hasc":"CV.CF",
+    "statoids:iso":"CF",
+    "statoids:name":"Santa Catarina do Fogo",
+    "statoids:population":"5299",
+    "statoids:timezone":"-1",
+    "statoids:type":"county",
+    "unlc:subdivision":"CV-CF",
+    "wd:wordcount":239,
+    "wof:belongsto":[
+        102191573,
+        85632721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"CV24",
+        "gn:id":7602870,
+        "gp:id":56051565,
+        "hasc:id":"CV.CF",
+        "iso:id":"CV-CF",
+        "qs:id":78463,
+        "unlc:id":"CV-CF",
+        "wd:id":"Q2608046",
+        "wk:page":"Santa Catarina do Fogo, Cape Verde"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"28cf22abc89cc7d959c1d22f06d0aa12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "region_id":85670293
+        }
+    ],
+    "wof:id":85670293,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lang_x_official":[
+        "por"
+    ],
+    "wof:lang_x_spoken":[
+        "por"
+    ],
+    "wof:lastmodified":1553550348,
+    "wof:name":"Santa Catarina do Fogo",
+    "wof:parent_id":85632721,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"county",
+    "wof:population":5299,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:shortcode":"CF",
+    "wof:subdivision":"CV-CF",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.38343133818569,
+    14.86956546977063,
+    -24.29576575428609,
+    14.95484597696031
+],
+  "geometry": {"coordinates":[[[-24.29653886547624,14.91754791890139],[-24.30150305931869,14.90648021069325],[-24.29820716093167,14.89545319231104],[-24.32086663838459,14.87277391538396],[-24.3529510999133,14.86956546977063],[-24.37380599954719,14.88560770053499],[-24.38343133818569,14.9080668234252],[-24.37861866841678,14.92731749980283],[-24.37404423355451,14.94491775475063],[-24.33792582701528,14.95312648310079],[-24.30147575140478,14.95484597696031],[-24.29576575428609,14.9304873725942],[-24.29653886547624,14.91754791890139]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1225808751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.48333,15.06667,-23.48333,15.06667",
+    "geom:latitude":15.06667,
+    "geom:longitude":-23.48333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Praia Baixo",
+    "gn:country_code":"CV",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374329,
+    "gn:latitude":15.06667,
+    "gn:longitude":-23.48333,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Praia Baixo",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Praia Abaixo",
+        "Praia Baixo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374329,
+        "wk:page":"Praia_Baixo"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"3f36395dc4573b757e38b55bb8568660",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1225808751,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225808751,
+    "wof:lastmodified":1537619235,
+    "wof:name":"Praia Baixo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.48333,
+    15.06667,
+    -23.48333,
+    15.06667
+],
+  "geometry": {"coordinates":[-23.48333,15.06667],"type":"Point"}
+}

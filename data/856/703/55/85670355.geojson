@@ -1,0 +1,218 @@
+{
+  "id": 85670355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.022407,
+    "geom:area_square_m":265191681.516188,
+    "geom:bbox":"-25.0941462877,16.6055050202,-24.5695120314,16.923000393",
+    "geom:latitude":16.832448,
+    "geom:longitude":-24.936654,
+    "gn:population":75601,
+    "iso:country":"CV",
+    "label:eng_x_preferred_longname":[
+        "S\u00e3o Vicente County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "lbl:latitude":16.848545,
+    "lbl:longitude":-24.977166,
+    "mps:latitude":16.848545,
+    "mps:longitude":-24.977166,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bre_x_preferred":[
+        "S\u00e3o Vicente"
+    ],
+    "name:cat_x_preferred":[
+        "S\u00e3o Vicente"
+    ],
+    "name:ceb_x_preferred":[
+        "Concelho de S\u00e3o Vicente"
+    ],
+    "name:dan_x_preferred":[
+        "S\u00e3o Vicente"
+    ],
+    "name:deu_x_preferred":[
+        "S\u00e3o Vicente"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03ac\u03bf \u0392\u03b9\u03c3\u03ad\u03bd\u03c4\u03b5"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e3o Vicente Municipality"
+    ],
+    "name:eng_x_variant":[
+        "S\u00e3o Vicente",
+        "S\u00e3o Vicente"
+    ],
+    "name:est_x_preferred":[
+        "S\u00e3o Vicente"
+    ],
+    "name:fin_x_preferred":[
+        "S\u00e3o Vicente"
+    ],
+    "name:fra_x_preferred":[
+        "S\u00e3o Vicente"
+    ],
+    "name:por_x_colloquial":[
+        "Sao Vicente"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Vicente"
+    ],
+    "name:spa_x_preferred":[
+        "S\u00e3o Vicente"
+    ],
+    "name:unk_x_variant":[
+        "Concelho de S\u00e3o Vicente"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"CPV",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"CPV-5059",
+    "ne:adm1_code":"CPV-5059",
+    "ne:admin":"Cape Verde",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"CV.SV",
+    "ne:code_local":"21",
+    "ne:datarank":"10",
+    "ne:diss_me":"5059",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"CV11",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Cape Verde",
+    "ne:gn_a1_code":"CV.11",
+    "ne:gn_id":"3374198",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Concelho de Sao Vicente",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"CV11",
+    "ne:gns_id":"-1313603",
+    "ne:gns_lang":"por",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Sao Vicente",
+    "ne:gns_region":"",
+    "ne:gu_a3":"CPV",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"CV-SV",
+    "ne:iso_a2":"CV",
+    "ne:labelrank":"20",
+    "ne:latitude":"16.84490000000",
+    "ne:longitude":"-24.97200000000",
+    "ne:mapcolor13":11,
+    "ne:mapcolor9":4,
+    "ne:name":"S\u00e3o Vicente",
+    "ne:name_alt":"",
+    "ne:name_len":11,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"Ilhas de Barlavento",
+    "ne:region_cod":"CV-B",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"CPV",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/S%C3%A3o_Vicente,_Cape_Verde_(municipality)",
+    "ne:woe_id":2345130,
+    "ne:woe_label":"S\u00c3\u00a3o Vicente, CV, Cape Verde",
+    "ne:woe_name":"S\u00c3\u00a3o Vicente",
+    "qs:a0":"Cape Verde",
+    "qs:a0_lc":"CV",
+    "qs:a1":"S\u00e3o Vicente",
+    "qs:a1_lc":"CPV-5059",
+    "qs:a1r":"Ilhas de Barlavento",
+    "qs:a1r_lc":"CV-B",
+    "qs:adm0":"Cape Verde",
+    "qs:adm0_a3":"CPV",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-06-16",
+    "statoids:area_km":"227",
+    "statoids:area_mi":"88",
+    "statoids:as_of_date":"2010-06-16",
+    "statoids:capital":"Mindelo",
+    "statoids:country":"CV",
+    "statoids:gec":"CV11",
+    "statoids:hasc":"CV.SV",
+    "statoids:iso":"SV",
+    "statoids:name":"S\u00e3o Vicente",
+    "statoids:population":"76107",
+    "statoids:timezone":"-1",
+    "statoids:type":"county",
+    "unlc:subdivision":"CV-SV",
+    "wof:belongsto":[
+        102191573,
+        85632721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"CV11",
+        "gn:id":3374198,
+        "gp:id":2345130,
+        "hasc:id":"CV.SV",
+        "iso:id":"CV-SV",
+        "qs:id":219537,
+        "unlc:id":"CV-SV",
+        "wd:id":"Q648842",
+        "wk:page":"S\u00e3o Vicente, Cape Verde (municipality)"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"f6c151a3d703bdc63b4d8a61e05a9031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "region_id":85670355
+        }
+    ],
+    "wof:id":85670355,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lang_x_official":[
+        "por"
+    ],
+    "wof:lang_x_spoken":[
+        "por"
+    ],
+    "wof:lastmodified":1553550350,
+    "wof:name":"S\u00e3o Vicente",
+    "wof:parent_id":85632721,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"county",
+    "wof:population":76107,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:shortcode":"SV",
+    "wof:subdivision":"CV-SV",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.09414628772095,
+    16.60550502024051,
+    -24.56951203135515,
+    16.92300039295384
+],
+  "geometry": {"coordinates":[[[[-24.56951203135515,16.6199722521178],[-24.57529892320667,16.60550502024051],[-24.58976615508396,16.60695174342828],[-24.6013399396864,16.60984518980371],[-24.60423338606188,16.62141897530552],[-24.59265960056007,16.62431242078162],[-24.56951203135515,16.6199722521178]]],[[[-24.72575812843485,16.7574109486564],[-24.70695072789374,16.75307077909321],[-24.69537694239193,16.76030439503188],[-24.68380315778944,16.75596422546869],[-24.68524988097715,16.74294371767849],[-24.70261055833055,16.73571010173987],[-24.72286468205937,16.7342633785521],[-24.74022535941276,16.7342633785521],[-24.74890569853909,16.74294371767849],[-24.75469259129,16.75451750228098],[-24.7734999918311,16.76175111821959],[-24.78796722280902,16.77477162600979],[-24.78796722280902,16.78923885698771],[-24.7734999918311,16.80225936567723],[-24.74890569853909,16.7935790265509],[-24.73588519074889,16.77911179557293],[-24.72575812843485,16.7574109486564]]],[[[-24.92772376184212,16.91779205925616],[-24.91877193897375,16.90827057522694],[-24.91470292849732,16.89915599215539],[-24.91974850199171,16.8950869816789],[-24.92292233000148,16.89081452027392],[-24.91445878774283,16.88141510662194],[-24.9001358709736,16.87201569207059],[-24.88589433475568,16.86774323156493],[-24.8810929029151,16.86229075711282],[-24.87629147017515,16.84983958492893],[-24.8736059236744,16.8359235700168],[-24.87507076730202,16.82615794523304],[-24.89110266755404,16.81395091470301],[-24.91551673131204,16.8054873724443],[-24.94286048052669,16.80048248967523],[-24.96812903602614,16.79889557567031],[-24.97451738187164,16.79669830887991],[-24.98420162700342,16.78733958505387],[-24.98802649582609,16.78514232006205],[-24.9952286444863,16.78611888218074],[-25.0581762360444,16.80963776257272],[-25.06822669230797,16.81509023612557],[-25.07616126233233,16.82245514498902],[-25.08112545527547,16.8323428410493],[-25.09414628772095,16.82615794523304],[-25.08975175683804,16.84747955883461],[-25.07819576712092,16.86505768416487],[-25.06358801977126,16.87702057483972],[-25.05011959474348,16.88141510662194],[-25.01878821470427,16.88202545850817],[-25.00597083228803,16.88768138209014],[-25.01219641793028,16.90127187749522],[-24.98399817607492,16.91596100539613],[-24.97809811083908,16.92300039295384],[-24.97126217420993,16.92300039295384],[-24.96519934787159,16.9089216169391],[-24.95518958233333,16.91079336152444],[-24.93773352827964,16.92300039295384],[-24.92772376184212,16.91779205925616]]]],"type":"MultiPolygon"}
+}

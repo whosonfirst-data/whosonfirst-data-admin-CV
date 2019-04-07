@@ -1,0 +1,157 @@
+{
+  "id": 421173157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-22.91667,16.18333,-22.91667,16.18333",
+    "geom:latitude":16.18333,
+    "geom:longitude":-22.91667,
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Sal Rei"
+    ],
+    "name:ceb_x_preferred":[
+        "Vila de Sal Rei"
+    ],
+    "name:chi_x_preferred":[
+        "\u85a9\u723e\u96f7"
+    ],
+    "name:deu_x_preferred":[
+        "Sal Rei"
+    ],
+    "name:dut_x_preferred":[
+        "Sal Rei"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bb \u03a1\u03ad\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Sal Rei"
+    ],
+    "name:fra_x_preferred":[
+        "Sal Rei"
+    ],
+    "name:fre_x_preferred":[
+        "Sal Rei"
+    ],
+    "name:ger_x_preferred":[
+        "Sal Rei"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b1\u03bb \u03a1\u03ad\u03b9"
+    ],
+    "name:ita_x_preferred":[
+        "Sal Rei"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30eb\u30fb\u30ec\u30a4"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b4\ud5e4\uc774"
+    ],
+    "name:mwl_x_preferred":[
+        "Sal Rei"
+    ],
+    "name:nds_x_preferred":[
+        "Sal Rei"
+    ],
+    "name:nob_x_preferred":[
+        "Sal Rei"
+    ],
+    "name:nor_x_preferred":[
+        "Sal Rei"
+    ],
+    "name:pol_x_preferred":[
+        "Sal Rei"
+    ],
+    "name:por_x_preferred":[
+        "Sal Rei"
+    ],
+    "name:spa_x_preferred":[
+        "Sal Rei"
+    ],
+    "name:swe_x_preferred":[
+        "Sal Rei"
+    ],
+    "name:unk_x_variant":[
+        "Sal-Rel"
+    ],
+    "name:wol_x_preferred":[
+        "Sal Rei"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u723e\u96f7"
+    ],
+    "qs:gn_country":"CV",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":3374235,
+    "qs:gn_pop":2122,
+    "qs:name":"Sal Rei",
+    "qs:name_adm0":"Cabo Verde",
+    "qs:name_adm1":"Boa Vista",
+    "qs:photos":2329,
+    "qs:photos_1k":472,
+    "qs:photos_9k":10,
+    "qs:photos_9r":10,
+    "qs:photos_all":2329,
+    "qs:photos_sr":17,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":492774,
+    "qs:woe_adm0":23424794,
+    "qs:woe_id":1310882,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":16.176044,
+    "wd:longitude":-22.917078,
+    "wd:wordcount":408,
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374235,
+        "gp:id":1310882,
+        "qs:id":492774,
+        "wd:id":"Q501656",
+        "wk:page":"Sal Rei"
+    },
+    "wof:country":"CV",
+    "wof:created":1459008972,
+    "wof:geomhash":"bf470ddc0a373d567c97b0757d526112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":421173157,
+            "region_id":85670339
+        }
+    ],
+    "wof:id":421173157,
+    "wof:lastmodified":1527716253,
+    "wof:name":"Sal Rei",
+    "wof:parent_id":85670339,
+    "wof:placetype":"locality",
+    "wof:population":2122,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.91667,
+    16.18333,
+    -22.91667,
+    16.18333
+],
+  "geometry": {"coordinates":[-22.91667,16.18333],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1260099021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.3796,14.87058,-24.3796,14.87058",
+    "geom:latitude":14.87058,
+    "geom:longitude":-24.3796,
+    "gn:asciiname":"Queimada",
+    "gn:country_code":"CV",
+    "gn:dem":849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11428784,
+    "gn:latitude":14.87058,
+    "gn:longitude":-24.3796,
+    "gn:modification_date":"2017-01-30",
+    "gn:name":"Queimada",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11428784
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"f0e89287e84992626edfecdea2a8e498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1260099021,
+            "region_id":85670283
+        }
+    ],
+    "wof:id":1260099021,
+    "wof:lastmodified":1536965504,
+    "wof:name":"Queimada",
+    "wof:parent_id":85670283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.3796,
+    14.87058,
+    -24.3796,
+    14.87058
+],
+  "geometry": {"coordinates":[-24.3796,14.87058],"type":"Point"}
+}

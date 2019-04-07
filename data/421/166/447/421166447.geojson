@@ -1,0 +1,93 @@
+{
+  "id": 421166447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-22.75,16.01667,-22.75,16.01667",
+    "geom:latitude":16.01667,
+    "geom:longitude":-22.75,
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Monte Est\u00e2ncia"
+    ],
+    "name:fra_x_preferred":[
+        "Monte Est\u00e2ncia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30b7\u30e5\u30bf\u30f3\u30b7\u30a2\u5c71"
+    ],
+    "name:nds_x_preferred":[
+        "Monte Est\u00e2ncia"
+    ],
+    "name:nor_x_preferred":[
+        "Monte Est\u00e2ncia"
+    ],
+    "name:por_x_preferred":[
+        "Monte Est\u00e2ncia"
+    ],
+    "name:unk_x_variant":[
+        "Jo\u00e3o Barroza"
+    ],
+    "qs:gn_country":"CV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3374540,
+    "qs:gn_pop":0,
+    "qs:name":"Jo\u00e3o Barrosa",
+    "qs:name_adm0":"Cabo Verde",
+    "qs:name_adm1":"Boa Vista",
+    "qs:photos":35,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":35,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":266850,
+    "qs:woe_adm0":23424794,
+    "qs:woe_id":1310776,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374540,
+        "gp:id":1310776,
+        "qs:id":266850
+    },
+    "wof:country":"CV",
+    "wof:created":1459008690,
+    "wof:geomhash":"ce18cdae29a591eb4fc69ac79ce20926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":421166447,
+            "region_id":85670339
+        }
+    ],
+    "wof:id":421166447,
+    "wof:lastmodified":1501266186,
+    "wof:name":"Jo\u00e3o Barrosa",
+    "wof:parent_id":85670339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.75,
+    16.01667,
+    -22.75,
+    16.01667
+],
+  "geometry": {"coordinates":[-22.75,16.01667],"type":"Point"}
+}

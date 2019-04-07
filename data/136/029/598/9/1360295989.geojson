@@ -1,0 +1,64 @@
+{
+  "id": 1360295989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.58782,15.13191,-23.58782,15.13191",
+    "geom:latitude":15.13191,
+    "geom:longitude":-23.58782,
+    "gn:asciiname":"Ribeirao Boi",
+    "gn:country_code":"CV",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11428545,
+    "gn:latitude":15.13191,
+    "gn:longitude":-23.58782,
+    "gn:modification_date":"2017-01-26",
+    "gn:name":"Ribeir\u00e3o Boi",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11428545
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"eba73e6f2a94fa4a8b8c8585ea625ffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1360295989,
+            "region_id":85670311
+        }
+    ],
+    "wof:id":1360295989,
+    "wof:lastmodified":1536640350,
+    "wof:name":"Ribeirao Boi",
+    "wof:parent_id":85670311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.58782,
+    15.13191,
+    -23.58782,
+    15.13191
+],
+  "geometry": {"coordinates":[-23.58782,15.13191],"type":"Point"}
+}

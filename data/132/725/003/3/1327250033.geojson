@@ -1,0 +1,65 @@
+{
+  "id": 1327250033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.165,17.114,-25.165,17.114",
+    "geom:latitude":17.114,
+    "geom:longitude":-25.165,
+    "gn:asciiname":"Garca de Cima",
+    "gn:country_code":"CV",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11125820,
+    "gn:latitude":17.114,
+    "gn:longitude":-25.165,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Gar\u00e7a de Cima",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11125820,
+        "wk:page":"Gar%C3%A7a_de_Cima"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"1d55e4510f3f5f21ac0a448da8ad30a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1327250033,
+            "region_id":85670363
+        }
+    ],
+    "wof:id":1327250033,
+    "wof:lastmodified":1537504005,
+    "wof:name":"Garca de Cima",
+    "wof:parent_id":85670363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.165,
+    17.114,
+    -25.165,
+    17.114
+],
+  "geometry": {"coordinates":[-25.165,17.114],"type":"Point"}
+}

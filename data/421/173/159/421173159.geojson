@@ -1,0 +1,117 @@
+{
+  "id": 421173159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.09192,17.19942,-25.09192,17.19942",
+    "geom:latitude":17.19942,
+    "geom:longitude":-25.09192,
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Ponta do Sol"
+    ],
+    "name:chi_x_preferred":[
+        "\u84ec\u5854\u675c\u7d22\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "Ponta do Sol"
+    ],
+    "name:eng_x_preferred":[
+        "Ponta do Sol"
+    ],
+    "name:fre_x_preferred":[
+        "Ponta do Sol"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03cc\u03bd\u03c4\u03b1 \u03bd\u03c4\u03bf \u03a3\u03bf\u03bb"
+    ],
+    "name:ita_x_preferred":[
+        "Ponta do Sol"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30f3\u30bf\u30fb\u30c9\u30fb\u30bd\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3f0\ud0c0\ub450\uc220"
+    ],
+    "name:pol_x_preferred":[
+        "Ponta do Sol"
+    ],
+    "name:por_x_preferred":[
+        "Ponta do Sol"
+    ],
+    "name:spa_x_preferred":[
+        "Ponta do Sol"
+    ],
+    "name:swe_x_preferred":[
+        "Ponta do Sol"
+    ],
+    "name:unk_x_variant":[
+        "Sol Point"
+    ],
+    "qs:gn_country":"CV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3374346,
+    "qs:gn_pop":4064,
+    "qs:name":"Ponta do Sol",
+    "qs:name_adm0":"Cabo Verde",
+    "qs:name_adm1":"Ribeira Grande",
+    "qs:photos":570,
+    "qs:photos_1k":116,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":570,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":492775,
+    "qs:woe_adm0":23424794,
+    "qs:woe_id":1310847,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        85632721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374346,
+        "gp:id":1310847,
+        "qs:id":492775,
+        "wd:id":"Q768314",
+        "wk:page":"Ponta do Sol, Cape Verde"
+    },
+    "wof:country":"CV",
+    "wof:created":1459008972,
+    "wof:geomhash":"a62fc64bc50e30504889ffc10ecf1810",
+    "wof:hierarchy":[
+        {
+            "country_id":85632721,
+            "locality_id":421173159
+        }
+    ],
+    "wof:id":421173159,
+    "wof:lastmodified":1553816363,
+    "wof:name":"Ponta do Sol",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":4064,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.09192,
+    17.19942,
+    -25.09192,
+    17.19942
+],
+  "geometry": {"coordinates":[-25.09192,17.19942],"type":"Point"}
+}

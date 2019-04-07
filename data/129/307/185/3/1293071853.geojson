@@ -1,0 +1,65 @@
+{
+  "id": 1293071853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.56667,14.95,-23.56667,14.95",
+    "geom:latitude":14.95,
+    "geom:longitude":-23.56667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Trindade",
+    "gn:country_code":"CV",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374143,
+    "gn:latitude":14.95,
+    "gn:longitude":-23.56667,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Trindade",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374143
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"56434aa83d982c02642025462429f9dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1293071853,
+            "region_id":85670327
+        }
+    ],
+    "wof:id":1293071853,
+    "wof:lastmodified":1536888986,
+    "wof:name":"Trindade",
+    "wof:parent_id":85670327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.56667,
+    14.95,
+    -23.56667,
+    14.95
+],
+  "geometry": {"coordinates":[-23.56667,14.95],"type":"Point"}
+}

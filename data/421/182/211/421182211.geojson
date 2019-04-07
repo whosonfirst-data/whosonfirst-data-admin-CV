@@ -1,0 +1,90 @@
+{
+  "id": 421182211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.7,14.83333,-24.7,14.83333",
+    "geom:latitude":14.83333,
+    "geom:longitude":-24.7,
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Cacha\u00e7o"
+    ],
+    "name:dut_x_preferred":[
+        "Cacha\u00e7o"
+    ],
+    "name:eng_x_preferred":[
+        "Cacha\u00e7o"
+    ],
+    "name:por_x_preferred":[
+        "Cacha\u00e7o"
+    ],
+    "name:unk_x_variant":[
+        "Cachoca"
+    ],
+    "qs:gn_country":"CV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3374816,
+    "qs:gn_pop":0,
+    "qs:name":"Cacha\u00e7o",
+    "qs:name_adm0":"Cabo Verde",
+    "qs:name_adm1":"Brava",
+    "qs:photos":134,
+    "qs:photos_1k":27,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":134,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":894735,
+    "qs:woe_adm0":23424794,
+    "qs:woe_id":1310699,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374816,
+        "gp:id":1310699,
+        "qs:id":894735,
+        "wd:id":"Q5015933"
+    },
+    "wof:country":"CV",
+    "wof:created":1459009322,
+    "wof:geomhash":"8fe06f471bd326ff52df4cb1e1c32b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":421182211,
+            "region_id":85670279
+        }
+    ],
+    "wof:id":421182211,
+    "wof:lastmodified":1513944654,
+    "wof:name":"Cacha\u00e7o",
+    "wof:parent_id":85670279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.7,
+    14.83333,
+    -24.7,
+    14.83333
+],
+  "geometry": {"coordinates":[-24.7,14.83333],"type":"Point"}
+}

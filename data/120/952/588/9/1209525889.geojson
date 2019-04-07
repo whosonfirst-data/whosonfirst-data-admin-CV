@@ -1,0 +1,61 @@
+{
+  "id": 1209525889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.618,15.097,-23.618,15.097",
+    "geom:latitude":15.097,
+    "geom:longitude":-23.618,
+    "gn:asciiname":"Achada Leitao",
+    "gn:country_code":"CV",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11467852,
+    "gn:latitude":15.097,
+    "gn:longitude":-23.618,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Achada Leit\u00e3o",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11467852,
+        "wk:page":"Achada_Leit%C3%A3o"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"c4ce49dccbbbed1d9f1246c75cab1fcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632721,
+            "locality_id":1209525889
+        }
+    ],
+    "wof:id":1209525889,
+    "wof:lastmodified":1537504006,
+    "wof:name":"Achada Leitao",
+    "wof:parent_id":85632721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.618,
+    15.097,
+    -23.618,
+    15.097
+],
+  "geometry": {"coordinates":[-23.618,15.097],"type":"Point"}
+}

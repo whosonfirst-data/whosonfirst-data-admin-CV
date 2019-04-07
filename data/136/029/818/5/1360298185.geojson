@@ -1,0 +1,66 @@
+{
+  "id": 1360298185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.71667,14.85,-24.71667,14.85",
+    "geom:latitude":14.85,
+    "geom:longitude":-24.71667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nossa Senhora do Monte",
+    "gn:country_code":"CV",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374420,
+    "gn:latitude":14.85,
+    "gn:longitude":-24.71667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nossa Senhora do Monte",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374420,
+        "wk:page":"Nossa_Senhora_do_Monte%2C_Cape_Verde"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"e3174485b219c2ca0e20d6996bab8806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1360298185,
+            "region_id":85670279
+        }
+    ],
+    "wof:id":1360298185,
+    "wof:lastmodified":1537504004,
+    "wof:name":"Nossa Senhora do Monte",
+    "wof:parent_id":85670279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.71667,
+    14.85,
+    -24.71667,
+    14.85
+],
+  "geometry": {"coordinates":[-24.71667,14.85],"type":"Point"}
+}

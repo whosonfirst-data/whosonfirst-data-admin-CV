@@ -1,0 +1,190 @@
+{
+  "id": 85670331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.004652,
+    "geom:area_square_m":55572593.530475,
+    "geom:bbox":"-23.5640803926,14.907619533,-23.4704483708,14.9861902389",
+    "geom:latitude":14.947616,
+    "geom:longitude":-23.51589,
+    "gn:population":130271,
+    "iso:country":"CV",
+    "label:eng_x_preferred_longname":[
+        "Praia County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "lbl:latitude":14.943922,
+    "lbl:longitude":-23.514998,
+    "mps:latitude":14.943922,
+    "mps:longitude":-23.514998,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:deu_x_preferred":[
+        "Praia"
+    ],
+    "name:eng_x_preferred":[
+        "Praia"
+    ],
+    "name:eng_x_variant":[
+        "Praia Municipality"
+    ],
+    "name:fra_x_preferred":[
+        "Praia"
+    ],
+    "name:por_x_preferred":[
+        "Praia"
+    ],
+    "name:unk_x_variant":[
+        "Concelho da Praia"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"CPV",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"CPV-5053",
+    "ne:adm1_code":"CPV-5053",
+    "ne:admin":"Cape Verde",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"CV.PR",
+    "ne:code_local":"74",
+    "ne:datarank":"10",
+    "ne:diss_me":"5053",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"CV14",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Cape Verde",
+    "ne:gn_a1_code":"CV.14",
+    "ne:gn_id":"3374332",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Concelho da Praia",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"CV14",
+    "ne:gns_id":"-1313469",
+    "ne:gns_lang":"por",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Praia, Concelho da",
+    "ne:gns_region":"",
+    "ne:gu_a3":"CPV",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"CV-PR",
+    "ne:iso_a2":"CV",
+    "ne:labelrank":"20",
+    "ne:latitude":"14.95290000000",
+    "ne:longitude":"-23.51590000000",
+    "ne:mapcolor13":11,
+    "ne:mapcolor9":4,
+    "ne:name":"Praia",
+    "ne:name_alt":"",
+    "ne:name_len":5,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"PR",
+    "ne:provnum_ne":"0",
+    "ne:region":"Ilhas de Sotavento",
+    "ne:region_cod":"CV-S",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"CPV",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Praia_(municipality)",
+    "ne:woe_id":2345125,
+    "ne:woe_label":"Praia, CV, Cape Verde",
+    "ne:woe_name":"Praia",
+    "qs:a0":"Cape Verde",
+    "qs:a0_lc":"CV",
+    "qs:a1":"Praia",
+    "qs:a1_lc":"CPV-5053",
+    "qs:a1r":"Ilhas de Sotavento",
+    "qs:a1r_lc":"CV-S",
+    "qs:adm0":"Cape Verde",
+    "qs:adm0_a3":"CPV",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-06-16",
+    "statoids:area_km":"94",
+    "statoids:area_mi":"37",
+    "statoids:as_of_date":"2010-06-16",
+    "statoids:capital":"Cidade Velha",
+    "statoids:country":"CV",
+    "statoids:gec":"CV14",
+    "statoids:hasc":"CV.PC",
+    "statoids:iso":"PR",
+    "statoids:name":"Praia",
+    "statoids:population":"131602",
+    "statoids:timezone":"-1",
+    "statoids:type":"county",
+    "unlc:subdivision":"CV-PR",
+    "wof:belongsto":[
+        102191573,
+        85632721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"CV14",
+        "gn:id":3374332,
+        "gp:id":2345125,
+        "hasc:id":"CV.PC",
+        "iso:id":"CV-PR",
+        "qs:id":235576,
+        "unlc:id":"CV-PR",
+        "wd:id":"Q497019",
+        "wk:page":"Praia, Cape Verde (municipality)"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"70c80e4814c791030181b99593d919da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "region_id":85670331
+        }
+    ],
+    "wof:id":85670331,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lang_x_official":[
+        "por"
+    ],
+    "wof:lang_x_spoken":[
+        "por"
+    ],
+    "wof:lastmodified":1553550350,
+    "wof:name":"Praia",
+    "wof:parent_id":85632721,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"county",
+    "wof:population":131602,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:shortcode":"PC",
+    "wof:subdivision":"CV-PR",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.564080392596,
+    14.90761953301507,
+    -23.47044837079562,
+    14.98619023888847
+],
+  "geometry": {"coordinates":[[[-23.471467557182,14.97372152273016],[-23.4778946611097,14.96906159111961],[-23.47044837079562,14.96222565359108],[-23.48021399557939,14.94660065339747],[-23.48631751174372,14.93085358282661],[-23.49400794191297,14.91868724212259],[-23.50829016795683,14.91380442883138],[-23.51622473888057,14.91282786761207],[-23.53184973907418,14.90863678585902],[-23.53929602758956,14.90761953301507],[-23.54763111878106,14.92571327744582],[-23.56046490303282,14.94175550731086],[-23.564080392596,14.9607225105355],[-23.53639807830865,14.96625897267347],[-23.51093034905631,14.98286836178551],[-23.49099908284137,14.98619023888847],[-23.471467557182,14.97372152273016]]],"type":"Polygon"}
+}

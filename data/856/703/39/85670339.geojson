@@ -1,0 +1,191 @@
+{
+  "id": 85670339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.053689,
+    "geom:area_square_m":637816214.873789,
+    "geom:bbox":"-22.9639786445,15.9823672548,-22.666574674,16.2439639339",
+    "geom:latitude":16.10576,
+    "geom:longitude":-22.816875,
+    "gn:population":8554,
+    "iso:country":"CV",
+    "label:eng_x_preferred_longname":[
+        "Boa Vista County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "lbl:latitude":16.096032,
+    "lbl:longitude":-22.814042,
+    "mps:latitude":16.096032,
+    "mps:longitude":-22.814042,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:deu_x_preferred":[
+        "Boa Vista"
+    ],
+    "name:eng_x_preferred":[
+        "Boa Vista"
+    ],
+    "name:eng_x_variant":[
+        "Boa Vista Municipality"
+    ],
+    "name:fra_x_preferred":[
+        "Boa Vista"
+    ],
+    "name:por_x_preferred":[
+        "Boa Vista"
+    ],
+    "name:unk_x_variant":[
+        "Concelho da Boa Vista"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"CPV",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"CPV-5055",
+    "ne:adm1_code":"CPV-5055",
+    "ne:admin":"Cape Verde",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"CV.BV",
+    "ne:code_local":"51",
+    "ne:datarank":"10",
+    "ne:diss_me":"5055",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"CV01",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Cape Verde",
+    "ne:gn_a1_code":"CV.01",
+    "ne:gn_id":"3374855",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Concelho da Boa Vista",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"CV01",
+    "ne:gns_id":"-1312946",
+    "ne:gns_lang":"por",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Boa Vista",
+    "ne:gns_region":"",
+    "ne:gu_a3":"CPV",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"CV-BV",
+    "ne:iso_a2":"CV",
+    "ne:labelrank":"20",
+    "ne:latitude":"16.10240000000",
+    "ne:longitude":"-22.80700000000",
+    "ne:mapcolor13":11,
+    "ne:mapcolor9":4,
+    "ne:name":"Boa Vista",
+    "ne:name_alt":"",
+    "ne:name_len":9,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"Ilhas de Barlavento",
+    "ne:region_cod":"CV-B",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"CPV",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Boa_Vista_(Cape_Verde)",
+    "ne:woe_id":2345121,
+    "ne:woe_label":"Boa Vista, CV, Cape Verde",
+    "ne:woe_name":"Boa Vista",
+    "qs:a0":"Cape Verde",
+    "qs:a0_lc":"CV",
+    "qs:a1":"Boa Vista",
+    "qs:a1_lc":"CPV-5055",
+    "qs:a1r":"Ilhas de Barlavento",
+    "qs:a1r_lc":"CV-B",
+    "qs:adm0":"Cape Verde",
+    "qs:adm0_a3":"CPV",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-06-16",
+    "statoids:area_km":"620",
+    "statoids:area_mi":"239",
+    "statoids:as_of_date":"2010-06-16",
+    "statoids:capital":"Sal-Rei",
+    "statoids:country":"CV",
+    "statoids:gec":"CV01",
+    "statoids:hasc":"CV.BV",
+    "statoids:iso":"BV",
+    "statoids:name":"Boa Vista",
+    "statoids:population":"9162",
+    "statoids:timezone":"-1",
+    "statoids:type":"county",
+    "unlc:subdivision":"CV-BV",
+    "wd:wordcount":700,
+    "wof:belongsto":[
+        102191573,
+        85632721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"CV01",
+        "gn:id":3374855,
+        "gp:id":2345121,
+        "hasc:id":"CV.BV",
+        "iso:id":"CV-BV",
+        "qs:id":1083816,
+        "unlc:id":"CV-BV",
+        "wd:id":"Q110440",
+        "wk:page":"Boa Vista, Cape Verde"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"551a8e956934610f68d7faec7cd9790b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "region_id":85670339
+        }
+    ],
+    "wof:id":85670339,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lang_x_official":[
+        "por"
+    ],
+    "wof:lang_x_spoken":[
+        "por"
+    ],
+    "wof:lastmodified":1553550350,
+    "wof:name":"Boa Vista",
+    "wof:parent_id":85632721,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"county",
+    "wof:population":9162,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:shortcode":"BV",
+    "wof:subdivision":"CV-BV",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.96397864449881,
+    15.98236725484497,
+    -22.66657467398198,
+    16.24396393388849
+],
+  "geometry": {"coordinates":[[[-22.68211829272497,16.11359284113678],[-22.67837480355428,16.1118838558553],[-22.67080644376233,16.10224030234815],[-22.66657467398198,16.09145742472043],[-22.67251542904376,16.08633047157406],[-22.67560787650223,16.08201732034308],[-22.67711341085516,16.07265859651704],[-22.67979895645664,16.06321849213975],[-22.6964412094942,16.05292389512169],[-22.75108801989614,16.01056549759966],[-22.78758704290766,15.99160390829377],[-22.80614173125582,15.98590729398649],[-22.8636775381878,15.98236725484497],[-22.87389075375523,15.9838727891979],[-22.883656378539,15.98871491086447],[-22.897775845279,16.00047435151015],[-22.90929114517019,16.00372955917186],[-22.94554602832648,16.01968008067121],[-22.95775305885655,16.03082916943066],[-22.96397864449881,16.05219147285823],[-22.96324622313466,16.07119375199011],[-22.95775305885655,16.0890160180748],[-22.94741777291182,16.10224030234815],[-22.93260657463367,16.10740794532046],[-22.91356360567579,16.12555573091231],[-22.92442786385476,16.21295807515509],[-22.91559811046437,16.24396393388849],[-22.9116104805392,16.23672109630161],[-22.90721594965629,16.23143138205268],[-22.8950902987782,16.2228457703161],[-22.87791907530504,16.21491120029174],[-22.85252845032767,16.20661041913559],[-22.82941646999404,16.20400625228677],[-22.81932532480386,16.21295807515509],[-22.8116755844606,16.22842031514546],[-22.79381262854992,16.23135000240075],[-22.73468990761307,16.21686432542833],[-22.72386634015942,16.21263255384935],[-22.71385657462116,16.20575592739419],[-22.70982825397073,16.19863515838591],[-22.70376542853165,16.17959219032736],[-22.69957434767798,16.17568594005417],[-22.6824845038567,16.16864655249645],[-22.67870032486007,16.15176015870441],[-22.68211829272497,16.11359284113678]]],"type":"Polygon"}
+}

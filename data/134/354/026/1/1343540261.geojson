@@ -1,0 +1,65 @@
+{
+  "id": 1343540261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.65489,15.00572,-23.65489,15.00572",
+    "geom:latitude":15.00572,
+    "geom:longitude":-23.65489,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Achadinha",
+    "gn:country_code":"CV",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11204620,
+    "gn:latitude":15.00572,
+    "gn:longitude":-23.65489,
+    "gn:modification_date":"2016-07-20",
+    "gn:name":"Achadinha",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11204620
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"bdc63392d30a232020c855b5f13cbf0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1343540261,
+            "region_id":85670327
+        }
+    ],
+    "wof:id":1343540261,
+    "wof:lastmodified":1536629422,
+    "wof:name":"Achadinha",
+    "wof:parent_id":85670327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.65489,
+    15.00572,
+    -23.65489,
+    15.00572
+],
+  "geometry": {"coordinates":[-23.65489,15.00572],"type":"Point"}
+}

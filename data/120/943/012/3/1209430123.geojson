@@ -1,0 +1,60 @@
+{
+  "id": 1209430123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.65992,15.10863,-23.65992,15.10863",
+    "geom:latitude":15.10863,
+    "geom:longitude":-23.65992,
+    "gn:asciiname":"Gil Bispo",
+    "gn:country_code":"CV",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11353142,
+    "gn:latitude":15.10863,
+    "gn:longitude":-23.65992,
+    "gn:modification_date":"2016-12-05",
+    "gn:name":"Gil Bispo",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11353142
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"a14e7e01590d511dc50fd2cd746d4bd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632721,
+            "locality_id":1209430123
+        }
+    ],
+    "wof:id":1209430123,
+    "wof:lastmodified":1536287260,
+    "wof:name":"Gil Bispo",
+    "wof:parent_id":85632721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.65992,
+    15.108629999999998,
+    -23.65992,
+    15.108629999999998
+],
+  "geometry": {"coordinates":[-23.65992,15.10863],"type":"Point"}
+}

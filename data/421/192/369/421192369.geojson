@@ -1,0 +1,100 @@
+{
+  "id": 421192369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.0629,16.82935,-25.0629,16.82935",
+    "geom:latitude":16.82935,
+    "geom:longitude":-25.0629,
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "S\u00e3o Pedro"
+    ],
+    "name:dut_x_preferred":[
+        "S\u00e3o Pedro"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e3o Pedro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30da\u30c9\u30ed"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Pedro"
+    ],
+    "name:ron_x_preferred":[
+        "S\u00e3o Pedro"
+    ],
+    "name:rum_x_preferred":[
+        "S\u00e3o Pedro"
+    ],
+    "qs:gn_country":"CV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3374201,
+    "qs:gn_pop":0,
+    "qs:name":"S\u00e3o Pedro",
+    "qs:name_adm0":"Cabo Verde",
+    "qs:name_adm1":"S\u00e3o Vicente",
+    "qs:photos":69,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":69,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1167989,
+    "qs:woe_adm0":23424794,
+    "qs:woe_id":1310896,
+    "src:geom":"quattroshapes",
+    "wd:latitude":16.816667,
+    "wd:longitude":-25.083333,
+    "wd:wordcount":58,
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374201,
+        "gp:id":1310896,
+        "qs:id":1167989,
+        "wd:id":"Q6270831",
+        "wk:page":"S\u00e3o Pedro, Cape Verde"
+    },
+    "wof:country":"CV",
+    "wof:created":1459009734,
+    "wof:geomhash":"4c90157fec673944da30f78fa176ecdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":421192369,
+            "region_id":85670355
+        }
+    ],
+    "wof:id":421192369,
+    "wof:lastmodified":1553816380,
+    "wof:name":"S\u00e3o Pedro",
+    "wof:parent_id":85670355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.0629,
+    16.82935,
+    -25.0629,
+    16.82935
+],
+  "geometry": {"coordinates":[-25.0629,16.82935],"type":"Point"}
+}

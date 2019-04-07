@@ -1,0 +1,149 @@
+{
+  "id": 421183037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.71667,14.86667,-24.71667,14.86667",
+    "geom:latitude":14.86667,
+    "geom:longitude":-24.71667,
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Nova Sintra"
+    ],
+    "name:ceb_x_preferred":[
+        "Vila Nova Sintra"
+    ],
+    "name:chi_x_preferred":[
+        "\u65b0\u8f9b\u7279\u62c9"
+    ],
+    "name:deu_x_preferred":[
+        "Vila Nova Sintra"
+    ],
+    "name:dut_x_preferred":[
+        "Nova Sintra"
+    ],
+    "name:eng_x_preferred":[
+        "Nova Sintra"
+    ],
+    "name:fra_x_preferred":[
+        "Nova Sintra"
+    ],
+    "name:fre_x_preferred":[
+        "Nova Sintra"
+    ],
+    "name:ger_x_preferred":[
+        "Vila Nova Sintra"
+    ],
+    "name:ita_x_preferred":[
+        "Nova Sintra"
+    ],
+    "name:kor_x_preferred":[
+        "\ub178\ubc14\uc2e0\ud2b8\ub77c"
+    ],
+    "name:lit_x_preferred":[
+        "Nova Sintra"
+    ],
+    "name:nds_x_preferred":[
+        "Vila Nova Sintra"
+    ],
+    "name:nob_x_preferred":[
+        "Vila Nova Sintra"
+    ],
+    "name:nor_x_preferred":[
+        "Vila Nova Sintra"
+    ],
+    "name:pol_x_preferred":[
+        "Nova Sintra"
+    ],
+    "name:por_x_preferred":[
+        "Nova Sintra"
+    ],
+    "name:ron_x_preferred":[
+        "Vila Nova Sintra"
+    ],
+    "name:rum_x_preferred":[
+        "Vila Nova Sintra"
+    ],
+    "name:spa_x_preferred":[
+        "Nova Sintra"
+    ],
+    "name:swe_x_preferred":[
+        "Vila Nova Sintra"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u0421\u0456\u043d\u0442\u0440\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Vila de Nova Sintra"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u8f9b\u7279\u62c9"
+    ],
+    "qs:gn_country":"CV",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":3374117,
+    "qs:gn_pop":0,
+    "qs:name":"Vila Nova Sintra",
+    "qs:name_adm0":"Cabo Verde",
+    "qs:name_adm1":"Brava",
+    "qs:photos":60,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":60,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":959499,
+    "qs:woe_adm0":23424794,
+    "qs:woe_id":1310920,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":369,
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374117,
+        "gp:id":1310920,
+        "qs:id":959499,
+        "wd:id":"Q493634",
+        "wk:page":"Nova Sintra"
+    },
+    "wof:country":"CV",
+    "wof:created":1459009356,
+    "wof:geomhash":"0230c55520e09bc4c22e1e8bcb83f7dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":421183037,
+            "region_id":85670279
+        }
+    ],
+    "wof:id":421183037,
+    "wof:lastmodified":1527716491,
+    "wof:name":"Vila Nova Sintra",
+    "wof:parent_id":85670279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.71667,
+    14.86667,
+    -24.71667,
+    14.86667
+],
+  "geometry": {"coordinates":[-24.71667,14.86667],"type":"Point"}
+}

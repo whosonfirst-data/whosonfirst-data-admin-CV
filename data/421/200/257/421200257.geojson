@@ -1,0 +1,134 @@
+{
+  "id": 421200257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.3,16.61667,-24.3,16.61667",
+    "geom:latitude":16.61667,
+    "geom:longitude":-24.3,
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Ribeira Brava"
+    ],
+    "name:ceb_x_preferred":[
+        "Vila da Ribeira Brava"
+    ],
+    "name:chi_x_preferred":[
+        "\u91cc\u8c9d\u62c9\u5e03\u62c9\u74e6"
+    ],
+    "name:dut_x_preferred":[
+        "Ribeira Brava"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b9\u03bc\u03c0\u03ad\u03b9\u03c1\u03b1 \u039c\u03c0\u03c1\u03ac\u03b2\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Ribeira Brava"
+    ],
+    "name:fra_x_preferred":[
+        "Ribeira Brava"
+    ],
+    "name:fre_x_preferred":[
+        "Ribeira Brava"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a1\u03b9\u03bc\u03c0\u03ad\u03b9\u03c1\u03b1 \u039c\u03c0\u03c1\u03ac\u03b2\u03b1"
+    ],
+    "name:ita_x_preferred":[
+        "Ribeira Brava"
+    ],
+    "name:kor_x_preferred":[
+        "\ud788\ubca0\uc774\ub77c\ube0c\ub77c\ubc14"
+    ],
+    "name:nld_x_preferred":[
+        "Ribeira Brava"
+    ],
+    "name:pol_x_preferred":[
+        "Ribeira Brava"
+    ],
+    "name:por_x_preferred":[
+        "Ribeira Brava"
+    ],
+    "name:spa_x_preferred":[
+        "Ribeira Brava"
+    ],
+    "name:swe_x_preferred":[
+        "Vila da Ribeira Brava"
+    ],
+    "name:unk_x_variant":[
+        "Vila da Ribeira Brava"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u8c9d\u62c9\u5e03\u62c9\u74e6"
+    ],
+    "qs:gn_country":"CV",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":3374121,
+    "qs:gn_pop":5324,
+    "qs:name":"Ribeira Brava",
+    "qs:name_adm0":"Cabo Verde",
+    "qs:name_adm1":"Ribeira Brava",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":146,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":208790,
+    "qs:woe_adm0":23424794,
+    "qs:woe_id":1310867,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":241,
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374121,
+        "gp:id":1310867,
+        "qs:id":208790,
+        "wd:id":"Q3136127",
+        "wk:page":"Ribeira Brava, Cape Verde"
+    },
+    "wof:country":"CV",
+    "wof:created":1459010016,
+    "wof:geomhash":"7ecb08d5d2cb1f6890fdd795a5869633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":421200257,
+            "region_id":85670347
+        }
+    ],
+    "wof:id":421200257,
+    "wof:lastmodified":1527716423,
+    "wof:name":"Ribeira Brava",
+    "wof:parent_id":85670347,
+    "wof:placetype":"locality",
+    "wof:population":5324,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.3,
+    16.61667,
+    -24.3,
+    16.61667
+],
+  "geometry": {"coordinates":[-24.3,16.61667],"type":"Point"}
+}

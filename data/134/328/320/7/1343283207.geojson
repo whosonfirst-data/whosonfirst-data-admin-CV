@@ -1,0 +1,69 @@
+{
+  "id": 1343283207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.06723,17.18542,-25.06723,17.18542",
+    "geom:latitude":17.18542,
+    "geom:longitude":-25.06723,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mao para Tras",
+    "gn:country_code":"CV",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374476,
+    "gn:latitude":17.18542,
+    "gn:longitude":-25.06723,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"M\u00e3o para Tr\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e3o para Traz",
+        "M\u00e3o para Tr\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374476
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"bd992833c6b8b3f9c4c26fe9f45dccc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1343283207,
+            "region_id":85670363
+        }
+    ],
+    "wof:id":1343283207,
+    "wof:lastmodified":1537619235,
+    "wof:name":"Mao para Tras",
+    "wof:parent_id":85670363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.06723,
+    17.18542,
+    -25.06723,
+    17.18542
+],
+  "geometry": {"coordinates":[-25.06723,17.18542],"type":"Point"}
+}

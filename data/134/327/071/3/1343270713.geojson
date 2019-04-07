@@ -1,0 +1,66 @@
+{
+  "id": 1343270713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.7,14.86667,-24.7,14.86667",
+    "geom:latitude":14.86667,
+    "geom:longitude":-24.7,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Vinagre",
+    "gn:country_code":"CV",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374116,
+    "gn:latitude":14.86667,
+    "gn:longitude":-24.7,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Vinagre",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374116,
+        "wk:page":"Vinagre,_Cape_Verde"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"194ed0650993c3d01c60a40aa50c4159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1343270713,
+            "region_id":85670279
+        }
+    ],
+    "wof:id":1343270713,
+    "wof:lastmodified":1537504002,
+    "wof:name":"Vinagre",
+    "wof:parent_id":85670279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.7,
+    14.86667,
+    -24.7,
+    14.86667
+],
+  "geometry": {"coordinates":[-24.7,14.86667],"type":"Point"}
+}

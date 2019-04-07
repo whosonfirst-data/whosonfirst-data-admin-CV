@@ -1,0 +1,65 @@
+{
+  "id": 1344130921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.33333,17.05,-25.33333,17.05",
+    "geom:latitude":17.05,
+    "geom:longitude":-25.33333,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Botija",
+    "gn:country_code":"CV",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374840,
+    "gn:latitude":17.05,
+    "gn:longitude":-25.33333,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Botija",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374840
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"09216e2e8bf98d17783d43a14304905d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1344130921,
+            "region_id":85670359
+        }
+    ],
+    "wof:id":1344130921,
+    "wof:lastmodified":1536774660,
+    "wof:name":"Botija",
+    "wof:parent_id":85670359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.33333,
+    17.05,
+    -25.33333,
+    17.05
+],
+  "geometry": {"coordinates":[-25.33333,17.05],"type":"Point"}
+}

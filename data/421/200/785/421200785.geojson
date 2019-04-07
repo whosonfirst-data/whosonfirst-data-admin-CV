@@ -1,0 +1,111 @@
+{
+  "id": 421200785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-22.9,16.76667,-22.9,16.76667",
+    "geom:latitude":16.76667,
+    "geom:longitude":-22.9,
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Pedra de Lume"
+    ],
+    "name:deu_x_preferred":[
+        "Pedra de Lume"
+    ],
+    "name:dut_x_preferred":[
+        "Pedra de Lume"
+    ],
+    "name:eng_x_preferred":[
+        "Pedra de Lume"
+    ],
+    "name:fra_x_preferred":[
+        "Pedra de Lume"
+    ],
+    "name:fre_x_preferred":[
+        "Pedra de Lume"
+    ],
+    "name:ger_x_preferred":[
+        "Pedra de Lume"
+    ],
+    "name:nds_x_preferred":[
+        "Pedra Lume"
+    ],
+    "name:pol_x_preferred":[
+        "Pedra de Lume"
+    ],
+    "name:por_x_preferred":[
+        "Pedra de Lume"
+    ],
+    "name:spa_x_preferred":[
+        "Pedra de Lume"
+    ],
+    "name:unk_x_variant":[
+        "Pedra de Lume"
+    ],
+    "qs:gn_country":"CV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3374384,
+    "qs:gn_pop":0,
+    "qs:name":"Pedra Lume",
+    "qs:name_adm0":"Cabo Verde",
+    "qs:name_adm1":"Sal",
+    "qs:photos":339,
+    "qs:photos_1k":69,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":339,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":894736,
+    "qs:woe_adm0":23424794,
+    "qs:woe_id":1310835,
+    "src:geom":"quattroshapes",
+    "wd:latitude":16.763889,
+    "wd:longitude":-22.893056,
+    "wd:wordcount":733,
+    "wof:belongsto":[
+        85632721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374384,
+        "gp:id":1310835,
+        "qs:id":894736,
+        "wd:id":"Q486580",
+        "wk:page":"Pedra de Lume"
+    },
+    "wof:country":"CV",
+    "wof:created":1459010041,
+    "wof:geomhash":"34c18d74858f35ce2620bb232273d5f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632721,
+            "locality_id":421200785
+        }
+    ],
+    "wof:id":421200785,
+    "wof:lastmodified":1527716424,
+    "wof:name":"Pedra Lume",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.9,
+    16.76667,
+    -22.9,
+    16.76667
+],
+  "geometry": {"coordinates":[-22.9,16.76667],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1360103759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.45,14.969,-24.45,14.969",
+    "geom:latitude":14.969,
+    "geom:longitude":-24.45,
+    "gn:asciiname":"Lomba",
+    "gn:country_code":"CV",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11495929,
+    "gn:latitude":14.969,
+    "gn:longitude":-24.45,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Lomba",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11495929,
+        "wk:page":"Lomba,_Cape_Verde"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"79b05e8c0839ba6e8e58b2c2e6bbae8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1360103759,
+            "region_id":85670283
+        }
+    ],
+    "wof:id":1360103759,
+    "wof:lastmodified":1537504006,
+    "wof:name":"Lomba",
+    "wof:parent_id":85670283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.45,
+    14.969,
+    -24.45,
+    14.969
+],
+  "geometry": {"coordinates":[-24.45,14.969],"type":"Point"}
+}

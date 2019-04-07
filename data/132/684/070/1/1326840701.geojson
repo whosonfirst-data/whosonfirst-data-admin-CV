@@ -1,0 +1,64 @@
+{
+  "id": 1326840701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.5078,14.9255,-23.5078,14.9255",
+    "geom:latitude":14.9255,
+    "geom:longitude":-23.5078,
+    "gn:asciiname":"Fazenda",
+    "gn:country_code":"CV",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205553,
+    "gn:latitude":14.9255,
+    "gn:longitude":-23.5078,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Fazenda",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205553
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"eb2e2ba765a778cfe0c10f79bf3ddf6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1326840701,
+            "region_id":85670331
+        }
+    ],
+    "wof:id":1326840701,
+    "wof:lastmodified":1537034934,
+    "wof:name":"Fazenda",
+    "wof:parent_id":85670331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.5078,
+    14.9255,
+    -23.5078,
+    14.9255
+],
+  "geometry": {"coordinates":[-23.5078,14.9255],"type":"Point"}
+}

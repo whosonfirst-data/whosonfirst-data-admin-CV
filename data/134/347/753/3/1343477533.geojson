@@ -1,0 +1,65 @@
+{
+  "id": 1343477533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.567,15.149,-23.567,15.149",
+    "geom:latitude":15.149,
+    "geom:longitude":-23.567,
+    "gn:asciiname":"Cancelo",
+    "gn:country_code":"CV",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11103159,
+    "gn:latitude":15.149,
+    "gn:longitude":-23.567,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Cancelo",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11103159,
+        "wk:page":"Cancelo"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"38a123e9ac01754c0066a58bb1072bc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1343477533,
+            "region_id":85670311
+        }
+    ],
+    "wof:id":1343477533,
+    "wof:lastmodified":1537504005,
+    "wof:name":"Cancelo",
+    "wof:parent_id":85670311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.567,
+    15.149,
+    -23.567,
+    15.149
+],
+  "geometry": {"coordinates":[-23.567,15.149],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1260235523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.36667,16.61667,-24.36667,16.61667",
+    "geom:latitude":16.61667,
+    "geom:longitude":-24.36667,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Torno d'Agua",
+    "gn:country_code":"CV",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374149,
+    "gn:latitude":16.61667,
+    "gn:longitude":-24.36667,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Torno d\u2019\u00c1gua",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374149
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"11872406691cce0929b8bad73b6ab7b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1260235523,
+            "region_id":85670351
+        }
+    ],
+    "wof:id":1260235523,
+    "wof:lastmodified":1536777614,
+    "wof:name":"Torno d'Agua",
+    "wof:parent_id":85670351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.36667000000001,
+    16.61667000000001,
+    -24.36667000000001,
+    16.61667000000001
+],
+  "geometry": {"coordinates":[-24.36667000000001,16.61667000000001],"type":"Point"}
+}

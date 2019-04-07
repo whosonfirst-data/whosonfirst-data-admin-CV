@@ -1,0 +1,66 @@
+{
+  "id": 1243269879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.16116,15.13532,-23.16116,15.13532",
+    "geom:latitude":15.13532,
+    "geom:longitude":-23.16116,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Barreiro",
+    "gn:country_code":"CV",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374870,
+    "gn:latitude":15.13532,
+    "gn:longitude":-23.16116,
+    "gn:modification_date":"2017-07-07",
+    "gn:name":"Barreiro",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374870,
+        "wk:page":"Barreiro%2C_Cape_Verde"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"ca96e6dd1fd1e2e7ae8fa664129f3387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1243269879,
+            "region_id":85670335
+        }
+    ],
+    "wof:id":1243269879,
+    "wof:lastmodified":1537504005,
+    "wof:name":"Barreiro",
+    "wof:parent_id":85670335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.16116,
+    15.13532,
+    -23.16116,
+    15.13532
+],
+  "geometry": {"coordinates":[-23.16116,15.13532],"type":"Point"}
+}

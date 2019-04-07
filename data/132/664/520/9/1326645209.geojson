@@ -1,0 +1,65 @@
+{
+  "id": 1326645209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.7053,15.1077,-23.7053,15.1077",
+    "geom:latitude":15.1077,
+    "geom:longitude":-23.7053,
+    "gn:asciiname":"Ribeirao Manuel",
+    "gn:country_code":"CV",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11428037,
+    "gn:latitude":15.1077,
+    "gn:longitude":-23.7053,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Ribeirao Manuel",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11428037,
+        "wk:page":"Ribeir%C3%A3o_Manuel"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"e83efcb99e5114ef768a5712c963d26d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1326645209,
+            "region_id":85670301
+        }
+    ],
+    "wof:id":1326645209,
+    "wof:lastmodified":1537504006,
+    "wof:name":"Ribeirao Manuel",
+    "wof:parent_id":85670301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.7053,
+    15.1077,
+    -23.7053,
+    15.1077
+],
+  "geometry": {"coordinates":[-23.7053,15.1077],"type":"Point"}
+}

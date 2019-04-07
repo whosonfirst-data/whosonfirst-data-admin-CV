@@ -1,0 +1,65 @@
+{
+  "id": 1209924539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.1196,17.16107,-25.1196,17.16107",
+    "geom:latitude":17.16107,
+    "geom:longitude":-25.1196,
+    "gn:asciiname":"Boca de Coruja",
+    "gn:country_code":"CV",
+    "gn:dem":176,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11048948,
+    "gn:latitude":17.16107,
+    "gn:longitude":-25.1196,
+    "gn:modification_date":"2016-01-21",
+    "gn:name":"Boca de Coruja",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11048948
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"f1ab74cdaaaafc78609aac66ee7506db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1209924539,
+            "region_id":85670363
+        }
+    ],
+    "wof:id":1209924539,
+    "wof:lastmodified":1536395490,
+    "wof:name":"Boca de Coruja",
+    "wof:parent_id":85670363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.1196,
+    17.16107,
+    -25.1196,
+    17.16107
+],
+  "geometry": {"coordinates":[-25.1196,17.16107],"type":"Point"}
+}

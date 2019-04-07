@@ -1,0 +1,61 @@
+{
+  "id": 1259694237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.10493,15.20863,-23.10493,15.20863",
+    "geom:latitude":15.20863,
+    "geom:longitude":-23.10493,
+    "gn:asciiname":"Pilao Cao",
+    "gn:country_code":"CV",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11608481,
+    "gn:latitude":15.20863,
+    "gn:longitude":-23.10493,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Pilao Cao",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11608481,
+        "wk:page":"Pil%C3%A3o_C%C3%A3o"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"c93123ee745e29dd64668f90685a3ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259694237,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259694237,
+    "wof:lastmodified":1537504006,
+    "wof:name":"Pilao Cao",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.10493,
+    15.20863,
+    -23.10493,
+    15.20863
+],
+  "geometry": {"coordinates":[-23.10493,15.20863],"type":"Point"}
+}

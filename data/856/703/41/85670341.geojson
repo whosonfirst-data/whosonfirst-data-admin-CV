@@ -1,0 +1,190 @@
+{
+  "id": 85670341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.016879,
+    "geom:area_square_m":199873036.645347,
+    "geom:bbox":"-22.9915665363,16.5934105489,-22.8813370432,16.8602969422",
+    "geom:latitude":16.739307,
+    "geom:longitude":-22.934483,
+    "gn:population":29110,
+    "iso:country":"CV",
+    "label:eng_x_preferred_longname":[
+        "Sal County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "lbl:latitude":16.732383,
+    "lbl:longitude":-22.939911,
+    "mps:latitude":16.732383,
+    "mps:longitude":-22.939911,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:deu_x_preferred":[
+        "Sal"
+    ],
+    "name:eng_x_preferred":[
+        "Sal"
+    ],
+    "name:eng_x_variant":[
+        "Sal Municipality"
+    ],
+    "name:fra_x_preferred":[
+        "Sal"
+    ],
+    "name:por_x_preferred":[
+        "Sal"
+    ],
+    "name:por_x_variant":[
+        "Concelho do Sal"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"CPV",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"CPV-5056",
+    "ne:adm1_code":"CPV-5056",
+    "ne:admin":"Cape Verde",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"CV.SL",
+    "ne:code_local":"41",
+    "ne:datarank":"10",
+    "ne:diss_me":"5056",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"CV08",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Cape Verde",
+    "ne:gn_a1_code":"CV.08",
+    "ne:gn_id":"3374249",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Concelho do Sal",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"CV08",
+    "ne:gns_id":"-1313552",
+    "ne:gns_lang":"por",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Sal",
+    "ne:gns_region":"",
+    "ne:gu_a3":"CPV",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"CV-SL",
+    "ne:iso_a2":"CV",
+    "ne:labelrank":"20",
+    "ne:latitude":"16.72510000000",
+    "ne:longitude":"-22.93630000000",
+    "ne:mapcolor13":11,
+    "ne:mapcolor9":4,
+    "ne:name":"Sal",
+    "ne:name_alt":"",
+    "ne:name_len":3,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"Ilhas de Barlavento",
+    "ne:region_cod":"CV-B",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"CPV",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Sal_(Cape_Verde)",
+    "ne:woe_id":2345127,
+    "ne:woe_label":"Sal, CV, Cape Verde",
+    "ne:woe_name":"Sal",
+    "qs:a0":"Cape Verde",
+    "qs:a0_lc":"CV",
+    "qs:a1":"Sal",
+    "qs:a1_lc":"CPV-5056",
+    "qs:a1r":"Ilhas de Barlavento",
+    "qs:a1r_lc":"CV-B",
+    "qs:adm0":"Cape Verde",
+    "qs:adm0_a3":"CPV",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-06-16",
+    "statoids:area_km":"216",
+    "statoids:area_mi":"83",
+    "statoids:as_of_date":"2010-06-16",
+    "statoids:capital":"Espargos",
+    "statoids:country":"CV",
+    "statoids:gec":"CV08",
+    "statoids:hasc":"CV.SL",
+    "statoids:iso":"SL",
+    "statoids:name":"Sal",
+    "statoids:population":"25765",
+    "statoids:timezone":"-1",
+    "statoids:type":"county",
+    "unlc:subdivision":"CV-SL",
+    "wof:belongsto":[
+        102191573,
+        85632721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"CV08",
+        "gn:id":3374249,
+        "gp:id":2345127,
+        "hasc:id":"CV.SL",
+        "iso:id":"CV-SL",
+        "qs:id":1083820,
+        "unlc:id":"CV-SL",
+        "wd:id":"Q2721003",
+        "wk:page":"Sal, Cape Verde (municipality)"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"3a0a2145d8abc8a0e350bbf55ad9b5ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "region_id":85670341
+        }
+    ],
+    "wof:id":85670341,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lang_x_official":[
+        "por"
+    ],
+    "wof:lang_x_spoken":[
+        "por"
+    ],
+    "wof:lastmodified":1553550350,
+    "wof:name":"Sal",
+    "wof:parent_id":85632721,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"county",
+    "wof:population":25765,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:shortcode":"SL",
+    "wof:subdivision":"CV-SL",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.99156653626659,
+    16.59341054885778,
+    -22.88133704316994,
+    16.86029694215023
+],
+  "geometry": {"coordinates":[[[-22.9291886058694,16.59341054885778],[-22.9413956372988,16.66937897286135],[-22.95653235598337,16.69944896020138],[-22.97760982972983,16.68903229460477],[-22.98176021985819,16.70351797157718],[-22.98314368383387,16.72304922114466],[-22.98005123547608,16.74111562708458],[-22.97081458202729,16.75104401207153],[-22.97081458202729,16.75787995049939],[-22.9827367828762,16.76137929891559],[-22.98924719999826,16.77094147367012],[-22.99156653626659,16.78432851814665],[-22.99079342417713,16.8156598981858],[-22.97012285048913,16.83144765858265],[-22.92243404889217,16.86029694215023],[-22.91698157533938,16.85317617404127],[-22.89891516760088,16.83681875248351],[-22.8950902987782,16.82929108341682],[-22.89631100165138,16.82501862201184],[-22.90274003822213,16.81317780261355],[-22.90977942577985,16.80337148620515],[-22.90794837102044,16.80060455915316],[-22.90404212074725,16.79857005436457],[-22.90184485575543,16.79511139487505],[-22.90465247263347,16.73582591463429],[-22.90184485575543,16.71694570498033],[-22.89736894432127,16.71027252855441],[-22.88418535077329,16.69843170825681],[-22.88133704316994,16.69269440322415],[-22.88239498583988,16.68154531536408],[-22.88662675651955,16.6616885444908],[-22.88760331863818,16.65143463729873],[-22.88955644377484,16.64590078319463],[-22.89879309812295,16.6394717475232],[-22.90184485575543,16.63442617402876],[-22.90147864462369,16.62909576995389],[-22.89940345000917,16.62164948143845],[-22.8968399729863,16.61546458562219],[-22.8950902987782,16.61391836144327],[-22.9017227862775,16.6059024108676],[-22.90884355348715,16.60219961152291],[-22.91763261615228,16.59918854461569],[-22.9291886058694,16.59341054885778]]],"type":"Polygon"}
+}

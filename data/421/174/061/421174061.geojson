@@ -1,0 +1,106 @@
+{
+  "id": 421174061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-22.91667,16.03333,-22.91667,16.03333",
+    "geom:latitude":16.03333,
+    "geom:longitude":-22.91667,
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Povoa\u00e7\u00e3o Velha"
+    ],
+    "name:deu_x_preferred":[
+        "Povoa\u00e7\u00e3o Velha"
+    ],
+    "name:dut_x_preferred":[
+        "Povoa\u00e7\u00e3o Velha"
+    ],
+    "name:eng_x_preferred":[
+        "Povoa\u00e7\u00e3o Velha"
+    ],
+    "name:ger_x_preferred":[
+        "Povoa\u00e7\u00e3o Velha"
+    ],
+    "name:mwl_x_preferred":[
+        "Povoa\u00e7\u00e3o Velha"
+    ],
+    "name:nds_x_preferred":[
+        "Povoa\u00e7\u00e3o Velha"
+    ],
+    "name:pol_x_preferred":[
+        "Povoa\u00e7\u00e3o Velha"
+    ],
+    "name:por_x_preferred":[
+        "Povoa\u00e7\u00e3o Velha"
+    ],
+    "qs:gn_country":"CV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3374334,
+    "qs:gn_pop":0,
+    "qs:name":"Povoa\u00e7\u00e3o Velha",
+    "qs:name_adm0":"Cabo Verde",
+    "qs:name_adm1":"Boa Vista",
+    "qs:photos":194,
+    "qs:photos_1k":39,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":194,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":316682,
+    "qs:woe_adm0":23424794,
+    "qs:woe_id":1310854,
+    "src:geom":"quattroshapes",
+    "wd:latitude":16.033333,
+    "wd:longitude":-22.916667,
+    "wd:wordcount":394,
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374334,
+        "gp:id":1310854,
+        "qs:id":316682,
+        "wd:id":"Q501658",
+        "wk:page":"Povoa\u00e7\u00e3o Velha"
+    },
+    "wof:country":"CV",
+    "wof:created":1459009018,
+    "wof:geomhash":"48ad3d7bfcc4e539323485ea3ef2653e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":421174061,
+            "region_id":85670339
+        }
+    ],
+    "wof:id":421174061,
+    "wof:lastmodified":1527716230,
+    "wof:name":"Povoa\u00e7\u00e3o Velha",
+    "wof:parent_id":85670339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.91667,
+    16.03333,
+    -22.91667,
+    16.03333
+],
+  "geometry": {"coordinates":[-22.91667,16.03333],"type":"Point"}
+}

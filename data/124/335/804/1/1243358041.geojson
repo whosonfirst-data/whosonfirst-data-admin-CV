@@ -1,0 +1,69 @@
+{
+  "id": 1243358041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.2,17.13333,-25.2,17.13333",
+    "geom:latitude":17.13333,
+    "geom:longitude":-25.2,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Meio de Espanha",
+    "gn:country_code":"CV",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374466,
+    "gn:latitude":17.13333,
+    "gn:longitude":-25.2,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Meio de Espanha",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meio de Espanha de Figueiras",
+        "Meio de Espanha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374466
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"cea0b4ed6b5018148bcbfb325e0e20d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1243358041,
+            "region_id":85670363
+        }
+    ],
+    "wof:id":1243358041,
+    "wof:lastmodified":1537619235,
+    "wof:name":"Meio de Espanha",
+    "wof:parent_id":85670363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.2,
+    17.13332999999999,
+    -25.2,
+    17.13332999999999
+],
+  "geometry": {"coordinates":[-25.2,17.13332999999999],"type":"Point"}
+}

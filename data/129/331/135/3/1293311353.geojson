@@ -1,0 +1,64 @@
+{
+  "id": 1293311353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.515,14.94111,-23.515,14.94111",
+    "geom:latitude":14.94111,
+    "geom:longitude":-23.515,
+    "gn:asciiname":"Safende",
+    "gn:country_code":"CV",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11395777,
+    "gn:latitude":14.94111,
+    "gn:longitude":-23.515,
+    "gn:modification_date":"2016-12-19",
+    "gn:name":"Safende",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11395777
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"3fcfad8f9e2ea8f818c2f37d28270431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1293311353,
+            "region_id":85670331
+        }
+    ],
+    "wof:id":1293311353,
+    "wof:lastmodified":1537039293,
+    "wof:name":"Safende",
+    "wof:parent_id":85670331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.515,
+    14.94111,
+    -23.515,
+    14.94111
+],
+  "geometry": {"coordinates":[-23.515,14.94111],"type":"Point"}
+}

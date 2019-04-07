@@ -1,0 +1,94 @@
+{
+  "id": 421166445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-22.73333,16.15,-22.73333,16.15",
+    "geom:latitude":16.15,
+    "geom:longitude":-22.73333,
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Fundo das Figueiras"
+    ],
+    "name:dut_x_preferred":[
+        "Fundo das Figueiras"
+    ],
+    "name:eng_x_preferred":[
+        "Fundo das Figueiras"
+    ],
+    "name:por_x_preferred":[
+        "Fundo das Figueiras"
+    ],
+    "name:unk_x_variant":[
+        "Fundo de Figueiras"
+    ],
+    "qs:gn_country":"CV",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3374594,
+    "qs:gn_pop":0,
+    "qs:name":"Fundo Das Figueiras",
+    "qs:name_adm0":"Cabo Verde",
+    "qs:name_adm1":"Boa Vista",
+    "qs:photos":52,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":52,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":266849,
+    "qs:woe_adm0":23424794,
+    "qs:woe_id":1310765,
+    "src:geom":"quattroshapes",
+    "wd:latitude":16.15,
+    "wd:longitude":-22.733333,
+    "wd:wordcount":133,
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374594,
+        "gp:id":1310765,
+        "qs:id":266849,
+        "wd:id":"Q5509048",
+        "wk:page":"Fundo das Figueiras"
+    },
+    "wof:country":"CV",
+    "wof:created":1459008690,
+    "wof:geomhash":"6872d11af88e08ed069ef3e9922a2f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":421166445,
+            "region_id":85670339
+        }
+    ],
+    "wof:id":421166445,
+    "wof:lastmodified":1527716106,
+    "wof:name":"Fundo Das Figueiras",
+    "wof:parent_id":85670339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.73333,
+    16.15,
+    -22.73333,
+    16.15
+],
+  "geometry": {"coordinates":[-22.73333,16.15],"type":"Point"}
+}

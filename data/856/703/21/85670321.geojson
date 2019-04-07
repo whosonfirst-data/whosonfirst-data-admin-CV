@@ -1,0 +1,218 @@
+{
+  "id": 85670321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.009493,
+    "geom:area_square_m":113372313.604379,
+    "geom:bbox":"-23.596191877,14.9607225105,-23.4431046207,15.0640383656",
+    "geom:latitude":15.009811,
+    "geom:longitude":-23.520708,
+    "gn:population":13699,
+    "iso:country":"CV",
+    "label:eng_x_preferred_longname":[
+        "S\u00e3o Domingos County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
+    "lbl:latitude":15.015782,
+    "lbl:longitude":-23.526905,
+    "mps:latitude":15.015782,
+    "mps:longitude":-23.526905,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bre_x_preferred":[
+        "S\u00e3o Domingos"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043e \u0414\u043e\u043c\u0438\u043d\u0433\u043e\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "S\u00e3o Domingos"
+    ],
+    "name:ceb_x_preferred":[
+        "Concelho de S\u00e3o Domingos"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03ac\u03bf \u039d\u03c4\u03bf\u03bc\u03af\u03bd\u03b3\u03ba\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "S\u00e3o Domingos Municipality"
+    ],
+    "name:eng_x_variant":[
+        "S\u00e3o Domingos",
+        "S\u00e3o Domingos"
+    ],
+    "name:fra_x_preferred":[
+        "S\u00e3o Domingos"
+    ],
+    "name:ita_x_preferred":[
+        "Contea di S\u00e3o Domingos"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0c1\ub3c4\ubc0d\uad6c\uc2a4 \uc2dc"
+    ],
+    "name:lit_x_preferred":[
+        "San Domingosas"
+    ],
+    "name:por_x_colloquial":[
+        "Sao Domingos"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Domingos"
+    ],
+    "name:spa_x_preferred":[
+        "S\u00e3o Domingos"
+    ],
+    "name:unk_x_variant":[
+        "Concelho de S\u00e3o Domingos"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"CPV",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"3",
+    "ne:adm1_cod_1":"CPV-5051",
+    "ne:adm1_code":"CPV-5051",
+    "ne:admin":"Cape Verde",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"CV.SD",
+    "ne:code_local":"75",
+    "ne:datarank":"10",
+    "ne:diss_me":"5051",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"CV17",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Cape Verde",
+    "ne:gn_a1_code":"CV.17",
+    "ne:gn_id":"3411926",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Concelho de Sao Domingos",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"CV17",
+    "ne:gns_id":"9146427",
+    "ne:gns_lang":"por",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Sao Domingos",
+    "ne:gns_region":"",
+    "ne:gu_a3":"CPV",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"CV-SD",
+    "ne:iso_a2":"CV",
+    "ne:labelrank":"20",
+    "ne:latitude":"15.01520000000",
+    "ne:longitude":"-23.52540000000",
+    "ne:mapcolor13":11,
+    "ne:mapcolor9":4,
+    "ne:name":"S\u00e3o Domingos",
+    "ne:name_alt":"",
+    "ne:name_len":12,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"SD",
+    "ne:provnum_ne":"0",
+    "ne:region":"Ilhas de Sotavento",
+    "ne:region_cod":"CV-S",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"CPV",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/S%C3%A3o_Domingos_(Cape_Verdean_municipality)",
+    "ne:woe_id":56051562,
+    "ne:woe_label":"",
+    "ne:woe_name":"S\u00e3o Domingos",
+    "qs:a0":"Cape Verde",
+    "qs:a0_lc":"CV",
+    "qs:a1":"S\u00e3o Domingos",
+    "qs:a1_lc":"CPV-5051",
+    "qs:a1r":"Ilhas de Sotavento",
+    "qs:a1r_lc":"CV-S",
+    "qs:adm0":"Cape Verde",
+    "qs:adm0_a3":"CPV",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-06-16",
+    "statoids:area_km":"138",
+    "statoids:area_mi":"53",
+    "statoids:as_of_date":"2010-06-16",
+    "statoids:capital":"S\u00e3o Domingos",
+    "statoids:country":"CV",
+    "statoids:gec":"CV17",
+    "statoids:hasc":"CV.SD",
+    "statoids:iso":"SD",
+    "statoids:name":"S\u00e3o Domingos",
+    "statoids:population":"13808",
+    "statoids:timezone":"-1",
+    "statoids:type":"county",
+    "unlc:subdivision":"CV-SD",
+    "wof:belongsto":[
+        102191573,
+        85632721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"CV17",
+        "gn:id":3411926,
+        "gp:id":56051562,
+        "hasc:id":"CV.SD",
+        "iso:id":"CV-SD",
+        "qs:id":78470,
+        "unlc:id":"CV-SD",
+        "wd:id":"Q499009",
+        "wk:page":"S\u00e3o Domingos, Cape Verde (municipality)"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"376baf79c2710173e29cd50de5f568e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "region_id":85670321
+        }
+    ],
+    "wof:id":85670321,
+    "wof:lang":[
+        "por"
+    ],
+    "wof:lang_x_official":[
+        "por"
+    ],
+    "wof:lang_x_spoken":[
+        "por"
+    ],
+    "wof:lastmodified":1553550349,
+    "wof:name":"S\u00e3o Domingos",
+    "wof:parent_id":85632721,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"county",
+    "wof:population":13808,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:shortcode":"SD",
+    "wof:subdivision":"CV-SD",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.59619187695353,
+    14.9607225105355,
+    -23.44310462068165,
+    15.06403836557814
+],
+  "geometry": {"coordinates":[[[-23.45677649573867,15.02366770989693],[-23.45457923074684,15.0189476586076],[-23.4518936842461,15.01512278888566],[-23.44835364510459,15.01239655255893],[-23.44310462068165,15.01068756727744],[-23.44782467376962,14.99575429952137],[-23.45466061129815,14.98590729418635],[-23.471467557182,14.97372152273016],[-23.49099908284137,14.98619023888847],[-23.51093034905631,14.98286836178551],[-23.53639807830865,14.96625897267347],[-23.564080392596,14.9607225105355],[-23.58068978080871,14.96847355860791],[-23.58401165881094,14.9950485799281],[-23.59619187695353,15.01165796814075],[-23.57626061073853,15.02273089421544],[-23.56186580756093,15.03823298946094],[-23.54304183341384,15.05373508560575],[-23.52643244520112,15.0592715486431],[-23.51425222705859,15.05262779353791],[-23.50428659395112,15.04598403753334],[-23.49099908284137,15.05152050057069],[-23.48465879676604,15.06403836557814],[-23.47044837079562,15.03799062756548],[-23.46654212052238,15.03424713749547],[-23.46361243416646,15.03314850499953],[-23.46068274601186,15.03095123910845],[-23.45677649573867,15.02366770989693]]],"type":"Polygon"}
+}

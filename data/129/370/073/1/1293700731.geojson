@@ -1,0 +1,65 @@
+{
+  "id": 1293700731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-22.8,16.03333,-22.8,16.03333",
+    "geom:latitude":16.03333,
+    "geom:longitude":-22.8,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Curral Branco",
+    "gn:country_code":"CV",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374692,
+    "gn:latitude":16.03333,
+    "gn:longitude":-22.8,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Curral Branco",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374692
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"8dde5def0895ec7b14c5e531178d6fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1293700731,
+            "region_id":85670339
+        }
+    ],
+    "wof:id":1293700731,
+    "wof:lastmodified":1536976316,
+    "wof:name":"Curral Branco",
+    "wof:parent_id":85670339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.8,
+    16.03333,
+    -22.8,
+    16.03333
+],
+  "geometry": {"coordinates":[-22.8,16.03333],"type":"Point"}
+}

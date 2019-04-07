@@ -1,0 +1,132 @@
+{
+  "id": 421179045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-22.9,16.6,-22.9,16.6",
+    "geom:latitude":16.6,
+    "geom:longitude":-22.9,
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Santa Maria"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u746a\u9e97\u4e9e"
+    ],
+    "name:deu_x_preferred":[
+        "Santa Maria"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Maria"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Maria"
+    ],
+    "name:fra_x_preferred":[
+        "Santa Maria"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Maria"
+    ],
+    "name:ger_x_preferred":[
+        "Santa Maria"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Maria"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30de\u30ea\u30a2"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud0c0\ub9c8\ub9ac\uc544"
+    ],
+    "name:lit_x_preferred":[
+        "Santa Marija"
+    ],
+    "name:nds_x_preferred":[
+        "Santa Maria"
+    ],
+    "name:nob_x_preferred":[
+        "Santa Maria"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Maria"
+    ],
+    "name:por_x_preferred":[
+        "Santa Maria"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041c\u0430\u0440\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Maria"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Maria"
+    ],
+    "qs:gn_country":"CV",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":3374218,
+    "qs:gn_pop":17231,
+    "qs:name":"Santa Maria",
+    "qs:name_adm0":"Cabo Verde",
+    "qs:name_adm1":"Sal",
+    "qs:photos":4999,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4999,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":147513,
+    "qs:woe_adm0":23424794,
+    "qs:woe_id":1310887,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        85632721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374218,
+        "gp:id":1310887,
+        "qs:id":147513,
+        "wd:id":"Q497445",
+        "wk:page":"Santa Maria, Cape Verde"
+    },
+    "wof:country":"CV",
+    "wof:created":1459009202,
+    "wof:geomhash":"21de23dd6dbe395674e091d00e212b5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632721,
+            "locality_id":421179045
+        }
+    ],
+    "wof:id":421179045,
+    "wof:lastmodified":1553816368,
+    "wof:name":"Santa Maria",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":17231,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -22.9,
+    16.6,
+    -22.9,
+    16.6
+],
+  "geometry": {"coordinates":[-22.9,16.6],"type":"Point"}
+}

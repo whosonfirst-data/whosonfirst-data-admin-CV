@@ -1,0 +1,65 @@
+{
+  "id": 1360108757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.11376,15.26719,-23.11376,15.26719",
+    "geom:latitude":15.26719,
+    "geom:longitude":-23.11376,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Santo Antonio",
+    "gn:country_code":"CV",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374212,
+    "gn:latitude":15.26719,
+    "gn:longitude":-23.11376,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Santo Ant\u00f3nio",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374212,
+        "wk:page":"Santo_Ant%C3%B3nio_(Fogo)"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"8167e3d0144e70928836aed2ab2febf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1360108757,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360108757,
+    "wof:lastmodified":1537504003,
+    "wof:name":"Santo Antonio",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.11376,
+    15.26719,
+    -23.11376,
+    15.26719
+],
+  "geometry": {"coordinates":[-23.11376,15.26719],"type":"Point"}
+}

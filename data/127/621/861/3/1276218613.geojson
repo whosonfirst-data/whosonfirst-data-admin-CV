@@ -1,0 +1,65 @@
+{
+  "id": 1276218613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.21667,17.15,-25.21667,17.15",
+    "geom:latitude":17.15,
+    "geom:longitude":-25.21667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Figueiras de Baixo",
+    "gn:country_code":"CV",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374629,
+    "gn:latitude":17.15,
+    "gn:longitude":-25.21667,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Figueiras de Baixo",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374629
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"617efc72a61af9d84980d1bb1b855c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1276218613,
+            "region_id":85670363
+        }
+    ],
+    "wof:id":1276218613,
+    "wof:lastmodified":1536933473,
+    "wof:name":"Figueiras de Baixo",
+    "wof:parent_id":85670363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.21667,
+    17.15,
+    -25.21667,
+    17.15
+],
+  "geometry": {"coordinates":[-25.21667,17.15],"type":"Point"}
+}

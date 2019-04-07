@@ -1,0 +1,64 @@
+{
+  "id": 1226766495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.65631,15.11687,-23.65631,15.11687",
+    "geom:latitude":15.11687,
+    "geom:longitude":-23.65631,
+    "gn:asciiname":"Entre Picos",
+    "gn:country_code":"CV",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11352110,
+    "gn:latitude":15.11687,
+    "gn:longitude":-23.65631,
+    "gn:modification_date":"2016-11-28",
+    "gn:name":"Entre Picos",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11352110
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"2d4b508599f7f24585b8282f8ee0622b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1226766495,
+            "region_id":85670301
+        }
+    ],
+    "wof:id":1226766495,
+    "wof:lastmodified":1536685666,
+    "wof:name":"Entre Picos",
+    "wof:parent_id":85670301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.65631,
+    15.11687,
+    -23.65631,
+    15.11687
+],
+  "geometry": {"coordinates":[-23.65631,15.11687],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1360153549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-24.35,16.66667,-24.35,16.66667",
+    "geom:latitude":16.66667,
+    "geom:longitude":-24.35,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Camaroes",
+    "gn:country_code":"CV",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374780,
+    "gn:latitude":16.66667,
+    "gn:longitude":-24.35,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Camar\u00f5es",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374780
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"d305c9e3c0e8a9c36edacbb301a14492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1360153549,
+            "region_id":85670347
+        }
+    ],
+    "wof:id":1360153549,
+    "wof:lastmodified":1536845927,
+    "wof:name":"Camaroes",
+    "wof:parent_id":85670347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -24.35,
+    16.66667,
+    -24.35,
+    16.66667
+],
+  "geometry": {"coordinates":[-24.35,16.66667],"type":"Point"}
+}

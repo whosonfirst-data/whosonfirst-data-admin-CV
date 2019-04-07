@@ -1,0 +1,64 @@
+{
+  "id": 1260090575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-23.67004,15.14998,-23.67004,15.14998",
+    "geom:latitude":15.14998,
+    "geom:longitude":-23.67004,
+    "gn:asciiname":"Achada Bel Bel",
+    "gn:country_code":"CV",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205034,
+    "gn:latitude":15.14998,
+    "gn:longitude":-23.67004,
+    "gn:modification_date":"2016-07-26",
+    "gn:name":"Achada Bel Bel",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205034
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"6d07a8099f42ff1fff9fcd5f6b33a5e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1260090575,
+            "region_id":85670301
+        }
+    ],
+    "wof:id":1260090575,
+    "wof:lastmodified":1536977135,
+    "wof:name":"Achada Bel Bel",
+    "wof:parent_id":85670301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -23.67004,
+    15.14998,
+    -23.67004,
+    15.14998
+],
+  "geometry": {"coordinates":[-23.67004,15.14998],"type":"Point"}
+}

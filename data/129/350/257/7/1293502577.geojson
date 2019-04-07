@@ -1,0 +1,67 @@
+{
+  "id": 1293502577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.14588,17.13322,-25.14588,17.13322",
+    "geom:latitude":17.13322,
+    "geom:longitude":-25.14588,
+    "gn:asciiname":"Caibros de Ribeira de Jorge",
+    "gn:country_code":"CV",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205105,
+    "gn:latitude":17.13322,
+    "gn:longitude":-25.14588,
+    "gn:modification_date":"2016-07-27",
+    "gn:name":"Caibros de Ribeira de Jorge",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caibros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632721,
+        85670363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205105
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"1d0b2adad17a8c6fa5a94a4094cddfd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632721,
+            "locality_id":1293502577,
+            "region_id":85670363
+        }
+    ],
+    "wof:id":1293502577,
+    "wof:lastmodified":1537619237,
+    "wof:name":"Caibros de Ribeira de Jorge",
+    "wof:parent_id":85670363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.14588,
+    17.13322,
+    -25.14588,
+    17.13322
+],
+  "geometry": {"coordinates":[-25.14588,17.13322],"type":"Point"}
+}

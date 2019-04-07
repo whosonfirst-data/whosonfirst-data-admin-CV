@@ -1,0 +1,62 @@
+{
+  "id": 1209335833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-25.0333,17.17618,-25.0333,17.17618",
+    "geom:latitude":17.17618,
+    "geom:longitude":-25.0333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sinagoga",
+    "gn:country_code":"CV",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374186,
+    "gn:latitude":17.17618,
+    "gn:longitude":-25.0333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sinagoga",
+    "gn:population":0,
+    "gn:timezone":"Atlantic/Cape_Verde",
+    "iso:country":"CV",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374186,
+        "wk:page":"Sinagoga"
+    },
+    "wof:country":"CV",
+    "wof:geomhash":"7700e101c81942068461280e4d412803",
+    "wof:hierarchy":[
+        {
+            "country_id":85632721,
+            "locality_id":1209335833
+        }
+    ],
+    "wof:id":1209335833,
+    "wof:lastmodified":1537504003,
+    "wof:name":"Sinagoga",
+    "wof:parent_id":85632721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cv",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -25.0333,
+    17.17618,
+    -25.0333,
+    17.17618
+],
+  "geometry": {"coordinates":[-25.0333,17.17618],"type":"Point"}
+}

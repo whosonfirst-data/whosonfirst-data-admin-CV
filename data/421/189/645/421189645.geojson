@@ -28,23 +28,17 @@
     "name:ces_x_preferred":[
         "Cidade Velha"
     ],
-    "name:chi_x_preferred":[
-        "\u820a\u57ce"
-    ],
-    "name:cze_x_preferred":[
-        "Cidade Velha"
-    ],
     "name:dan_x_preferred":[
         "Cidade Velha"
     ],
     "name:deu_x_preferred":[
         "Cidade Velha"
     ],
-    "name:dut_x_preferred":[
-        "Cidade Velha"
-    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b9\u03b4\u03ac\u03b4\u03b5 \u0392\u03ad\u03bb\u03b9\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b9\u03b4\u03ac\u03b4\u03b5 \u0392\u03ad\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Cidade Velha"
@@ -58,20 +52,8 @@
     "name:fra_x_preferred":[
         "Cidade Velha"
     ],
-    "name:fre_x_preferred":[
-        "Cidade Velha"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d8\u10d3\u10d0\u10d3\u10d4-\u10d5\u10d4\u10da\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Cidade Velha"
-    ],
     "name:glg_x_preferred":[
         "Cidade Velha"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b9\u03b4\u03ac\u03b4\u03b5 \u0392\u03ad\u03bb\u03b1"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d9\u05d3\u05d0\u05d3\u05d4 \u05d5\u05dc\u05d9\u05d4"
@@ -188,7 +170,7 @@
         }
     ],
     "wof:id":421189645,
-    "wof:lastmodified":1534379265,
+    "wof:lastmodified":1561767013,
     "wof:name":"Cidade Velha",
     "wof:parent_id":85670327,
     "wof:placetype":"locality",

@@ -22,14 +22,11 @@
     "name:cat_x_preferred":[
         "Ribeira Grande"
     ],
-    "name:chi_x_preferred":[
-        "\u5927\u91cc\u8c9d\u62c9"
-    ],
     "name:dan_x_preferred":[
         "Ribeira Grande"
     ],
-    "name:dut_x_preferred":[
-        "Ribeira Grande"
+    "name:ell_x_preferred":[
+        "\u03a1\u03b9\u03bc\u03c0\u03ad\u03b9\u03c1\u03b1 \u0393\u03ba\u03c1\u03ac\u03bd\u03c4\u03b5"
     ],
     "name:eng_x_preferred":[
         "Ribeira Grande"
@@ -37,11 +34,8 @@
     "name:fin_x_preferred":[
         "Ribeira Grande"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ribeira Grande"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03b9\u03bc\u03c0\u03ad\u03b9\u03c1\u03b1 \u0393\u03ba\u03c1\u03ac\u03bd\u03c4\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0abf\u0aac\u0ac7\u0ab0\u0abe \u0a97\u0acd\u0ab0\u0abe\u0aa8\u0acd\u0aa1\u0ac7"
@@ -73,7 +67,10 @@
     "name:mar_x_preferred":[
         "\u0930\u093f\u092c\u0947\u0930\u093e \u0917\u094d\u0930\u093e\u0902\u0921\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Ribeira Grande"
+    ],
+    "name:nld_x_preferred":[
         "Ribeira Grande"
     ],
     "name:nob_x_preferred":[
@@ -121,6 +118,9 @@
     "name:vie_x_preferred":[
         "Ribeira Grande"
     ],
+    "name:zho_x_preferred":[
+        "\u5927\u91cc\u8c9d\u62c9"
+    ],
     "qs:gn_country":"CV",
     "qs:gn_fcode":"PPLA",
     "qs:gn_id":3374275,
@@ -161,7 +161,7 @@
         }
     ],
     "wof:id":421179929,
-    "wof:lastmodified":1553816369,
+    "wof:lastmodified":1561767013,
     "wof:name":"Ribeira Grande",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

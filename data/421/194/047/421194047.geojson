@@ -19,12 +19,6 @@
     "name:ceb_x_preferred":[
         "Tarrafal"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u62c9\u6cd5\u723e"
-    ],
-    "name:dut_x_preferred":[
-        "Tarrafal"
-    ],
     "name:ell_x_preferred":[
         "\u03a4\u03b1\u03c1\u03c1\u03b1\u03c6\u03ac\u03bb"
     ],
@@ -33,12 +27,6 @@
     ],
     "name:fra_x_preferred":[
         "Tarrafal"
-    ],
-    "name:fre_x_preferred":[
-        "Tarrafal"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03c1\u03c1\u03b1\u03c6\u03ac\u03bb"
     ],
     "name:ita_x_preferred":[
         "Tarrafal"
@@ -118,7 +106,7 @@
         }
     ],
     "wof:id":421194047,
-    "wof:lastmodified":1527716130,
+    "wof:lastmodified":1561767012,
     "wof:name":"Tarrafal",
     "wof:parent_id":85670299,
     "wof:placetype":"locality",

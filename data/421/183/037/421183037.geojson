@@ -19,26 +19,14 @@
     "name:ceb_x_preferred":[
         "Vila Nova Sintra"
     ],
-    "name:chi_x_preferred":[
-        "\u65b0\u8f9b\u7279\u62c9"
-    ],
     "name:deu_x_preferred":[
         "Vila Nova Sintra"
-    ],
-    "name:dut_x_preferred":[
-        "Nova Sintra"
     ],
     "name:eng_x_preferred":[
         "Nova Sintra"
     ],
     "name:fra_x_preferred":[
         "Nova Sintra"
-    ],
-    "name:fre_x_preferred":[
-        "Nova Sintra"
-    ],
-    "name:ger_x_preferred":[
-        "Vila Nova Sintra"
     ],
     "name:ita_x_preferred":[
         "Nova Sintra"
@@ -51,6 +39,9 @@
     ],
     "name:nds_x_preferred":[
         "Vila Nova Sintra"
+    ],
+    "name:nld_x_preferred":[
+        "Nova Sintra"
     ],
     "name:nob_x_preferred":[
         "Vila Nova Sintra"
@@ -65,9 +56,6 @@
         "Nova Sintra"
     ],
     "name:ron_x_preferred":[
-        "Vila Nova Sintra"
-    ],
-    "name:rum_x_preferred":[
         "Vila Nova Sintra"
     ],
     "name:spa_x_preferred":[
@@ -130,7 +118,7 @@
         }
     ],
     "wof:id":421183037,
-    "wof:lastmodified":1527716491,
+    "wof:lastmodified":1561767013,
     "wof:name":"Vila Nova Sintra",
     "wof:parent_id":85670279,
     "wof:placetype":"locality",

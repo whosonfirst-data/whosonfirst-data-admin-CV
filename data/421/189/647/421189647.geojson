@@ -28,16 +28,10 @@
     "name:ceb_x_preferred":[
         "Espargos"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u65af\u5e15\u6208\u65af"
-    ],
     "name:dan_x_preferred":[
         "Espargos"
     ],
     "name:deu_x_preferred":[
-        "Espargos"
-    ],
-    "name:dut_x_preferred":[
         "Espargos"
     ],
     "name:ell_x_preferred":[
@@ -51,15 +45,6 @@
     ],
     "name:fra_x_preferred":[
         "Espargos"
-    ],
-    "name:fre_x_preferred":[
-        "Espargos"
-    ],
-    "name:ger_x_preferred":[
-        "Espargos"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c3\u03c0\u03ac\u03c1\u03b3\u03ba\u03bf\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0ab8\u0acd\u0aaa\u0abe\u0ab0\u0acd\u0a97\u0acb\u0ab8"
@@ -91,7 +76,7 @@
     "name:mar_x_preferred":[
         "\u090f\u0938\u094d\u092a\u093e\u0930\u094d\u0917\u094b\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Espargos"
     ],
     "name:nds_x_preferred":[
@@ -119,9 +104,6 @@
         "\u0d91\u0dc3\u0dca\u0db4\u0dbb\u0d9c\u0ddc\u0dc3\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Espargos"
-    ],
-    "name:slo_x_preferred":[
         "Espargos"
     ],
     "name:spa_x_preferred":[
@@ -202,7 +184,7 @@
         }
     ],
     "wof:id":421189647,
-    "wof:lastmodified":1527716269,
+    "wof:lastmodified":1561767013,
     "wof:name":"Espargos",
     "wof:parent_id":85670341,
     "wof:placetype":"locality",

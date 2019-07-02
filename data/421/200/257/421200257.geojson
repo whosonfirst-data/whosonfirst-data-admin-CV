@@ -19,12 +19,6 @@
     "name:ceb_x_preferred":[
         "Vila da Ribeira Brava"
     ],
-    "name:chi_x_preferred":[
-        "\u91cc\u8c9d\u62c9\u5e03\u62c9\u74e6"
-    ],
-    "name:dut_x_preferred":[
-        "Ribeira Brava"
-    ],
     "name:ell_x_preferred":[
         "\u03a1\u03b9\u03bc\u03c0\u03ad\u03b9\u03c1\u03b1 \u039c\u03c0\u03c1\u03ac\u03b2\u03b1"
     ],
@@ -33,12 +27,6 @@
     ],
     "name:fra_x_preferred":[
         "Ribeira Brava"
-    ],
-    "name:fre_x_preferred":[
-        "Ribeira Brava"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03b9\u03bc\u03c0\u03ad\u03b9\u03c1\u03b1 \u039c\u03c0\u03c1\u03ac\u03b2\u03b1"
     ],
     "name:ita_x_preferred":[
         "Ribeira Brava"
@@ -113,7 +101,7 @@
         }
     ],
     "wof:id":421200257,
-    "wof:lastmodified":1527716423,
+    "wof:lastmodified":1561767013,
     "wof:name":"Ribeira Brava",
     "wof:parent_id":85670347,
     "wof:placetype":"locality",

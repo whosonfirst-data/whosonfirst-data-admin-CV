@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "Praia"
     ],
-    "name:alb_x_preferred":[
-        "Praia"
-    ],
     "name:amh_x_preferred":[
         "\u1355\u122b\u12eb"
     ],
@@ -32,14 +29,8 @@
     "name:arg_x_preferred":[
         "Praia"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u0580\u0561\u0575\u0561"
-    ],
     "name:aze_x_preferred":[
         "Praya"
-    ],
-    "name:baq_x_preferred":[
-        "Praia"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0440\u0430\u044f"
@@ -65,25 +56,22 @@
     "name:cat_x_preferred":[
         "Praia"
     ],
+    "name:ces_x_preferred":[
+        "Praia"
+    ],
     "name:che_x_preferred":[
         "\u041f\u0440\u0430\u044f"
-    ],
-    "name:chi_x_preferred":[
-        "\u57f9\u4e9e"
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0695\u0627\u06cc\u0627"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Praia"
     ],
     "name:dan_x_preferred":[
         "Praia"
     ],
     "name:deu_x_preferred":[
-        "Praia"
-    ],
-    "name:dut_x_preferred":[
         "Praia"
     ],
     "name:ell_x_preferred":[
@@ -101,6 +89,9 @@
     "name:est_x_preferred":[
         "Praia"
     ],
+    "name:eus_x_preferred":[
+        "Praia"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0631\u0627\u06cc\u0627"
     ],
@@ -110,19 +101,10 @@
     "name:fra_x_preferred":[
         "Praia"
     ],
-    "name:fre_x_preferred":[
-        "Praia"
-    ],
     "name:frp_x_preferred":[
         "Praia"
     ],
     "name:fry_x_preferred":[
-        "Praia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10e0\u10d0\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Praia"
     ],
     "name:gla_x_preferred":[
@@ -133,9 +115,6 @@
     ],
     "name:glg_x_preferred":[
         "Praia"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03c1\u03ac\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0ab0\u0abe\u0a87\u0a86"
@@ -158,9 +137,6 @@
     "name:hye_x_preferred":[
         "\u054a\u0580\u0561\u0575\u0561"
     ],
-    "name:ice_x_preferred":[
-        "Praia"
-    ],
     "name:ido_x_preferred":[
         "Praia"
     ],
@@ -168,6 +144,9 @@
         "Praia"
     ],
     "name:ind_x_preferred":[
+        "Praia"
+    ],
+    "name:isl_x_preferred":[
         "Praia"
     ],
     "name:ita_x_preferred":[
@@ -215,17 +194,8 @@
     "name:ltz_x_preferred":[
         "Praia"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0440\u0430\u0458\u0430"
-    ],
-    "name:mao_x_preferred":[
-        "Praia"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u094d\u0930\u093e\u0908\u092f\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Praia"
     ],
     "name:mkd_x_preferred":[
         "\u041f\u0440\u0430\u0458\u0430"
@@ -233,8 +203,14 @@
     "name:mlg_x_preferred":[
         "Praia"
     ],
+    "name:mri_x_preferred":[
+        "Praia"
+    ],
     "name:mrj_x_preferred":[
         "\u041f\u0440\u0430\u044f"
+    ],
+    "name:msa_x_preferred":[
+        "Praia"
     ],
     "name:mwl_x_preferred":[
         "Praia"
@@ -278,9 +254,6 @@
     "name:pap_x_preferred":[
         "Praia"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0631\u0627\u06cc\u0627"
-    ],
     "name:pms_x_preferred":[
         "Praia"
     ],
@@ -297,7 +270,7 @@
         "Munic\u00edpio da Praia",
         "Cidade da Praia"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Praia"
     ],
     "name:rus_x_preferred":[
@@ -318,9 +291,6 @@
     "name:slk_x_preferred":[
         "Praia"
     ],
-    "name:slo_x_preferred":[
-        "Praia"
-    ],
     "name:slv_x_preferred":[
         "Praia"
     ],
@@ -331,6 +301,9 @@
         "Braia"
     ],
     "name:spa_x_preferred":[
+        "Praia"
+    ],
+    "name:sqi_x_preferred":[
         "Praia"
     ],
     "name:srp_x_preferred":[
@@ -363,9 +336,6 @@
     "name:tha_x_preferred":[
         "\u0e44\u0e1b\u0e23\u0e2d\u0e32"
     ],
-    "name:tib_x_preferred":[
-        "\u0f55\u0f74\u0f0b\u0f62\u0f0b\u0f61\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Praia"
     ],
@@ -397,9 +367,6 @@
         "Praia"
     ],
     "name:war_x_preferred":[
-        "Praia"
-    ],
-    "name:wel_x_preferred":[
         "Praia"
     ],
     "name:wol_x_preferred":[
@@ -557,7 +524,7 @@
         }
     ],
     "wof:id":421169045,
-    "wof:lastmodified":1552519482,
+    "wof:lastmodified":1561767012,
     "wof:name":"Praia",
     "wof:parent_id":85670331,
     "wof:placetype":"locality",

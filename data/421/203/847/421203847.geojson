@@ -29,19 +29,13 @@
     "name:ceb_x_preferred":[
         "Mindelo"
     ],
-    "name:chi_x_preferred":[
-        "\u660e\u5fb7\u76e7"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Mindelo"
     ],
     "name:dan_x_preferred":[
         "Mindelo"
     ],
     "name:deu_x_preferred":[
-        "Mindelo"
-    ],
-    "name:dut_x_preferred":[
         "Mindelo"
     ],
     "name:ell_x_preferred":[
@@ -58,15 +52,6 @@
     ],
     "name:fra_x_preferred":[
         "Mindelo"
-    ],
-    "name:fre_x_preferred":[
-        "Mindelo"
-    ],
-    "name:ger_x_preferred":[
-        "Mindelo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b9\u03bd\u03c4\u03ad\u03bb\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abf\u0aa8\u0acd\u0aa1\u0ac7\u0ab2\u0acb"
@@ -113,7 +98,7 @@
     "name:mar_x_preferred":[
         "\u092e\u093f\u0928\u094d\u0926\u0947\u0932\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mindelo"
     ],
     "name:nds_x_preferred":[
@@ -135,9 +120,6 @@
         "Mindelo"
     ],
     "name:ron_x_preferred":[
-        "Mindelo"
-    ],
-    "name:rum_x_preferred":[
         "Mindelo"
     ],
     "name:rus_x_preferred":[
@@ -325,7 +307,7 @@
         }
     ],
     "wof:id":421203847,
-    "wof:lastmodified":1527716198,
+    "wof:lastmodified":1561767012,
     "wof:name":"Mindelo",
     "wof:parent_id":85670355,
     "wof:placetype":"locality",

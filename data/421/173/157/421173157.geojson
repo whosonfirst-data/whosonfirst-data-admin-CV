@@ -19,13 +19,7 @@
     "name:ceb_x_preferred":[
         "Vila de Sal Rei"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u723e\u96f7"
-    ],
     "name:deu_x_preferred":[
-        "Sal Rei"
-    ],
-    "name:dut_x_preferred":[
         "Sal Rei"
     ],
     "name:ell_x_preferred":[
@@ -36,15 +30,6 @@
     ],
     "name:fra_x_preferred":[
         "Sal Rei"
-    ],
-    "name:fre_x_preferred":[
-        "Sal Rei"
-    ],
-    "name:ger_x_preferred":[
-        "Sal Rei"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bb \u03a1\u03ad\u03b9"
     ],
     "name:ita_x_preferred":[
         "Sal Rei"
@@ -59,6 +44,9 @@
         "Sal Rei"
     ],
     "name:nds_x_preferred":[
+        "Sal Rei"
+    ],
+    "name:nld_x_preferred":[
         "Sal Rei"
     ],
     "name:nob_x_preferred":[
@@ -136,7 +124,7 @@
         }
     ],
     "wof:id":421173157,
-    "wof:lastmodified":1527716253,
+    "wof:lastmodified":1561767012,
     "wof:name":"Sal Rei",
     "wof:parent_id":85670339,
     "wof:placetype":"locality",

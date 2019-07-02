@@ -152,9 +152,6 @@
     "name:cym_x_variant":[
         "Cape Verde"
     ],
-    "name:cze_x_preferred":[
-        "Kapverdy"
-    ],
     "name:dan_x_preferred":[
         "Kap Verde"
     ],
@@ -599,9 +596,6 @@
     "name:ron_x_variant":[
         "Capul Verde"
     ],
-    "name:rum_x_preferred":[
-        "Republica Capului Verde"
-    ],
     "name:rum_x_variant":[
         "Capul Verde"
     ],
@@ -818,8 +812,7 @@
         "\u4f5b\u5f97\u89d2"
     ],
     "name:zho_x_variant":[
-        "\u7dad\u5fb7\u89d2",
-        "\u4f5b\u5f97\u89d2"
+        "\u7dad\u5fb7\u89d2"
     ],
     "name:zho_yue_x_preferred":[
         "\u7dad\u5fb7\u89d2"
@@ -977,7 +970,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1544059165,
+    "wof:lastmodified":1561767009,
     "wof:name":"Cape Verde",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0643\u0631\u0648\u0632"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u0995\u09cd\u09b0\u09c1\u099c\u09c7\u09b0"
+    ],
     "name:bre_x_preferred":[
         "Santa Cruz"
     ],
@@ -25,28 +31,67 @@
     "name:ceb_x_preferred":[
         "Santa Cruz"
     ],
+    "name:dan_x_preferred":[
+        "Santa Cruz"
+    ],
     "name:deu_x_preferred":[
         "Santa Cruz"
     ],
     "name:ell_x_preferred":[
         "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03ac\u03bd\u03c4\u03b1 \u039a\u03c1\u03bf\u03c5\u03b6"
     ],
+    "name:eng_x_preferred":[
+        "Santa Cruz"
+    ],
+    "name:fin_x_preferred":[
+        "Santa Cruz"
+    ],
     "name:fra_x_preferred":[
+        "Santa Cruz"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abe\u0aa8\u0acd\u0aa4\u0abe \u0a95\u0acd\u0ab0\u0ac2\u0a9d"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093e\u0902\u0924\u093e \u0915\u094d\u0930\u0941\u091c\u093c"
+    ],
+    "name:hun_x_preferred":[
+        "Santa Cruz"
+    ],
+    "name:ind_x_preferred":[
         "Santa Cruz"
     ],
     "name:ita_x_preferred":[
         "Contea di Santa Cruz"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30af\u30eb\u30b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cbe\u0c82\u0ca4\u0cbe \u0c95\u0ccd\u0cb0\u0cc2\u0c9c\u0ccd"
+    ],
     "name:kor_x_preferred":[
         "\uc0b0\ud0c0\ud06c\ub8e8\uc2a4 \uc2dc"
     ],
+    "name:lav_x_preferred":[
+        "Santakruza"
+    ],
     "name:lit_x_preferred":[
         "Santa Kruso savivaldyb\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u093e\u0902\u0924\u093e\u0915\u094d\u0930\u0942\u091d"
+    ],
+    "name:msa_x_preferred":[
+        "Santa Cruz"
     ],
     "name:nds_x_preferred":[
         "Santa Cruz"
     ],
     "name:nld_x_preferred":[
+        "Santa Cruz"
+    ],
+    "name:nob_x_preferred":[
         "Santa Cruz"
     ],
     "name:pol_x_preferred":[
@@ -55,10 +100,40 @@
     "name:por_x_preferred":[
         "Santa Cruz"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0437"
+    ],
+    "name:sco_x_preferred":[
+        "Santa Cruz"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd0\u0db1\u0dca\u0da7\u0dcf \u0d9a\u0dd8\u0dc3\u0dca"
+    ],
     "name:spa_x_preferred":[
         "Santa Cruz"
     ],
     "name:swe_x_preferred":[
+        "Santa Cruz"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0ba3\u0bcd\u0b9f\u0bbe  \u0b95\u0bbf\u0bb0\u0bc1\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3e\u0c02\u0c1f\u0c3e \u0c15\u0c4d\u0c30\u0c1c\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19\u0e15\u0e32\u0e04\u0e23\u0e39\u0e0b"
+    ],
+    "name:tur_x_preferred":[
+        "Santa Cruz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0437"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0646\u062a\u0627 \u06a9\u0631\u0648\u0632"
+    ],
+    "name:vie_x_preferred":[
         "Santa Cruz"
     ],
     "name:zho_x_preferred":[
@@ -110,7 +185,7 @@
         }
     ],
     "wof:id":421179047,
-    "wof:lastmodified":1527717704,
+    "wof:lastmodified":1563331884,
     "wof:name":"Santa Cruz",
     "wof:parent_id":85670311,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0644"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09b2"
+    ],
     "name:bre_x_preferred":[
         "Paul"
     ],
@@ -49,19 +55,49 @@
     "name:eng_x_variant":[
         "Paul Municipality"
     ],
+    "name:fin_x_preferred":[
+        "Paul"
+    ],
     "name:fra_x_preferred":[
+        "Paul"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0acb\u0ab2"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0949\u0932"
+    ],
+    "name:ind_x_preferred":[
         "Paul"
     ],
     "name:ita_x_preferred":[
         "Contea di Paul"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30a6\u30eb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0cbe\u0cb2\u0ccd"
+    ],
     "name:kor_x_preferred":[
         "\ud30c\uc6b8 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Paula"
     ],
     "name:lit_x_preferred":[
         "Paulio savivaldyb\u0117"
     ],
+    "name:mar_x_preferred":[
+        "\u092a\u0949\u0932"
+    ],
+    "name:msa_x_preferred":[
+        "Paul"
+    ],
     "name:nld_x_preferred":[
+        "Pa\u00fal"
+    ],
+    "name:nob_x_preferred":[
         "Pa\u00fal"
     ],
     "name:nor_x_preferred":[
@@ -76,14 +112,41 @@
     "name:ron_x_preferred":[
         "Pa\u00fal"
     ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0dcf\u0dc0\u0dd4\u0dc5\u0dd4"
+    ],
     "name:spa_x_preferred":[
         "Paul"
     ],
     "name:swe_x_preferred":[
         "Concelho do Paul"
     ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbe\u0bb2\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c3e\u0c32\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1e\u0e2d\u0e25"
+    ],
+    "name:tur_x_preferred":[
+        "Paul"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043b\u044c"
+    ],
     "name:unk_x_variant":[
         "Concelho do Paul"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Paul"
     ],
     "name:zho_x_preferred":[
         "\u4fdd\u723e\u7e23"
@@ -212,7 +275,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553550350,
+    "wof:lastmodified":1563331832,
     "wof:name":"Paul",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

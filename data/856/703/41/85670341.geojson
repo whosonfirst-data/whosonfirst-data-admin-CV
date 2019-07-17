@@ -25,8 +25,29 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0644"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09b2"
+    ],
+    "name:bre_x_preferred":[
+        "Sal"
+    ],
+    "name:cat_x_preferred":[
+        "Sal"
+    ],
+    "name:ceb_x_preferred":[
+        "Sal Municipality"
+    ],
+    "name:dan_x_preferred":[
+        "Sal"
+    ],
     "name:deu_x_preferred":[
         "Sal"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03b1\u03bb"
     ],
     "name:eng_x_preferred":[
         "Sal"
@@ -34,7 +55,52 @@
     "name:eng_x_variant":[
         "Sal Municipality"
     ],
+    "name:fin_x_preferred":[
+        "Sal"
+    ],
     "name:fra_x_preferred":[
+        "Sal"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abe\u0ab2"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093e\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "Sal"
+    ],
+    "name:ind_x_preferred":[
+        "Sal"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30eb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cbe\u0cb2\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b4 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Sala"
+    ],
+    "name:lit_x_preferred":[
+        "Salas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u093e\u0932"
+    ],
+    "name:msa_x_preferred":[
+        "Sal"
+    ],
+    "name:nld_x_preferred":[
+        "Sal"
+    ],
+    "name:nob_x_preferred":[
+        "Sal"
+    ],
+    "name:pol_x_preferred":[
         "Sal"
     ],
     "name:por_x_preferred":[
@@ -42,6 +108,42 @@
     ],
     "name:por_x_variant":[
         "Concelho do Sal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dbd\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Sal"
+    ],
+    "name:swe_x_preferred":[
+        "Sal"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb8\u0bb2\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3e\u0c32\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e25"
+    ],
+    "name:tur_x_preferred":[
+        "Sal"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043b"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Sal"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u723e\u7e23"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CPV",
@@ -165,7 +267,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553550350,
+    "wof:lastmodified":1563331838,
     "wof:name":"Sal",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

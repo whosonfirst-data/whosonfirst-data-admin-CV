@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Pombas"
     ],
+    "name:ceb_x_preferred":[
+        "Pombas"
+    ],
     "name:ell_x_preferred":[
         "\u0392\u03af\u03bb\u03b1 \u03bd\u03c4\u03b1\u03c2 \u03a0\u03cc\u03bc\u03c0\u03b1\u03c2"
     ],
@@ -47,6 +50,9 @@
         "Pombas"
     ],
     "name:unk_x_variant":[
+        "Pombas"
+    ],
+    "name:wol_x_preferred":[
         "Pombas"
     ],
     "name:zho_x_preferred":[
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421203851,
-    "wof:lastmodified":1561767012,
+    "wof:lastmodified":1563331875,
     "wof:name":"Vila das Pombas",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

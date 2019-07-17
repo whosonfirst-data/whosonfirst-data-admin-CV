@@ -29,6 +29,9 @@
     "name:aka_x_preferred":[
         "Kepv\u025bdfo Islands"
     ],
+    "name:aka_x_variant":[
+        "Cape Verde"
+    ],
     "name:als_x_preferred":[
         "Kap Verde"
     ],
@@ -36,7 +39,8 @@
         "\u12ab\u1266 \u1268\u122d\u12f4"
     ],
     "name:amh_x_variant":[
-        "\u12ac\u1355 \u126c\u122d\u12f4"
+        "\u12ac\u1355 \u126c\u122d\u12f4",
+        "\u12ac\u1355 \u1268\u122d\u12f5"
     ],
     "name:ang_x_preferred":[
         "Gr\u0113nen\u00e6s \u012aega"
@@ -55,6 +59,9 @@
     ],
     "name:ast_x_preferred":[
         "Cabu Verde"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u06cc\u067e \u0648\u0631\u062f"
     ],
     "name:aze_x_preferred":[
         "Kabo-Verde"
@@ -89,6 +96,12 @@
     "name:ben_x_variant":[
         "\u0995\u09c7\u09aa\u09ad\u09be\u09b0\u09cd\u09a6\u09c7"
     ],
+    "name:bgn_x_preferred":[
+        "\u06a9\u0627\u067e\u06cc \u0648\u06cc\u0631\u062f\u06cc"
+    ],
+    "name:bho_x_preferred":[
+        "\u0915\u0947\u092a \u0935\u0930\u094d\u0921\u0947"
+    ],
     "name:bjn_x_preferred":[
         "Tanjung Verde"
     ],
@@ -122,6 +135,9 @@
     "name:ceb_x_preferred":[
         "Cabo Verde"
     ],
+    "name:ceb_x_variant":[
+        "Cape Verde"
+    ],
     "name:ces_x_preferred":[
         "Kapverdy"
     ],
@@ -150,7 +166,8 @@
         "Penrhyn Verde"
     ],
     "name:cym_x_variant":[
-        "Cape Verde"
+        "Cape Verde",
+        "Cabo Verde"
     ],
     "name:dan_x_preferred":[
         "Kap Verde"
@@ -166,11 +183,17 @@
     "name:diq_x_preferred":[
         "Kabo Verde"
     ],
+    "name:diq_x_variant":[
+        "Kap Verde"
+    ],
     "name:div_x_preferred":[
         "\u0786\u07ad\u0795\u07b0 \u0788\u07a7\u0791\u07ad"
     ],
     "name:dsb_x_preferred":[
         "Kap Verde"
+    ],
+    "name:dty_x_preferred":[
+        "\u0915\u0947\u092a \u092d\u0930\u094d\u0921\u0947"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03c1\u03ac\u03c3\u03b9\u03bd\u03bf \u0391\u03ba\u03c1\u03c9\u03c4\u03ae\u03c1\u03b9\u03bf"
@@ -254,6 +277,9 @@
     "name:gla_x_preferred":[
         "Cape Verde"
     ],
+    "name:gla_x_variant":[
+        "An Ceap Uaine"
+    ],
     "name:gle_x_preferred":[
         "Rinn Verde"
     ],
@@ -266,8 +292,17 @@
     "name:glv_x_preferred":[
         "Yn Rheynn Ghlass"
     ],
+    "name:grn_x_preferred":[
+        "K\u00e1vo V\u00e9yde"
+    ],
+    "name:gsw_x_preferred":[
+        "Kap Verde"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac5\u0aaa \u0ab5\u0ab0\u0acd\u0aa1\u0ac7"
+    ],
+    "name:guj_x_variant":[
+        "\u0a95\u0ac7\u0aaa \u0ab5\u0ab0\u0acd\u0aa1"
     ],
     "name:hak_x_preferred":[
         "Cabo Verde"
@@ -277,6 +312,12 @@
     ],
     "name:hau_x_preferred":[
         "Tsibiran Kap Barde"
+    ],
+    "name:hau_x_variant":[
+        "Cabo Verde"
+    ],
+    "name:haw_x_preferred":[
+        "Kapo Weleke"
     ],
     "name:hbs_x_preferred":[
         "Zelenortska Republika"
@@ -346,6 +387,9 @@
     "name:jav_x_preferred":[
         "Pongol Verd\u00e9"
     ],
+    "name:jav_x_variant":[
+        "Tanjung Verde"
+    ],
     "name:jpn_x_preferred":[
         "\u30ab\u30fc\u30dc\u30d9\u30eb\u30c7"
     ],
@@ -355,6 +399,9 @@
     ],
     "name:kaa_x_preferred":[
         "Kabo-verde"
+    ],
+    "name:kaa_x_variant":[
+        "Cape Verde"
     ],
     "name:kab_x_preferred":[
         "I\u0263ef Azegzaw"
@@ -370,6 +417,15 @@
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0430\u0431\u043e \u0412\u0435\u0440\u0434\u0435"
+    ],
+    "name:kaz_x_variant":[
+        "\u041a\u0430\u0431\u043e-\u0412\u0435\u0440\u0434\u0435"
+    ],
+    "name:kbp_x_preferred":[
+        "Kap\u028av\u025b\u025br\u0269"
+    ],
+    "name:kea_x_preferred":[
+        "Kabu Verdi"
     ],
     "name:khm_x_preferred":[
         "\u1780\u17b6\u1794\u179c\u17c2\u179a"
@@ -401,6 +457,9 @@
     "name:kur_x_variant":[
         "\u06a9\u06d5\u06cc\u067e\u06a4\u06d5\u0631\u062f"
     ],
+    "name:lad_x_preferred":[
+        "Kabo Vedre"
+    ],
     "name:lao_x_preferred":[
         "\u0ec0\u0e84\u0e9a\u0ea7\u0ead\u0e94"
     ],
@@ -410,8 +469,14 @@
     "name:lav_x_preferred":[
         "Kaboverde"
     ],
+    "name:lfn_x_preferred":[
+        "Capo Verde"
+    ],
     "name:lij_x_preferred":[
         "Cavo Verde"
+    ],
+    "name:lij_x_variant":[
+        "Cappo Verde"
     ],
     "name:lim_x_preferred":[
         "Kaapverdi\u00eb"
@@ -439,6 +504,12 @@
     ],
     "name:lug_x_preferred":[
         "Bizinga by'e Kepu Veredi"
+    ],
+    "name:lug_x_variant":[
+        "Cape Verde"
+    ],
+    "name:lzh_x_preferred":[
+        "\u7dad\u5fb7\u89d2"
     ],
     "name:mal_x_preferred":[
         "\u0d15\u0d47\u0d2a\u0d4d\u0d2a\u0d4d \u0d35\u0d47\u0d7c\u0d21\u0d4d"
@@ -491,6 +562,12 @@
     "name:mzn_x_preferred":[
         "\u06a9\u06cc\u067e \u0648\u0631\u062f"
     ],
+    "name:nah_x_preferred":[
+        "Cabo Xoxoctic"
+    ],
+    "name:nan_x_preferred":[
+        "Cabo Verde"
+    ],
     "name:nau_x_preferred":[
         "Keip Berde"
     ],
@@ -539,6 +616,9 @@
     "name:oci_x_preferred":[
         "Cap Verd"
     ],
+    "name:olo_x_preferred":[
+        "Kabo Verde"
+    ],
     "name:ori_x_preferred":[
         "\u0b15\u0b47\u0b2a \u0b2d\u0b30\u0b4d\u0b21"
     ],
@@ -584,6 +664,9 @@
     "name:por_x_variant":[
         "Rep\u00fablica de Cabo Verde"
     ],
+    "name:pus_x_preferred":[
+        "\u06a9\u06cc\u067e \u0648\u0631\u0689"
+    ],
     "name:que_x_preferred":[
         "Q'umir Kawu"
     ],
@@ -623,6 +706,12 @@
     "name:sco_x_preferred":[
         "Cape Verde"
     ],
+    "name:sgs_x_preferred":[
+        "\u017dal\u0117j\u0117 \u0116\u0161k\u012b\u0161ol\u0117 Respobl\u0117ka"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dda\u0db4\u0dca \u0dc0\u0dbb\u0dca\u0da9\u0dca"
+    ],
     "name:slk_x_preferred":[
         "Kapverdy"
     ],
@@ -631,6 +720,9 @@
     ],
     "name:sme_x_preferred":[
         "Kap Verde"
+    ],
+    "name:smo_x_preferred":[
+        "Cabo Verde"
     ],
     "name:sna_x_preferred":[
         "Cape Verde"
@@ -694,7 +786,8 @@
         "\u0b95\u0bc7\u0baa\u0bcd \u0bb5\u0bb0\u0bcd\u0b9f\u0bbf"
     ],
     "name:tam_x_variant":[
-        "\u0b95\u0bc7\u0baa\u0bcd \u0bb5\u0bc6\u0bb0\u0bcd\u0b9f\u0bc7"
+        "\u0b95\u0bc7\u0baa\u0bcd \u0bb5\u0bc6\u0bb0\u0bcd\u0b9f\u0bc7",
+        "\u0b95\u0bc7\u0baa\u0bcd \u0bb5\u0bc7\u0bb0\u0bcd\u0b9f\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u041a\u0430\u0431\u043e-\u0412\u0435\u0440\u0434\u0435"
@@ -713,6 +806,9 @@
     ],
     "name:tgl_x_preferred":[
         "Kabo Berde"
+    ],
+    "name:tgl_x_variant":[
+        "Cabo Verde"
     ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e01\u0e32\u0e1a\u0e39\u0e40\u0e27\u0e23\u0e4c\u0e14\u0e35"
@@ -738,6 +834,9 @@
     "name:tur_x_variant":[
         "Cape Verde",
         "Ye\u015filburun"
+    ],
+    "name:udm_x_preferred":[
+        "\u041a\u0430\u0431\u043e-\u0412\u0435\u0440\u0434\u0435"
     ],
     "name:uig_x_preferred":[
         "\u064a\u06d0\u0634\u0649\u0644 \u062a\u06c7\u0645\u0634\u06c7\u0642 \u0626\u0627\u0631\u0627\u0644\u0644\u0649\u0631\u0649"
@@ -766,6 +865,9 @@
     "name:uzb_x_preferred":[
         "Kabo-Verde"
     ],
+    "name:uzb_x_variant":[
+        "Kabo Verde"
+    ],
     "name:vec_x_preferred":[
         "Capo Verde"
     ],
@@ -781,6 +883,9 @@
     "name:vol_x_preferred":[
         "Kabov\u00e4rdu\u00e4ns"
     ],
+    "name:vro_x_preferred":[
+        "Cabo Verde"
+    ],
     "name:war_x_preferred":[
         "Cabo Verde"
     ],
@@ -789,6 +894,9 @@
     ],
     "name:wol_x_preferred":[
         "Kap Weert"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4f5b\u5f97\u89d2"
     ],
     "name:xal_x_preferred":[
         "\u041d\u043e\u04bb\u0430\u043d\u043e\u043c\u0433\u0443\u0434\u0438\u043d \u041e\u0440\u043d"
@@ -799,11 +907,20 @@
     "name:yid_x_preferred":[
         "\u05e7\u05d0\u05e4\u05d5\u05d5\u05e2\u05e8\u05d3\u05d9\u05e9\u05e2 \u05d0\u05d9\u05e0\u05d6\u05dc\u05e2\u05df"
     ],
+    "name:yid_x_variant":[
+        "\u05e7\u05d0\u05e4 \u05d5\u05d5\u05e2\u05e8\u05d3"
+    ],
     "name:yor_x_preferred":[
         "Kepu Ferde"
     ],
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de Et\u00edokun K\u00e1p\u00e9 f\u00e9nd\u00e8"
+    ],
+    "name:yue_x_preferred":[
+        "\u7dad\u5fb7\u89d2"
+    ],
+    "name:zha_x_preferred":[
+        "Cabo Verde"
     ],
     "name:zho_min_nan_x_preferred":[
         "Chhe\u207f-kak Ki\u014dng-h\u00f4-kok"
@@ -970,7 +1087,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1561767009,
+    "wof:lastmodified":1563331843,
     "wof:name":"Cape Verde",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

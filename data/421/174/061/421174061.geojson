@@ -16,10 +16,16 @@
     "name:cat_x_preferred":[
         "Povoa\u00e7\u00e3o Velha"
     ],
+    "name:ces_x_preferred":[
+        "Povoa\u00e7\u00e3o Velha"
+    ],
     "name:deu_x_preferred":[
         "Povoa\u00e7\u00e3o Velha"
     ],
     "name:eng_x_preferred":[
+        "Povoa\u00e7\u00e3o Velha"
+    ],
+    "name:fra_x_preferred":[
         "Povoa\u00e7\u00e3o Velha"
     ],
     "name:mwl_x_preferred":[
@@ -36,6 +42,12 @@
     ],
     "name:por_x_preferred":[
         "Povoa\u00e7\u00e3o Velha"
+    ],
+    "name:wol_x_preferred":[
+        "Povoa\u00e7\u00e3o Velha"
+    ],
+    "name:zho_x_preferred":[
+        "\u820a\u57ce\u5340"
     ],
     "qs:gn_country":"CV",
     "qs:gn_fcode":"PPL",
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":421174061,
-    "wof:lastmodified":1561767012,
+    "wof:lastmodified":1563331877,
     "wof:name":"Povoa\u00e7\u00e3o Velha",
     "wof:parent_id":85670339,
     "wof:placetype":"locality",

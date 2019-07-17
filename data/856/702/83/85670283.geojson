@@ -25,6 +25,12 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0648 \u0641\u064a\u0644\u064a\u0628"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u0981\u0993 \u09ab\u09bf\u09b2\u09bf\u09aa"
+    ],
     "name:bre_x_preferred":[
         "S\u00e3o Filipe"
     ],
@@ -34,6 +40,15 @@
     "name:ceb_x_preferred":[
         "Concelho do S\u00e3o Filipe"
     ],
+    "name:dan_x_preferred":[
+        "S\u00e3o Filipe"
+    ],
+    "name:deu_x_preferred":[
+        "S\u00e3o Filipe"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bf \u03a6\u03b9\u03bb\u03af\u03c0\u03b5"
+    ],
     "name:eng_x_preferred":[
         "S\u00e3o Filipe Municipality"
     ],
@@ -41,19 +56,52 @@
         "S\u00e3o Filipe",
         "S\u00e3o Filipe"
     ],
+    "name:fin_x_preferred":[
+        "S\u00e3o Filipe"
+    ],
     "name:fra_x_preferred":[
+        "S\u00e3o Filipe"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abe\u0a93 \u0aab\u0abf\u0ab2\u0abf\u0aaa"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093e\u0913 \u092b\u093f\u0932\u093f\u092a"
+    ],
+    "name:ind_x_preferred":[
         "S\u00e3o Filipe"
     ],
     "name:ita_x_preferred":[
         "Contea di S\u00e3o Filipe"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30d5\u30a3\u30ea\u30da"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cbe\u0cb5\u0cca \u0cab\u0cbf\u0cb2\u0cbf\u0caa\u0ccd"
+    ],
     "name:kor_x_preferred":[
         "\uc0c1\ud544\ub9ac\ud504 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Sanfilipi"
     ],
     "name:lit_x_preferred":[
         "San Filip\u0117"
     ],
+    "name:mar_x_preferred":[
+        "\u0938\u093e\u0913 \u092b\u093f\u0932\u093f\u092a"
+    ],
+    "name:msa_x_preferred":[
+        "Sao Filipe"
+    ],
     "name:nld_x_preferred":[
+        "S\u00e3o Filipe"
+    ],
+    "name:nob_x_preferred":[
+        "S\u00e3o Filipe"
+    ],
+    "name:pol_x_preferred":[
         "S\u00e3o Filipe"
     ],
     "name:por_x_colloquial":[
@@ -62,11 +110,41 @@
     "name:por_x_preferred":[
         "S\u00e3o Filipe"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0424\u0435\u043b\u0438\u043f\u0435"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dcf\u0d95 \u0dc6\u0dd2\u0dbd\u0dd2\u0db4\u0dda"
+    ],
     "name:spa_x_preferred":[
         "S\u00e3o Filipe"
     ],
+    "name:tam_x_preferred":[
+        "\u0bb8\u0bcb  \u0baa\u0bbf\u0bb2\u0bbf\u0baa\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3e\u0c35\u0c4b \u0c2b\u0c3f\u0c32\u0c3f\u0c2a\u0c46"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e32 \u0e1f\u0e34\u0e25\u0e34\u0e40\u0e1b\u0e49"
+    ],
+    "name:tur_x_preferred":[
+        "Sao Filipe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0424\u0456\u043b\u0456\u043f\u0435"
+    ],
     "name:unk_x_variant":[
         "Concelho de S\u00e3o Filipe"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0624 \u0641\u06cc\u0644\u06cc\u067e\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e3o Filipe"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u83f2\u5229\u4f69\u7e23"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CPV",
@@ -190,7 +268,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553550348,
+    "wof:lastmodified":1563331831,
     "wof:name":"S\u00e3o Filipe",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

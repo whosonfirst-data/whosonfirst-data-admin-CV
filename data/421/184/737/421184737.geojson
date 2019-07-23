@@ -49,6 +49,9 @@
     "name:swe_x_preferred":[
         "Cova Figueira"
     ],
+    "name:wol_x_preferred":[
+        "Cova Figueira"
+    ],
     "name:zho_x_preferred":[
         "\u79d1\u74e6\u83f2\u84cb\u62c9"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421184737,
-    "wof:lastmodified":1561767013,
+    "wof:lastmodified":1563331882,
     "wof:name":"Cova Figueira",
     "wof:parent_id":85670293,
     "wof:placetype":"locality",

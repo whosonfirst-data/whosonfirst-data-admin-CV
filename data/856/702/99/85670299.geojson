@@ -25,20 +25,125 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0631\u0641\u0627\u0644"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09be\u09b0\u09be\u09ab\u09be\u09b2"
+    ],
+    "name:bre_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u0444\u0430\u043b"
+    ],
+    "name:cat_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:dan_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:deu_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a4\u03b1\u03c1\u03c1\u03b1\u03c6\u03ac\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Tarrafal"
     ],
     "name:eng_x_variant":[
         "Tarrafal Municipality"
     ],
+    "name:fin_x_preferred":[
+        "Tarrafal"
+    ],
     "name:fra_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9f\u0ac7\u0ab0\u0ac7\u0aab\u0ab2"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u093e\u0930\u094d\u0930\u093e\u092b\u0932"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0561\u0580\u0580\u0561\u0586\u0561\u056c"
+    ],
+    "name:ind_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30e9\u30d5\u30a1\u30eb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9f\u0cb0\u0ccd\u0cb0\u0cab\u0cbe\u0cb2\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\ud558\ud314 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Tarafala"
+    ],
+    "name:lit_x_preferred":[
+        "Tarafalis"
+    ],
+    "name:mar_x_preferred":[
+        "\u0924\u093e\u0930\u0930\u093e\u092b\u0932"
+    ],
+    "name:msa_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:nds_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:nld_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:nob_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:pol_x_preferred":[
         "Tarrafal"
     ],
     "name:por_x_preferred":[
         "Tarrafal"
     ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u0440\u0430\u0444\u0430\u043b"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da7\u0dbb\u0dca\u0dbb\u0dc6\u0dbd\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bb0\u0bcd\u0bb0\u0baa\u0bbe\u0bb2\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1f\u0c3e\u0c30\u0c3e\u0c3e\u0c2a\u0c3e\u0c32\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e32\u0e23\u0e4c\u0e23\u0e32\u0e1f\u0e32\u0e25"
+    ],
+    "name:tur_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0440\u0440\u0430\u0444\u0430\u043b"
+    ],
     "name:unk_x_variant":[
         "Concelho do Tarrafal"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u0631\u0627\u0641\u0627\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u62c9\u6cd5\u723e\u7e23"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CPV",
@@ -160,7 +265,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553550348,
+    "wof:lastmodified":1563331830,
     "wof:name":"Tarrafal",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

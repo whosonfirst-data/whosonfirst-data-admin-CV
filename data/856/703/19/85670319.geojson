@@ -25,6 +25,12 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0648 \u0644\u0648\u0631\u064a\u0646\u0633\u0648 \u062f\u0648\u0633 \u0623\u0648\u0631\u063a\u0627\u0648\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f \u09b2\u09b0\u09c7\u09a8\u09cd\u09b8 \u09a6\u09cb\u09b8 \u0985\u09b0\u0997\u09cd\u09af\u09be\u09b8"
+    ],
     "name:bre_x_preferred":[
         "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os"
     ],
@@ -32,6 +38,12 @@
         "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os"
     ],
     "name:ceb_x_preferred":[
+        "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os"
+    ],
+    "name:dan_x_preferred":[
+        "Sao Lourenco dos Orgaos"
+    ],
+    "name:deu_x_preferred":[
         "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os"
     ],
     "name:ell_x_preferred":[
@@ -46,14 +58,47 @@
     "name:fra_x_preferred":[
         "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os"
     ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abe\u0a93 \u0ab2\u0acb\u0ab0\u0ac7\u0aa8\u0acd\u0ab8\u0acb \u0aa1\u0acb\u0ab8 \u0a93\u0a97\u0abe\u0a93\u0ab8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093e\u0913 \u0932\u094b\u0930\u0947\u0902\u0915\u094b \u0921\u0949\u0938 \u0911\u0930\u0947\u0917\u094b\u0938"
+    ],
+    "name:ind_x_preferred":[
+        "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os"
+    ],
     "name:ita_x_preferred":[
         "Contea di S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cbe\u0cb5\u0cca \u0cb2\u0ccc\u0cb0\u0cc6\u0ca8\u0ccd\u0c95\u0ccb \u0ca1\u0cbe\u0cb8\u0ccd \u0c93\u0cb0\u0ccd\u0c97\u0cbe\u0cb5\u0ccb\u0cb8\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\uc0c1\ub85c\ub80c\uc218\ub450\uc2a4\uc624\ub974\uac15\uc2a4 \uc2dc"
     ],
+    "name:lav_x_preferred":[
+        "Sanlourensu du Orgaosa"
+    ],
     "name:lit_x_preferred":[
         "San Lorenso dos Organjoso savivaldyb\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u093e\u0913 \u0932\u0942\u0930\u0947\u0928\u0915\u094b \u0921\u094b \u0913\u0938\u094d\u0930\u093e\u0917\u0949\u0913\u0938"
+    ],
+    "name:msa_x_preferred":[
+        "Sao Lourenco dos Orgaos"
+    ],
+    "name:nds_x_preferred":[
+        "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os"
+    ],
+    "name:nld_x_preferred":[
+        "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os"
+    ],
+    "name:nob_x_preferred":[
+        "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os"
+    ],
+    "name:pol_x_preferred":[
+        "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os"
     ],
     "name:por_x_colloquial":[
         "Sao Lourenco dos Orgaos"
@@ -64,8 +109,29 @@
     "name:por_x_variant":[
         "Concelho de S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dcf\u0dc0\u0ddd \u0dbd\u0ddc\u0dbb\u0dd9\u0db1\u0dca\u0dc3\u0ddd \u0daf\u0ddc\u0dc3\u0dca \u0d94\u0dbb\u0dca\u0d9c\u0dc0\u0ddc\u0dc3\u0dca"
+    ],
     "name:spa_x_preferred":[
         "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3e\u0c35\u0c4b \u0c32\u0c4b\u0c30\u0c46\u0c02\u0c15\u0c4b \u0c21\u0c3e\u0c38\u0c4d \u0c13\u0c30\u0c4d\u0c17\u0c3e\u0c35\u0c4b\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e32 \u0e23\u0e31\u0e27\u0e40\u0e23\u0e19\u0e42\u0e04 \u0e14\u0e2d\u0e2a \u0e2d\u0e2d\u0e01\u0e32\u0e42\u0e2d\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Sao Lourenco dos Orgaos"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0624 \u0644\u0648\u0648\u0631\u06cc\u0646\u06a9\u0648 \u0688\u0648\u0632 \u0648\u0631\u062c\u0627\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Sao Lourenco dos Orgaos"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CPV",
@@ -189,7 +255,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553550364,
+    "wof:lastmodified":1563331834,
     "wof:name":"S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "S\u00e3o Pedro"
     ],
+    "name:fra_x_preferred":[
+        "S\u00e3o Pedro"
+    ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30fb\u30da\u30c9\u30ed"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":421192369,
-    "wof:lastmodified":1561767012,
+    "wof:lastmodified":1563331872,
     "wof:name":"S\u00e3o Pedro",
     "wof:parent_id":85670355,
     "wof:placetype":"locality",

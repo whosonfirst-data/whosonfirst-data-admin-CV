@@ -25,8 +25,29 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0627 \u0641\u064a\u0633\u062a\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u0411\u043e\u0430\u0432\u0456\u0448\u0442\u0430"
+    ],
+    "name:bre_x_preferred":[
+        "Boa Vista"
+    ],
+    "name:ceb_x_preferred":[
+        "Concelho da Boa Vista"
+    ],
+    "name:ces_x_preferred":[
+        "Boa Vista"
+    ],
+    "name:dan_x_preferred":[
+        "Boa Vista"
+    ],
     "name:deu_x_preferred":[
         "Boa Vista"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b7\u03c3\u03af \u039c\u03c0\u03cc\u03b1 \u0392\u03af\u03c3\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Boa Vista"
@@ -34,14 +55,89 @@
     "name:eng_x_variant":[
         "Boa Vista Municipality"
     ],
+    "name:est_x_preferred":[
+        "Boa Vista saar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0627 \u0648\u06cc\u0633\u062a\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Boa Vista"
+    ],
     "name:fra_x_preferred":[
+        "Boa Vista"
+    ],
+    "name:grn_x_preferred":[
+        "Ypa'\u0169 Boa Vista"
+    ],
+    "name:hun_x_preferred":[
+        "Boa Vista"
+    ],
+    "name:ind_x_preferred":[
+        "Boa Vista"
+    ],
+    "name:ita_x_preferred":[
+        "Boa Vista"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30a2\u30fb\u30f4\u30a3\u30b9\u30bf\u5cf6"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0430-\u0412\u0438\u0448\u0442\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcf4\uc544\ube44\uc2a4\ud0c0\uc12c"
+    ],
+    "name:lat_x_preferred":[
+        "Boa Vista"
+    ],
+    "name:lav_x_preferred":[
+        "Boavi\u0161ta"
+    ],
+    "name:lit_x_preferred":[
+        "Boa Vistos sala"
+    ],
+    "name:nds_x_preferred":[
+        "Boa Vista"
+    ],
+    "name:nld_x_preferred":[
+        "Boa Vista"
+    ],
+    "name:nob_x_preferred":[
+        "Boa Vista"
+    ],
+    "name:pol_x_preferred":[
         "Boa Vista"
     ],
     "name:por_x_preferred":[
         "Boa Vista"
     ],
+    "name:por_x_variant":[
+        "Ilha da Boa Vista"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0430\u0432\u0438\u0448\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Boa Vista"
+    ],
+    "name:tur_x_preferred":[
+        "Boa Vista"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0430\u0432\u0456\u0448\u0442\u0430"
+    ],
     "name:unk_x_variant":[
         "Concelho da Boa Vista"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0627 \u0648\u06cc\u0633\u062a\u0627"
+    ],
+    "name:wol_x_preferred":[
+        "Boa Vista"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u963f\u7dad\u65af\u5854\u5cf6"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CPV",
@@ -166,7 +262,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553550350,
+    "wof:lastmodified":1563331837,
     "wof:name":"Boa Vista",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Palmeira"
     ],
+    "name:fra_x_preferred":[
+        "Palmeira"
+    ],
     "name:nds_x_preferred":[
         "Palmeira"
     ],
@@ -30,6 +33,12 @@
     ],
     "name:por_x_preferred":[
         "Palmeira"
+    ],
+    "name:wol_x_preferred":[
+        "Palmeira"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u723e\u6885\u62c9"
     ],
     "qs:gn_country":"CV",
     "qs:gn_fcode":"PPL",
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":421200787,
-    "wof:lastmodified":1561767013,
+    "wof:lastmodified":1563331881,
     "wof:name":"Palmeira",
     "wof:parent_id":85670341,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Bofareira"
     ],
+    "name:fra_x_preferred":[
+        "Bofarreira"
+    ],
     "name:por_x_preferred":[
         "Bafureira"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":421185733,
-    "wof:lastmodified":1527726507,
+    "wof:lastmodified":1563331885,
     "wof:name":"Bofareira",
     "wof:parent_id":85670339,
     "wof:placetype":"locality",

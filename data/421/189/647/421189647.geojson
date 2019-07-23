@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Espargos"
     ],
+    "name:ces_x_preferred":[
+        "Espargos"
+    ],
     "name:dan_x_preferred":[
         "Espargos"
     ],
@@ -184,7 +187,7 @@
         }
     ],
     "wof:id":421189647,
-    "wof:lastmodified":1561767013,
+    "wof:lastmodified":1563331879,
     "wof:name":"Espargos",
     "wof:parent_id":85670341,
     "wof:placetype":"locality",

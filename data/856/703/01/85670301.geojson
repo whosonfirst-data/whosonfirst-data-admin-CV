@@ -25,20 +25,125 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0643\u0627\u062a\u0627\u0631\u064a\u0646\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09be \u0995\u09cd\u09af\u09be\u099f\u09be\u09b0\u09bf\u09a8\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Santa Catarina"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430 \u041a\u0430\u0442\u0430\u0440\u0438\u043d\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Santa Catarina"
+    ],
+    "name:dan_x_preferred":[
+        "Santa Catarina"
+    ],
+    "name:deu_x_preferred":[
+        "Santa Catarina"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03ac\u03bd\u03c4\u03b1 \u039a\u03b1\u03c4\u03b1\u03c1\u03af\u03bd\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Santa Catarina"
     ],
     "name:eng_x_variant":[
         "Santa Catarina Municipality"
     ],
+    "name:fin_x_preferred":[
+        "Santa Catarina"
+    ],
     "name:fra_x_preferred":[
+        "Santa Catarina"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abe\u0a82\u0aa4\u0abe \u0a95\u0ac7\u0a9f\u0ab0\u0abf\u0aa8\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d4 \u05e7\u05d8\u05e8\u05d9\u05e0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0902\u091f\u093e \u0915\u0948\u091f\u0930\u0940\u0928\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Santa Catarina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30ab\u30bf\u30ea\u30ca"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cbe\u0c82\u0c9f\u0cbe \u0c95\u0ccd\u0caf\u0cbe\u0c9f\u0cb0\u0cbf\u0ca8\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud0c0\uce74\ud0c0\ub9ac\ub098 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Santakatarina"
+    ],
+    "name:lit_x_preferred":[
+        "Santa Katarinos savivaldyb\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u093e\u0902\u0924\u093e \u0915\u0945\u091f\u0930\u0940\u0928\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Santa Catarina"
+    ],
+    "name:nds_x_preferred":[
+        "Santa Catarina"
+    ],
+    "name:nld_x_preferred":[
+        "Santa Catarina"
+    ],
+    "name:nob_x_preferred":[
+        "Santa Catarina"
+    ],
+    "name:pol_x_preferred":[
         "Santa Catarina"
     ],
     "name:por_x_preferred":[
         "Santa Catarina"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u0430\u0442\u0430\u0440\u0438\u043d\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd0\u0db1\u0dca\u0da7\u0dcf \u0d9a\u0dd0\u0dad\u0dbb\u0dd2\u0db1\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Catarina"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0ba3\u0bcd\u0b9f\u0bbe   \u0b95\u0bc7\u0b9f\u0bcd\u0b9f\u0bb1\u0bbf\u0ba9\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3e\u0c02\u0c1f\u0c3e \u0c15\u0c47\u0c1f\u0c30\u0c40\u0c28\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e32\u0e23\u0e4c\u0e21\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Santa Catarina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u0430\u0442\u0430\u0440\u0456\u043d\u0430"
+    ],
     "name:unk_x_variant":[
         "Concelho de Santa Catarina"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0646\u062a\u0627 \u06a9\u0627\u062a\u0627\u0631\u06cc\u0646\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Santa Catarina"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5361\u5854\u7433\u5a1c\u7e23"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CPV",
@@ -161,7 +266,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553550349,
+    "wof:lastmodified":1563331836,
     "wof:name":"Santa Catarina",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

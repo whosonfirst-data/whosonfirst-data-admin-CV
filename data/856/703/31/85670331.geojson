@@ -25,8 +25,32 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0627\u064a\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u044f"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09be\u09b0\u09be\u0987\u09af\u09bc\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Praia"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u0430\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Praia"
+    ],
+    "name:dan_x_preferred":[
+        "Praia"
+    ],
     "name:deu_x_preferred":[
         "Praia"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03c1\u03ac\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Praia"
@@ -34,14 +58,98 @@
     "name:eng_x_variant":[
         "Praia Municipality"
     ],
+    "name:fin_x_preferred":[
+        "Praia"
+    ],
     "name:fra_x_preferred":[
+        "Praia"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0acd\u0ab0\u0abe\u0a87\u0a86"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094d\u0930\u0947\u092f\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Praia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30e9\u30a4\u30a2\u5e02"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0ccd\u0cb0\u0cc8\u0caf"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub77c\uc774\uc544 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Praja"
+    ],
+    "name:lit_x_preferred":[
+        "Praja"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u094d\u0930\u0947\u092f\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Praia"
+    ],
+    "name:nds_x_preferred":[
+        "Praia"
+    ],
+    "name:nld_x_preferred":[
+        "Praia"
+    ],
+    "name:nob_x_preferred":[
+        "Praia"
+    ],
+    "name:pol_x_preferred":[
         "Praia"
     ],
     "name:por_x_preferred":[
         "Praia"
     ],
+    "name:ron_x_preferred":[
+        "Municipalitatea Praia"
+    ],
+    "name:rus_x_preferred":[
+        "\u043e\u0431\u0449\u0438\u043d\u0430 \u041f\u0440\u0430\u044f"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0dca\u200d\u0dbb\u0dba\u0dd2\u0dba\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "Praia"
+    ],
+    "name:swe_x_preferred":[
+        "Praia"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bcd\u0bb0\u0bc8\u0baf\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c4d\u0c30\u0c3e\u0c2f\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e44\u0e1b\u0e23\u0e2d\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Praia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0430\u044f"
+    ],
     "name:unk_x_variant":[
         "Concelho da Praia"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0631\u0627\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Praia"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u62c9\u4e9e\u7e23"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CPV",
@@ -165,7 +273,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553550350,
+    "wof:lastmodified":1563331835,
     "wof:name":"Praia",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

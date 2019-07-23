@@ -25,20 +25,119 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0627\u0641\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cd\u09b0\u09be\u09ad\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Brava"
+    ],
+    "name:cat_x_preferred":[
+        "Brava"
+    ],
+    "name:dan_x_preferred":[
+        "Brava"
+    ],
+    "name:deu_x_preferred":[
+        "Brava"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03c1\u03ac\u03b2\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Brava"
     ],
     "name:eng_x_variant":[
         "Brava Municipality"
     ],
+    "name:fin_x_preferred":[
+        "Brava"
+    ],
     "name:fra_x_preferred":[
+        "Brava"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0acd\u0ab0\u0abe\u0ab5\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094d\u0930\u093e\u0935\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Brava"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30e9\u30f4\u30a1"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0ccd\u0cb0\u0cb5"
+    ],
+    "name:kor_x_preferred":[
+        "\ube0c\ub77c\ubc14 \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Brava"
+    ],
+    "name:lit_x_preferred":[
+        "Brava"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u094d\u0930\u093e\u0935\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Brava"
+    ],
+    "name:nld_x_preferred":[
+        "Brava"
+    ],
+    "name:nob_x_preferred":[
+        "Brava"
+    ],
+    "name:pol_x_preferred":[
         "Brava"
     ],
     "name:por_x_preferred":[
         "Brava"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0430\u0432\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dca\u0dbb\u0dcf\u0dc0\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "Brava"
+    ],
+    "name:swe_x_preferred":[
+        "Brava"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbf\u0bb1\u0bb5\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c4d\u0c30\u0c3e\u0c35\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e23\u0e32\u0e27\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Brava"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0430\u0432\u0430"
+    ],
     "name:unk_x_variant":[
         "Concelho da Brava"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u0627\u0648\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Brava"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u62c9\u74e6\u5cf6\u7e23"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CPV",
@@ -160,7 +259,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553550347,
+    "wof:lastmodified":1563331830,
     "wof:name":"Brava",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

@@ -25,6 +25,18 @@
     "iso:country":"CV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Calheta"
+    ],
+    "name:deu_x_preferred":[
+        "Calheta"
+    ],
+    "name:fra_x_preferred":[
+        "Calheta"
+    ],
+    "name:por_x_preferred":[
+        "Calheta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1310702431,
-    "wof:lastmodified":1537504005,
+    "wof:lastmodified":1564329646,
     "wof:name":"Calheta",
     "wof:parent_id":85670335,
     "wof:placetype":"locality",

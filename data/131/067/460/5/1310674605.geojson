@@ -25,6 +25,21 @@
     "iso:country":"CV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Rui Vaz"
+    ],
+    "name:fra_x_preferred":[
+        "Rui Vaz"
+    ],
+    "name:nds_x_preferred":[
+        "Rui Vaz"
+    ],
+    "name:por_x_preferred":[
+        "Rui Vaz"
+    ],
+    "name:wol_x_preferred":[
+        "Rui Vaz"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":1310674605,
-    "wof:lastmodified":1537504003,
+    "wof:lastmodified":1564329650,
     "wof:name":"Rui Vaz",
     "wof:parent_id":85670319,
     "wof:placetype":"locality",

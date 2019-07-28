@@ -24,6 +24,12 @@
     "iso:country":"CV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ponta Verde"
+    ],
+    "name:por_x_preferred":[
+        "Ponta Verde"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -42,7 +48,7 @@
         }
     ],
     "wof:id":1277000275,
-    "wof:lastmodified":1537504005,
+    "wof:lastmodified":1564329630,
     "wof:name":"Ponta Verde",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

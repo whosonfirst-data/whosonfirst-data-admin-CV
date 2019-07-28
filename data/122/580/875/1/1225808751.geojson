@@ -25,6 +25,9 @@
     "iso:country":"CV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Praia Baixo"
+    ],
     "name:und_x_variant":[
         "Praia Abaixo",
         "Praia Baixo"
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1225808751,
-    "wof:lastmodified":1537619235,
+    "wof:lastmodified":1564329662,
     "wof:name":"Praia Baixo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

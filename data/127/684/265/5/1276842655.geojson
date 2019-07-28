@@ -25,6 +25,45 @@
     "iso:country":"CV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pedra Badejo"
+    ],
+    "name:ceb_x_preferred":[
+        "Pedra Badejo"
+    ],
+    "name:deu_x_preferred":[
+        "Pedra Badejo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03ad\u03b4\u03c1\u03b1 \u039c\u03c0\u03b1\u03bd\u03c4\u03ad\u03b6\u03bf"
+    ],
+    "name:fra_x_preferred":[
+        "Pedra Badejo"
+    ],
+    "name:ita_x_preferred":[
+        "Pedra Badejo"
+    ],
+    "name:kor_x_preferred":[
+        "\ud398\ub4dc\ub77c\ubc14\ub370\uc8fc"
+    ],
+    "name:nds_x_preferred":[
+        "Pedra Badejo"
+    ],
+    "name:pol_x_preferred":[
+        "Pedra Badejo"
+    ],
+    "name:por_x_preferred":[
+        "Pedra Badejo"
+    ],
+    "name:swe_x_preferred":[
+        "Pedra Badejo"
+    ],
+    "name:wol_x_preferred":[
+        "Pedra Badejo"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u5fb7\u62c9\u5df4\u5fb7\u8339"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[],
@@ -44,7 +83,7 @@
         }
     ],
     "wof:id":1276842655,
-    "wof:lastmodified":1537504005,
+    "wof:lastmodified":1564329634,
     "wof:name":"Pedra Badejo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

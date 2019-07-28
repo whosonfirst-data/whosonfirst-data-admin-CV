@@ -25,6 +25,12 @@
     "iso:country":"CV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Morro Alto"
+    ],
+    "name:nno_x_preferred":[
+        "Morro Alto"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1226601229,
-    "wof:lastmodified":1536922465,
+    "wof:lastmodified":1564329662,
     "wof:name":"Morro Alto",
     "wof:parent_id":85670347,
     "wof:placetype":"locality",

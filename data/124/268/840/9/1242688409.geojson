@@ -24,6 +24,12 @@
     "iso:country":"CV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Lameir\u00e3o"
+    ],
+    "name:por_x_preferred":[
+        "Lameir\u00e3o"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1242688409,
-    "wof:lastmodified":1537504006,
+    "wof:lastmodified":1564329655,
     "wof:name":"Lameirao",
     "wof:parent_id":85670355,
     "wof:placetype":"locality",

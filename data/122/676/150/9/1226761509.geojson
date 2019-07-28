@@ -25,6 +25,12 @@
     "iso:country":"CV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Espingueira"
+    ],
+    "name:por_x_preferred":[
+        "Espingueira"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1226761509,
-    "wof:lastmodified":1537504004,
+    "wof:lastmodified":1564329663,
     "wof:name":"Espingueira",
     "wof:parent_id":85670339,
     "wof:placetype":"locality",

@@ -25,8 +25,20 @@
     "iso:country":"CV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Salamansa"
+    ],
+    "name:fra_x_preferred":[
+        "Salamansa"
+    ],
+    "name:por_x_preferred":[
+        "Salamansa"
+    ],
     "name:und_x_variant":[
         "Salamanza",
+        "Salamansa"
+    ],
+    "name:wol_x_preferred":[
         "Salamansa"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1343740357,
-    "wof:lastmodified":1537619234,
+    "wof:lastmodified":1564329621,
     "wof:name":"Salamansa",
     "wof:parent_id":85670355,
     "wof:placetype":"locality",

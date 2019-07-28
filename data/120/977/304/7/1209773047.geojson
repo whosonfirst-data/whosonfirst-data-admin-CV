@@ -25,6 +25,33 @@
     "iso:country":"CV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Jo\u00e3o Teves"
+    ],
+    "name:ceb_x_preferred":[
+        "Jo\u00e3o Teves"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03bf\u03ac\u03bf \u03a4\u03ad\u03b2\u03b5\u03c2"
+    ],
+    "name:fra_x_preferred":[
+        "Jo\u00e3o Teves"
+    ],
+    "name:ita_x_preferred":[
+        "Jo\u00e3o Teves"
+    ],
+    "name:kor_x_preferred":[
+        "\uc8fc\uc559\ud14c\ubca0\uc2a4"
+    ],
+    "name:pol_x_preferred":[
+        "Jo\u00e3o Teves"
+    ],
+    "name:por_x_preferred":[
+        "Jo\u00e3o Teves"
+    ],
+    "name:swe_x_preferred":[
+        "Jo\u00e3o Teves"
+    ],
     "name:und_x_variant":[
         "Jo\u00e3o Teves"
     ],
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1209773047,
-    "wof:lastmodified":1537619237,
+    "wof:lastmodified":1564329636,
     "wof:name":"Joao Teves",
     "wof:parent_id":85670315,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"CV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Praia Branca"
+    ],
+    "name:por_x_preferred":[
+        "Praia Branca"
+    ],
+    "name:spa_x_preferred":[
+        "Praia Branca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +56,7 @@
         }
     ],
     "wof:id":1276171455,
-    "wof:lastmodified":1537504003,
+    "wof:lastmodified":1564329630,
     "wof:name":"Praia Branca",
     "wof:parent_id":85670351,
     "wof:placetype":"locality",

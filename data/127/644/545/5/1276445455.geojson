@@ -25,8 +25,26 @@
     "iso:country":"CV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Furna"
+    ],
+    "name:deu_x_preferred":[
+        "Furna"
+    ],
+    "name:fra_x_preferred":[
+        "Furna"
+    ],
+    "name:nds_x_preferred":[
+        "Furna"
+    ],
+    "name:por_x_preferred":[
+        "Furna"
+    ],
     "name:und_x_variant":[
         "Furno",
+        "Furna"
+    ],
+    "name:wol_x_preferred":[
         "Furna"
     ],
     "src:geom":"geonames",
@@ -47,7 +65,7 @@
         }
     ],
     "wof:id":1276445455,
-    "wof:lastmodified":1537619236,
+    "wof:lastmodified":1564329630,
     "wof:name":"Furna",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

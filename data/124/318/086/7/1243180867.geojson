@@ -25,6 +25,18 @@
     "iso:country":"CV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:deu_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:fra_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:por_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
     "name:und_x_variant":[
         "Santa B\u00e1rbara"
     ],
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1243180867,
-    "wof:lastmodified":1537619234,
+    "wof:lastmodified":1564329657,
     "wof:name":"Santa Barbara",
     "wof:parent_id":85670279,
     "wof:placetype":"locality",

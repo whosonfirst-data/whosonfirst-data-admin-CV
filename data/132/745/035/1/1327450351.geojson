@@ -24,6 +24,12 @@
     "iso:country":"CV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ribeira Alta"
+    ],
+    "name:por_x_preferred":[
+        "Ribeira Alta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1327450351,
-    "wof:lastmodified":1537504006,
+    "wof:lastmodified":1564329615,
     "wof:name":"Ribeira Alta",
     "wof:parent_id":85670363,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"CV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ribeira Prata"
+    ],
     "name:und_x_variant":[
         "Ribeira da Prata",
         "Ribeira Prata"
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1343228729,
-    "wof:lastmodified":1537619234,
+    "wof:lastmodified":1564329618,
     "wof:name":"Ribeira Prata",
     "wof:parent_id":85670347,
     "wof:placetype":"locality",

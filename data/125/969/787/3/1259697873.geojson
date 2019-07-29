@@ -25,6 +25,15 @@
     "iso:country":"CV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Cabe\u00e7a dos Tarrafes"
+    ],
+    "name:fra_x_preferred":[
+        "Cabe\u00e7a dos Tarrafes"
+    ],
+    "name:por_x_preferred":[
+        "Cabe\u00e7a dos Tarrafes"
+    ],
     "name:und_x_variant":[
         "Cabe\u00e7o de Tarafes",
         "Cabe\u00e7o dos Tarafes"
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1259697873,
-    "wof:lastmodified":1537619237,
+    "wof:lastmodified":1564329660,
     "wof:name":"Cabeco dos Tarafes",
     "wof:parent_id":85670339,
     "wof:placetype":"locality",

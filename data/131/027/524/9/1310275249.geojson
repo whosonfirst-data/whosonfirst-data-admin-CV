@@ -25,6 +25,15 @@
     "iso:country":"CV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Rinc\u00e3o"
+    ],
+    "name:fra_x_preferred":[
+        "Porto Rinc\u00e3o"
+    ],
+    "name:por_x_preferred":[
+        "Porto Rinc\u00e3o"
+    ],
     "name:und_x_variant":[
         "Porto do Rinc\u00e3o",
         "Porto Rinc\u00e3o"
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1310275249,
-    "wof:lastmodified":1537619235,
+    "wof:lastmodified":1564329648,
     "wof:name":"Porto Rincao",
     "wof:parent_id":85670301,
     "wof:placetype":"locality",

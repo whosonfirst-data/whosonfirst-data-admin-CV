@@ -25,6 +25,33 @@
     "iso:country":"CV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:deu_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:fra_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\ud558\ud314"
+    ],
+    "name:nds_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:por_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u0440\u0430\u0444\u0430\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:swe_x_preferred":[
+        "Tarrafal"
+    ],
     "name:und_x_variant":[
         "Tarrafal da Vila de Ribeira Grande"
     ],
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1260000949,
-    "wof:lastmodified":1537619234,
+    "wof:lastmodified":1564329645,
     "wof:name":"Tarrafal",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

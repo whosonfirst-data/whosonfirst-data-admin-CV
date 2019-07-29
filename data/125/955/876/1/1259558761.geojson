@@ -25,6 +25,9 @@
     "iso:country":"CV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Achada Monte"
+    ],
     "name:und_x_variant":[
         "Mangue de Sete Ribeiras",
         "Mangue",
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1259558761,
-    "wof:lastmodified":1537619235,
+    "wof:lastmodified":1564329659,
     "wof:name":"Achada Monte",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

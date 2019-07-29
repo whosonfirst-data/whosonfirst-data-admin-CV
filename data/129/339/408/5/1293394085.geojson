@@ -25,6 +25,21 @@
     "iso:country":"CV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Jo\u00e3o Galego"
+    ],
+    "name:fra_x_preferred":[
+        "Jo\u00e3o Galego"
+    ],
+    "name:mwl_x_preferred":[
+        "Jo\u00e3o Galego"
+    ],
+    "name:nds_x_preferred":[
+        "Jo\u00e3o Galego"
+    ],
+    "name:por_x_preferred":[
+        "Jo\u00e3o Galego"
+    ],
     "name:und_x_variant":[
         "Jo\u00e3o Galego"
     ],
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1293394085,
-    "wof:lastmodified":1537619236,
+    "wof:lastmodified":1564329626,
     "wof:name":"Joao Galego",
     "wof:parent_id":85670339,
     "wof:placetype":"locality",

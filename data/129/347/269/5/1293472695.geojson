@@ -25,6 +25,18 @@
     "iso:country":"CV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ribeira da Barca"
+    ],
+    "name:fra_x_preferred":[
+        "Ribeira da Barca"
+    ],
+    "name:por_x_preferred":[
+        "Ribeira da Barca"
+    ],
+    "name:szl_x_preferred":[
+        "Ribeira da Barca"
+    ],
     "name:und_x_variant":[
         "Ribeira de Barca",
         "Ribeira da Barca"
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1293472695,
-    "wof:lastmodified":1537619234,
+    "wof:lastmodified":1564329627,
     "wof:name":"Ribeira da Barca",
     "wof:parent_id":85670301,
     "wof:placetype":"locality",

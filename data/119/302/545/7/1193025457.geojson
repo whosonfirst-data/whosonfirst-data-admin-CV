@@ -25,6 +25,18 @@
     "iso:country":"CV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "S\u00e3o Jorge"
+    ],
+    "name:deu_x_preferred":[
+        "S\u00e3o Jorge"
+    ],
+    "name:fra_x_preferred":[
+        "S\u00e3o Jorge"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Jorge"
+    ],
     "name:und_x_variant":[
         "S\u00e3o Jorge"
     ],
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1193025457,
-    "wof:lastmodified":1537619234,
+    "wof:lastmodified":1564329644,
     "wof:name":"Sao Jorge",
     "wof:parent_id":85670339,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"CV",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Vicente Dias"
+    ],
+    "name:por_x_preferred":[
+        "Vicente Dias"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1293564989,
-    "wof:lastmodified":1537504002,
+    "wof:lastmodified":1564329628,
     "wof:name":"Vicente Dias",
     "wof:parent_id":85670283,
     "wof:placetype":"locality",

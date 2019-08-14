@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BR"
+    ],
     "lbl:latitude":14.849691,
     "lbl:longitude":-24.71699,
     "mps:latitude":14.849691,
@@ -250,16 +253,13 @@
         }
     ],
     "wof:id":85670279,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563331830,
+    "wof:lastmodified":1565670981,
     "wof:name":"Brava",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

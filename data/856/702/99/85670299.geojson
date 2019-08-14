@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TF"
+    ],
     "lbl:latitude":15.224901,
     "lbl:longitude":-23.711261,
     "mps:latitude":15.224901,
@@ -256,16 +259,13 @@
         }
     ],
     "wof:id":85670299,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563331830,
+    "wof:lastmodified":1565670981,
     "wof:name":"Tarrafal",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

@@ -15,6 +15,9 @@
     "itu:country_code":[
         "238"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CV"
+    ],
     "lbl:latitude":15.04732,
     "lbl:longitude":-23.618479,
     "mps:latitude":15.04732,
@@ -1078,16 +1081,13 @@
         }
     ],
     "wof:id":85632721,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563331843,
+    "wof:lastmodified":1565670983,
     "wof:name":"Cape Verde",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SM"
+    ],
     "lbl:latitude":15.175675,
     "lbl:longitude":-23.643254,
     "mps:latitude":15.175675,
@@ -209,16 +212,13 @@
         }
     ],
     "wof:id":85670305,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563331833,
+    "wof:lastmodified":1565670982,
     "wof:name":"S\u00e3o Miguel",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

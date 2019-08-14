@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CZ"
+    ],
     "lbl:latitude":15.10925,
     "lbl:longitude":-23.553849,
     "mps:latitude":15.10925,
@@ -287,16 +290,13 @@
         }
     ],
     "wof:id":85670311,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1564329624,
+    "wof:lastmodified":1565670982,
     "wof:name":"Santa Cruz",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

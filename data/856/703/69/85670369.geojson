@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PA"
+    ],
     "lbl:latitude":17.117265,
     "lbl:longitude":-25.008321,
     "mps:latitude":17.117265,
@@ -266,16 +269,13 @@
         }
     ],
     "wof:id":85670369,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563331832,
+    "wof:lastmodified":1565670982,
     "wof:name":"Paul",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

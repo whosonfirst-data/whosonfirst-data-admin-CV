@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RS"
+    ],
     "lbl:latitude":14.967432,
     "lbl:longitude":-23.627922,
     "mps:latitude":14.967432,
@@ -190,16 +193,13 @@
         }
     ],
     "wof:id":85670327,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1564329623,
+    "wof:lastmodified":1565670982,
     "wof:name":"Ribeira Grande de Santiago",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

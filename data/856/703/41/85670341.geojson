@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SL"
+    ],
     "lbl:latitude":16.732383,
     "lbl:longitude":-22.939911,
     "mps:latitude":16.732383,
@@ -258,16 +261,13 @@
         }
     ],
     "wof:id":85670341,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563331838,
+    "wof:lastmodified":1565670983,
     "wof:name":"Sal",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

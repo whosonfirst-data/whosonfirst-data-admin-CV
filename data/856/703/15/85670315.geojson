@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SS"
+    ],
     "lbl:latitude":15.072752,
     "lbl:longitude":-23.612637,
     "mps:latitude":15.072752,
@@ -218,16 +221,13 @@
         }
     ],
     "wof:id":85670315,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563331838,
+    "wof:lastmodified":1565670983,
     "wof:name":"S\u00e3o Salvador do Mundo",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

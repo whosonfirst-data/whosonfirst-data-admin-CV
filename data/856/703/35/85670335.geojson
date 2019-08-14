@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MA"
+    ],
     "lbl:latitude":15.202329,
     "lbl:longitude":-23.178972,
     "mps:latitude":15.202329,
@@ -183,16 +186,13 @@
         }
     ],
     "wof:id":85670335,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563331831,
+    "wof:lastmodified":1565670982,
     "wof:name":"Maio",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

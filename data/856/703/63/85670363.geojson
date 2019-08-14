@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RG"
+    ],
     "lbl:latitude":17.144402,
     "lbl:longitude":-25.124874,
     "mps:latitude":17.144402,
@@ -259,16 +262,13 @@
         }
     ],
     "wof:id":85670363,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563331838,
+    "wof:lastmodified":1565670982,
     "wof:name":"Ribeira Grande",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

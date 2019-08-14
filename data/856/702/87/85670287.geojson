@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MO"
+    ],
     "lbl:latitude":14.999886,
     "lbl:longitude":-24.360847,
     "mps:latitude":14.999886,
@@ -249,16 +252,13 @@
         }
     ],
     "wof:id":85670287,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563331829,
+    "wof:lastmodified":1565670981,
     "wof:name":"Mosteiros",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

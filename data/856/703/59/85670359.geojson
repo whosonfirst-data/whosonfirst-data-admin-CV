@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PN"
+    ],
     "lbl:latitude":17.023043,
     "lbl:longitude":-25.216696,
     "mps:latitude":17.023043,
@@ -152,16 +155,13 @@
         }
     ],
     "wof:id":85670359,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1553550350,
+    "wof:lastmodified":1565670982,
     "wof:name":"Porto Novo",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

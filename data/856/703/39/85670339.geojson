@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BV"
+    ],
     "lbl:latitude":16.096032,
     "lbl:longitude":-22.814042,
     "mps:latitude":16.096032,
@@ -253,16 +256,13 @@
         }
     ],
     "wof:id":85670339,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563331837,
+    "wof:lastmodified":1565670982,
     "wof:name":"Boa Vista",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

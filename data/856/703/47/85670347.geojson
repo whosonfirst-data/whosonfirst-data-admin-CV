@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RB"
+    ],
     "lbl:latitude":16.624503,
     "lbl:longitude":-24.224014,
     "mps:latitude":16.624503,
@@ -255,16 +258,13 @@
         }
     ],
     "wof:id":85670347,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563331839,
+    "wof:lastmodified":1565670983,
     "wof:name":"Ribeira Brava",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

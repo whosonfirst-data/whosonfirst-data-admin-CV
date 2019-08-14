@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PC"
+    ],
     "lbl:latitude":14.943922,
     "lbl:longitude":-23.514998,
     "mps:latitude":14.943922,
@@ -264,16 +267,13 @@
         }
     ],
     "wof:id":85670331,
-    "wof:lang":[
-        "por"
-    ],
     "wof:lang_x_official":[
         "por"
     ],
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1563331835,
+    "wof:lastmodified":1565670982,
     "wof:name":"Praia",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

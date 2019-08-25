@@ -10,8 +10,12 @@
     "geom:latitude":16.61667,
     "geom:longitude":-24.3,
     "iso:country":"CV",
+    "lbl:bbox":"-24.32,16.59667,-24.28,16.63667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Ribeira Brava"
@@ -47,9 +51,6 @@
         "Ribeira Brava"
     ],
     "name:swe_x_preferred":[
-        "Vila da Ribeira Brava"
-    ],
-    "name:unk_x_variant":[
         "Vila da Ribeira Brava"
     ],
     "name:wol_x_preferred":[
@@ -88,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3374121,
         "gp:id":1310867,
-        "qs:id":208790,
+        "qs_pg:id":208790,
         "wd:id":"Q3136127",
         "wk:page":"Ribeira Brava, Cape Verde"
     },
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":421200257,
-    "wof:lastmodified":1563331881,
+    "wof:lastmodified":1566709942,
     "wof:name":"Ribeira Brava",
     "wof:parent_id":85670347,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Atlantic/Cape_Verde",
     "iso:country":"CV",
+    "lbl:bbox":"-22.83667,16.04667,-22.79667,16.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "S\u00e3o Jorge"
     ],
@@ -35,9 +39,6 @@
         "S\u00e3o Jorge"
     ],
     "name:por_x_preferred":[
-        "S\u00e3o Jorge"
-    ],
-    "name:und_x_variant":[
         "S\u00e3o Jorge"
     ],
     "src:geom":"geonames",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1193025457,
-    "wof:lastmodified":1564329644,
+    "wof:lastmodified":1566709935,
     "wof:name":"Sao Jorge",
     "wof:parent_id":85670339,
     "wof:placetype":"locality",

@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Atlantic/Cape_Verde",
     "iso:country":"CV",
+    "lbl:bbox":"-23.5278,14.9055,-23.4878,14.9455",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Bauanhof"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1326840701,
-    "wof:lastmodified":1564329615,
+    "wof:lastmodified":1566709921,
     "wof:name":"Fazenda",
     "wof:parent_id":85670331,
     "wof:placetype":"locality",

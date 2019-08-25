@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Atlantic/Cape_Verde",
     "iso:country":"CV",
+    "lbl:bbox":"-23.52,14.96333,-23.48,15.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1310176247,
-    "wof:lastmodified":1536894369,
+    "wof:lastmodified":1566709937,
     "wof:name":"Ponta Sao Francisco",
     "wof:parent_id":85670331,
     "wof:placetype":"locality",

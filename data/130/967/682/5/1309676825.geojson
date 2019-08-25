@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Atlantic/Cape_Verde",
     "iso:country":"CV",
+    "lbl:bbox":"-23.76534,15.20948,-23.72534,15.24948",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ribeira da Prata"
     ],
@@ -32,8 +36,7 @@
         "Ribeira da Prata"
     ],
     "name:und_x_variant":[
-        "Ribeira de Prata",
-        "Ribeira da Prata"
+        "Ribeira de Prata"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1309676825,
-    "wof:lastmodified":1564329653,
+    "wof:lastmodified":1566709939,
     "wof:name":"Ribeira da Prata",
     "wof:parent_id":85670299,
     "wof:placetype":"locality",

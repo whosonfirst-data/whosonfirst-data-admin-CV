@@ -12,6 +12,8 @@
     "iso:country":"CV",
     "lbl:latitude":14.916321,
     "lbl:longitude":-23.510241,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -553,7 +555,7 @@
         "gn:id":3374333,
         "gp:id":1310855,
         "loc:id":"n82131898",
-        "qs:id":492789,
+        "qs_pg:id":492789,
         "wd:id":"Q3751",
         "wk:page":"Praia"
     },
@@ -569,7 +571,7 @@
         }
     ],
     "wof:id":421169045,
-    "wof:lastmodified":1563331875,
+    "wof:lastmodified":1566709941,
     "wof:name":"Praia",
     "wof:parent_id":85670331,
     "wof:placetype":"locality",

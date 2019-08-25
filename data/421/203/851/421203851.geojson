@@ -10,8 +10,12 @@
     "geom:latitude":17.15026,
     "geom:longitude":-25.02007,
     "iso:country":"CV",
+    "lbl:bbox":"-25.04007,17.13026,-25.00007,17.17026",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Pombas"
@@ -49,9 +53,6 @@
     "name:swe_x_preferred":[
         "Pombas"
     ],
-    "name:unk_x_variant":[
-        "Pombas"
-    ],
     "name:wol_x_preferred":[
         "Pombas"
     ],
@@ -85,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3374351,
         "gp:id":1310844,
-        "qs:id":235444,
+        "qs_pg:id":235444,
         "wd:id":"Q768920",
         "wk:page":"Pombas, Cape Verde"
     },
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":421203851,
-    "wof:lastmodified":1563331875,
+    "wof:lastmodified":1566709941,
     "wof:name":"Vila das Pombas",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":15.04732,
     "lbl:longitude":-23.618479,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":15.04732,
     "mps:longitude":-23.618479,
     "mz:hierarchy_label":1,
@@ -851,15 +853,8 @@
         "Graenhoefdaeyjar",
         "Graenhofdaeyjar"
     ],
-    "name:und_x_preferred":[
-        "Gr\u00e6nh\u00f6f\u00f0aeyjar",
-        "Kapp Verde",
-        "Republika Zelenortski otoki"
-    ],
     "name:und_x_variant":[
-        "Zelenortski otoki"
-    ],
-    "name:unk_x_variant":[
+        "Republika Zelenortski otoki",
         "Prov\u00edncia de Cabo Verde"
     ],
     "name:urd_x_preferred":[
@@ -1019,7 +1014,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"238",
     "statoids:ds":"CV",
@@ -1039,7 +1034,6 @@
     "wd:longitude":-24.083333,
     "wd:population":498897,
     "wd:wordcount":6950,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191573
     ],
@@ -1065,7 +1059,7 @@
         "mzb:id":"cape-verde",
         "ne:adm0_a3":"CPV",
         "nyt:id":"27277885549905421291",
-        "qs:id":95412,
+        "qs_pg:id":95412,
         "uncrt:id":"CV",
         "wd:id":"Q1011",
         "wk:page":"Cape Verde",
@@ -1087,7 +1081,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565670983,
+    "wof:lastmodified":1566709927,
     "wof:name":"Cape Verde",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

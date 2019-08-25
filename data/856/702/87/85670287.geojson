@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":14.999886,
     "lbl:longitude":-24.360847,
+    "lbl:min_zoom":8.0,
     "mps:latitude":14.999886,
     "mps:longitude":-24.360847,
     "mz:hierarchy_label":1,
@@ -127,7 +128,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0448\u0442\u0435\u0439\u0440\u0443\u0448"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Concelho dos Mosteiros"
     ],
     "name:urd_x_preferred":[
@@ -210,9 +211,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-06-16",
+    "src:population_date":"2010-06-16",
     "statoids:area_km":"82",
     "statoids:area_mi":"32",
     "statoids:as_of_date":"2010-06-16",
@@ -237,7 +238,7 @@
         "gp:id":56051566,
         "hasc:id":"CV.MO",
         "iso:id":"CV-MO",
-        "qs:id":896710,
+        "qs_pg:id":896710,
         "unlc:id":"CV-MO",
         "wd:id":"Q516835",
         "wk:page":"Mosteiros, Cape Verde (municipality)"
@@ -258,11 +259,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565670981,
+    "wof:lastmodified":1566709925,
     "wof:name":"Mosteiros",
     "wof:parent_id":85632721,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":9524,
     "wof:population_rank":5,

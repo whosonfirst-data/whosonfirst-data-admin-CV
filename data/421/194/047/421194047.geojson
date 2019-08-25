@@ -10,8 +10,12 @@
     "geom:latitude":15.27591,
     "geom:longitude":-23.75381,
     "iso:country":"CV",
+    "lbl:bbox":"-23.77381,15.25591,-23.73381,15.29591",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bak_x_preferred":[
         "\u0422\u0430\u0440\u0440\u0430\u0444\u0430\u043b"
@@ -55,7 +59,7 @@
     "name:swe_x_preferred":[
         "Tarrafal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vila do Tarrafal"
     ],
     "name:wol_x_preferred":[
@@ -96,7 +100,7 @@
     "wof:concordances":{
         "gn:id":3374166,
         "gp:id":1310905,
-        "qs:id":910605,
+        "qs_pg:id":910605,
         "wd:id":"Q2311253",
         "wk:page":"Tarrafal, Cape Verde"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421194047,
-    "wof:lastmodified":1563331873,
+    "wof:lastmodified":1566709941,
     "wof:name":"Tarrafal",
     "wof:parent_id":85670299,
     "wof:placetype":"locality",

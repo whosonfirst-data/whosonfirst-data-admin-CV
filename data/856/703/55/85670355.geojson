@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":16.848545,
     "lbl:longitude":-24.977166,
+    "lbl:min_zoom":8.0,
     "mps:latitude":16.848545,
     "mps:longitude":-24.977166,
     "mz:hierarchy_label":1,
@@ -129,7 +130,7 @@
         "S\u00e3o Vicente"
     ],
     "name:tam_x_preferred":[
-        "\u0bb8\u0bcb  \u0bb5\u0bbf\u0b9a\u0bc7\u0ba9\u0bcd\u0b9f\u0bcd"
+        "\u0bb8\u0bcb \u0bb5\u0bbf\u0b9a\u0bc7\u0ba9\u0bcd\u0b9f\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3e\u0c35\u0c4b \u0c35\u0c3f\u0c38\u0c46\u0c02\u0c1f\u0c3f"
@@ -142,9 +143,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0412\u0456\u0441\u0435\u043d\u0442\u0456"
-    ],
-    "name:unk_x_variant":[
-        "Concelho de S\u00e3o Vicente"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0624 \u0648\u06cc\u06a9\u06cc\u0646\u062a\u06cc"
@@ -226,9 +224,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-06-16",
+    "src:population_date":"2010-06-16",
     "statoids:area_km":"227",
     "statoids:area_mi":"88",
     "statoids:as_of_date":"2010-06-16",
@@ -253,7 +251,7 @@
         "gp:id":2345130,
         "hasc:id":"CV.SV",
         "iso:id":"CV-SV",
-        "qs:id":219537,
+        "qs_pg:id":219537,
         "unlc:id":"CV-SV",
         "wd:id":"Q648842",
         "wk:page":"S\u00e3o Vicente, Cape Verde (municipality)"
@@ -274,11 +272,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565670982,
+    "wof:lastmodified":1566709927,
     "wof:name":"S\u00e3o Vicente",
     "wof:parent_id":85632721,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":76107,
     "wof:population_rank":8,

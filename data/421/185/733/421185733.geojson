@@ -10,8 +10,12 @@
     "geom:latitude":16.18333,
     "geom:longitude":-22.83333,
     "iso:country":"CV",
+    "lbl:bbox":"-22.85333,16.16333,-22.81333,16.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Bofarreira"
@@ -23,9 +27,6 @@
         "Bofarreira"
     ],
     "name:por_x_preferred":[
-        "Bafureira"
-    ],
-    "name:unk_x_variant":[
         "Bafureira"
     ],
     "qs:gn_country":"CV",
@@ -57,7 +58,7 @@
     "wof:concordances":{
         "gn:id":3374848,
         "gp:id":1310690,
-        "qs:id":1040453,
+        "qs_pg:id":1040453,
         "wd:id":"Q13581467",
         "wk:page":"Bofarreira"
     },
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":421185733,
-    "wof:lastmodified":1563331885,
+    "wof:lastmodified":1566709943,
     "wof:name":"Bofareira",
     "wof:parent_id":85670339,
     "wof:placetype":"locality",

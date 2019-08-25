@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Atlantic/Cape_Verde",
     "iso:country":"CV",
+    "lbl:bbox":"-24.44602,14.85308,-24.40602,14.89308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Patim"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1193254329,
-    "wof:lastmodified":1564329643,
+    "wof:lastmodified":1566709935,
     "wof:name":"Patim",
     "wof:parent_id":85670283,
     "wof:placetype":"locality",

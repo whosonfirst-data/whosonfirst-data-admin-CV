@@ -11,10 +11,14 @@
     "geom:longitude":-24.33333,
     "gn:country":"CV",
     "gn:fcode":"PPLA",
-    "gn:pop":477,
+    "gn:population":477,
     "iso:country":"CV",
+    "lbl:bbox":"-24.35333,15.01333,-24.31333,15.05333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Porto dos Mosteiros",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -27,7 +31,7 @@
     "wof:concordances":{
         "gn:id":3374338,
         "gp:id":1310771,
-        "qs:id":95410
+        "qs_pg:id":95410
     },
     "wof:country":"CV",
     "wof:created":1469051798,
@@ -39,7 +43,7 @@
         }
     ],
     "wof:id":890429171,
-    "wof:lastmodified":1505343510,
+    "wof:lastmodified":1566709943,
     "wof:name":"Porto dos Mosteiros",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Atlantic/Cape_Verde",
     "iso:country":"CV",
+    "lbl:bbox":"-24.42,16.63,-24.38,16.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Praia Branca"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276171455,
-    "wof:lastmodified":1564329630,
+    "wof:lastmodified":1566709930,
     "wof:name":"Praia Branca",
     "wof:parent_id":85670351,
     "wof:placetype":"locality",

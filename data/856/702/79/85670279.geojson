@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":14.849691,
     "lbl:longitude":-24.71699,
+    "lbl:min_zoom":8.0,
     "mps:latitude":14.849691,
     "mps:longitude":-24.71699,
     "mz:hierarchy_label":1,
@@ -130,7 +131,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Concelho da Brava"
     ],
     "name:urd_x_preferred":[
@@ -213,9 +214,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-06-16",
+    "src:population_date":"2010-06-16",
     "statoids:area_km":"64",
     "statoids:area_mi":"25",
     "statoids:as_of_date":"2010-06-16",
@@ -239,7 +240,7 @@
         "gp:id":2345122,
         "hasc:id":"CV.BR",
         "iso:id":"CV-BR",
-        "qs:id":1083817,
+        "qs_pg:id":1083817,
         "wd:id":"Q2571624",
         "wk:page":"Brava, Cape Verde (municipality)"
     },
@@ -259,11 +260,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565670981,
+    "wof:lastmodified":1566709925,
     "wof:name":"Brava",
     "wof:parent_id":85632721,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":5995,
     "wof:population_rank":5,

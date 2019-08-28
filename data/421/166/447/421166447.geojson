@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-22.75,16.01667,-22.75,16.01667",
     "geom:latitude":16.01667,
     "geom:longitude":-22.75,
     "iso:country":"CV",
+    "lbl:bbox":"-22.77,15.99667,-22.73,16.03667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Monte Est\u00e2ncia"
@@ -29,7 +35,7 @@
     "name:por_x_preferred":[
         "Monte Est\u00e2ncia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jo\u00e3o Barroza"
     ],
     "qs:gn_country":"CV",
@@ -60,7 +66,7 @@
     "wof:concordances":{
         "gn:id":3374540,
         "gp:id":1310776,
-        "qs:id":266850
+        "qs_pg:id":266850
     },
     "wof:country":"CV",
     "wof:created":1459008690,
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":421166447,
-    "wof:lastmodified":1501266186,
+    "wof:lastmodified":1566709940,
     "wof:name":"Jo\u00e3o Barrosa",
     "wof:parent_id":85670339,
     "wof:placetype":"locality",

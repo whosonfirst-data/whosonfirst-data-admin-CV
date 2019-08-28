@@ -10,8 +10,12 @@
     "geom:latitude":15.1,
     "geom:longitude":-23.68333,
     "iso:country":"CV",
+    "lbl:bbox":"-23.70333,15.08,-23.66333,15.12",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0410\u0441\u043e\u043c\u0430\u0434\u0430"
@@ -64,7 +68,7 @@
     "name:swe_x_preferred":[
         "Assomada"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Assumada"
     ],
     "name:urd_x_preferred":[
@@ -108,7 +112,7 @@
     "wof:concordances":{
         "gn:id":3374888,
         "gp:id":1310679,
-        "qs:id":1044171,
+        "qs_pg:id":1044171,
         "wd:id":"Q490573",
         "wk:page":"Assomada"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421168565,
-    "wof:lastmodified":1563331870,
+    "wof:lastmodified":1566709940,
     "wof:name":"Assomada",
     "wof:parent_id":85670301,
     "wof:placetype":"locality",

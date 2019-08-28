@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":17.117265,
     "lbl:longitude":-25.008321,
+    "lbl:min_zoom":8.0,
     "mps:latitude":17.117265,
     "mps:longitude":-25.008321,
     "mz:hierarchy_label":1,
@@ -142,9 +143,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043b\u044c"
     ],
-    "name:unk_x_variant":[
-        "Concelho do Paul"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0644"
     ],
@@ -225,9 +223,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-06-16",
+    "src:population_date":"2010-06-16",
     "statoids:area_km":"54",
     "statoids:area_mi":"21",
     "statoids:as_of_date":"2010-06-16",
@@ -254,7 +252,7 @@
         "hasc:id":"CV.PA",
         "iso:id":"CV-PA",
         "loc:id":"no2014070592",
-        "qs:id":902458,
+        "qs_pg:id":902458,
         "unlc:id":"CV-PA",
         "wd:id":"Q1475374",
         "wk:page":"Paul, Cape Verde"
@@ -275,11 +273,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565670982,
+    "wof:lastmodified":1566709926,
     "wof:name":"Paul",
     "wof:parent_id":85632721,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":6997,
     "wof:population_rank":5,

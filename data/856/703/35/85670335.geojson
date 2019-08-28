@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":15.202329,
     "lbl:longitude":-23.178972,
+    "lbl:min_zoom":8.0,
     "mps:latitude":15.202329,
     "mps:longitude":-23.178972,
     "mz:hierarchy_label":1,
@@ -64,7 +65,7 @@
     "name:spa_x_preferred":[
         "Maio"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Concelho do Maio"
     ],
     "name:urd_x_preferred":[
@@ -144,9 +145,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-06-16",
+    "src:population_date":"2010-06-16",
     "statoids:area_km":"269",
     "statoids:area_mi":"104",
     "statoids:as_of_date":"2010-06-16",
@@ -171,7 +172,7 @@
         "gp:id":2345124,
         "hasc:id":"CV.MA",
         "iso:id":"CV-MA",
-        "qs:id":894873,
+        "qs_pg:id":894873,
         "unlc:id":"CV-MA",
         "wd:id":"Q2551133",
         "wk:page":"Maio, Cape Verde (municipality)"
@@ -192,11 +193,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565670982,
+    "wof:lastmodified":1566709926,
     "wof:name":"Maio",
     "wof:parent_id":85632721,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":6952,
     "wof:population_rank":5,

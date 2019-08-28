@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Atlantic/Cape_Verde",
     "iso:country":"CV",
+    "lbl:bbox":"-23.54278,14.89389,-23.50278,14.93389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1326840827,
-    "wof:lastmodified":1537034761,
+    "wof:lastmodified":1566709921,
     "wof:name":"Tira Chapeu",
     "wof:parent_id":85670331,
     "wof:placetype":"locality",

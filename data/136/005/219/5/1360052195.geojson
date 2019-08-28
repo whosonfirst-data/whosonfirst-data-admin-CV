@@ -23,8 +23,12 @@
     "gn:population":5039,
     "gn:timezone":"Atlantic/Cape_Verde",
     "iso:country":"CV",
+    "lbl:bbox":"-24.37793,16.54622,-24.33793,16.58622",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u03a4\u03b1\u03c1\u03c1\u03b1\u03c6\u03ac\u03bb \u03bd\u03c4\u03b5 \u03a3\u03ac\u03bf \u039d\u03b9\u03ba\u03bf\u03bb\u03ac\u03bf\u03c5"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360052195,
-    "wof:lastmodified":1564329652,
+    "wof:lastmodified":1566709939,
     "wof:name":"Tarrafal de Sao Nicolau",
     "wof:parent_id":85670351,
     "wof:placetype":"locality",

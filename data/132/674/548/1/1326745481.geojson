@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Atlantic/Cape_Verde",
     "iso:country":"CV",
+    "lbl:bbox":"-24.3866,14.91333,-24.3466,14.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ch\u00e3 das Caldeiras"
     ],
@@ -44,9 +48,6 @@
         "Ch\u00e3 das Caldeiras"
     ],
     "name:swe_x_preferred":[
-        "Ch\u00e3 das Caldeiras"
-    ],
-    "name:und_x_variant":[
         "Ch\u00e3 das Caldeiras"
     ],
     "name:wol_x_preferred":[
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1326745481,
-    "wof:lastmodified":1564329612,
+    "wof:lastmodified":1566709920,
     "wof:name":"Cha das Caldeiras",
     "wof:parent_id":85670293,
     "wof:placetype":"locality",

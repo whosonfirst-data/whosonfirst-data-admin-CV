@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Atlantic/Cape_Verde",
     "iso:country":"CV",
+    "lbl:bbox":"-25.16919,16.93848,-25.12919,16.97848",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0435\u0434\u0440\u0438\u043d\u044f"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1277039409,
-    "wof:lastmodified":1564329632,
+    "wof:lastmodified":1566709931,
     "wof:name":"Pedrinha",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

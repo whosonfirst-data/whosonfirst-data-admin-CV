@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Atlantic/Cape_Verde",
     "iso:country":"CV",
+    "lbl:bbox":"-24.99553,16.86814,-24.95553,16.90814",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ribeirinha"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1243572843,
-    "wof:lastmodified":1564329656,
+    "wof:lastmodified":1566709944,
     "wof:name":"Ribeirinha",
     "wof:parent_id":85670355,
     "wof:placetype":"locality",

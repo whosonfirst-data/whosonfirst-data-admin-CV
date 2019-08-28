@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Atlantic/Cape_Verde",
     "iso:country":"CV",
+    "lbl:bbox":"-25.33667,17.06333,-25.29667,17.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bonita"
     ],
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1293251291,
-    "wof:lastmodified":1564329628,
+    "wof:lastmodified":1566709929,
     "wof:name":"Bonita",
     "wof:parent_id":85670359,
     "wof:placetype":"locality",

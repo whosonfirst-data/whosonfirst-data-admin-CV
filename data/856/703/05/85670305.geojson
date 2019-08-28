@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":15.175675,
     "lbl:longitude":-23.643254,
+    "lbl:min_zoom":8.0,
     "mps:latitude":15.175675,
     "mps:longitude":-23.643254,
     "mz:hierarchy_label":1,
@@ -88,9 +89,6 @@
     ],
     "name:spa_x_preferred":[
         "S\u00e3o Miguel"
-    ],
-    "name:unk_x_variant":[
-        "Concelho de S\u00e3o Miguel"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0622\u0648 \u0645\u06cc\u06af\u0648\u0626\u0644"
@@ -169,9 +167,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-06-16",
+    "src:population_date":"2010-06-16",
     "statoids:area_km":"91",
     "statoids:area_mi":"35",
     "statoids:as_of_date":"2010-06-16",
@@ -197,7 +195,7 @@
         "gp:id":56051558,
         "hasc:id":"CV.SM",
         "iso:id":"CV-SM",
-        "qs:id":1105207,
+        "qs_pg:id":1105207,
         "unlc:id":"CV-SM",
         "wd:id":"Q494874",
         "wk:page":"S\u00e3o Miguel, Cape Verde"
@@ -218,11 +216,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565670982,
+    "wof:lastmodified":1566709926,
     "wof:name":"S\u00e3o Miguel",
     "wof:parent_id":85632721,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":15648,
     "wof:population_rank":6,

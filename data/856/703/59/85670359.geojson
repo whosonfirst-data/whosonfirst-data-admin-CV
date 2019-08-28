@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":17.023043,
     "lbl:longitude":-25.216696,
+    "lbl:min_zoom":8.0,
     "mps:latitude":17.023043,
     "mps:longitude":-25.216696,
     "mz:hierarchy_label":1,
@@ -40,7 +41,7 @@
     "name:por_x_preferred":[
         "Porto Novo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Concelho do Porto Novo"
     ],
     "ne:abbrev":"",
@@ -114,9 +115,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-06-16",
+    "src:population_date":"2010-06-16",
     "statoids:area_km":"558",
     "statoids:area_mi":"215",
     "statoids:as_of_date":"2010-06-16",
@@ -142,7 +143,7 @@
         "gp:id":56051556,
         "hasc:id":"CV.PN",
         "iso:id":"CV-PN",
-        "qs:id":1119144,
+        "qs_pg:id":1119144,
         "unlc:id":"CV-PN"
     },
     "wof:country":"CV",
@@ -161,11 +162,10 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1565670982,
+    "wof:lastmodified":1566709925,
     "wof:name":"Porto Novo",
     "wof:parent_id":85632721,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"county",
     "wof:population":18028,
     "wof:population_rank":6,

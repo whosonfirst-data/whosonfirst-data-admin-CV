@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Atlantic/Cape_Verde",
     "iso:country":"CV",
+    "lbl:bbox":"-23.55333,15.11333,-23.51333,15.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ady_x_preferred":[
         "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
     ],
@@ -465,8 +469,7 @@
     ],
     "name:und_x_variant":[
         "San Iago",
-        "S\u00e3o Tiago",
-        "Santiago"
+        "S\u00e3o Tiago"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679\u06cc\u0627\u06af\u0648"
@@ -524,7 +527,7 @@
         }
     ],
     "wof:id":1209588091,
-    "wof:lastmodified":1564329642,
+    "wof:lastmodified":1566709934,
     "wof:name":"Santiago",
     "wof:parent_id":85632721,
     "wof:placetype":"locality",

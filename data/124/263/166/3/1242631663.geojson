@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Atlantic/Cape_Verde",
     "iso:country":"CV",
+    "lbl:bbox":"-24.33667,16.58,-24.29667,16.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Caleij\u00e3o",
         "Calej\u00e3o"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242631663,
-    "wof:lastmodified":1537619237,
+    "wof:lastmodified":1566709945,
     "wof:name":"Calejao",
     "wof:parent_id":85670347,
     "wof:placetype":"locality",

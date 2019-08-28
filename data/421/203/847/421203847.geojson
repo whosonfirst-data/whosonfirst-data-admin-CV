@@ -10,6 +10,9 @@
     "geom:latitude":16.89014,
     "geom:longitude":-24.98042,
     "iso:country":"CV",
+    "lbl:bbox":"-25.00042,16.87014,-24.96042,16.91014",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -161,7 +164,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u043d\u0434\u0435\u043b\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mihdelo"
     ],
     "name:urd_x_preferred":[
@@ -300,7 +303,7 @@
     "wof:concordances":{
         "gn:id":3374462,
         "gp:id":1310805,
-        "qs:id":235445,
+        "qs_pg:id":235445,
         "wd:id":"Q495547",
         "wk:page":"Mindelo"
     },
@@ -316,7 +319,7 @@
         }
     ],
     "wof:id":421203847,
-    "wof:lastmodified":1563331876,
+    "wof:lastmodified":1566709941,
     "wof:name":"Mindelo",
     "wof:parent_id":85670355,
     "wof:placetype":"locality",

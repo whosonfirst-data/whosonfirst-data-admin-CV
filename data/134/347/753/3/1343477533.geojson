@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"Atlantic/Cape_Verde",
     "iso:country":"CV",
+    "lbl:bbox":"-23.587,15.129,-23.547,15.169",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cancelo"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343477533,
-    "wof:lastmodified":1564329618,
+    "wof:lastmodified":1566709923,
     "wof:name":"Cancelo",
     "wof:parent_id":85670311,
     "wof:placetype":"locality",

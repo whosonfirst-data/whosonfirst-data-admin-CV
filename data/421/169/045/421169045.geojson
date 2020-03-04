@@ -561,6 +561,9 @@
     },
     "wof:country":"CV",
     "wof:created":1459008792,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"70c80e4814c791030181b99593d919da",
     "wof:hierarchy":[
         {
@@ -571,7 +574,7 @@
         }
     ],
     "wof:id":421169045,
-    "wof:lastmodified":1566709941,
+    "wof:lastmodified":1582379123,
     "wof:name":"Praia",
     "wof:parent_id":85670331,
     "wof:placetype":"locality",

@@ -1043,9 +1043,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Cape_Verde",
-        "digitalenvoy:country_code":[
-            132
-        ],
+        "digitalenvoy:country_code":132,
         "fb:id":"en.cape_verde",
         "fifa:id":"CPV",
         "fips:code":"CV",
@@ -1088,7 +1086,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1583529112,
+    "wof:lastmodified":1583797317,
     "wof:name":"Cape Verde",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -561,6 +561,9 @@
         "wd:id":"Q3751",
         "wk:page":"Praia"
     },
+    "wof:coterminous":[
+        85670331
+    ],
     "wof:country":"CV",
     "wof:created":1459008792,
     "wof:geom_alt":[
@@ -576,7 +579,7 @@
         }
     ],
     "wof:id":421169045,
-    "wof:lastmodified":1607390883,
+    "wof:lastmodified":1607996251,
     "wof:name":"Praia",
     "wof:parent_id":85670331,
     "wof:placetype":"locality",

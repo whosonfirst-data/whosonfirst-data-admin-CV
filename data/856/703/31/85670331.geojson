@@ -62,6 +62,9 @@
     "name:eng_x_variant":[
         "Praia Municipality"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Praia"
     ],
@@ -71,8 +74,14 @@
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0ab0\u0abe\u0a87\u0a86"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d0\u05d9\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092a\u094d\u0930\u0947\u092f\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Praia"
     ],
     "name:ind_x_preferred":[
         "Praia"
@@ -277,7 +286,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1607996251,
+    "wof:lastmodified":1636504678,
     "wof:name":"Praia",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

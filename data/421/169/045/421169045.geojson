@@ -110,6 +110,9 @@
         "Praia"
     ],
     "name:fas_x_preferred":[
+        "\u067e\u0631\u06cc\u0627"
+    ],
+    "name:fas_x_variant":[
         "\u067e\u0631\u0627\u06cc\u0627"
     ],
     "name:fin_x_preferred":[
@@ -579,7 +582,7 @@
         }
     ],
     "wof:id":421169045,
-    "wof:lastmodified":1607996251,
+    "wof:lastmodified":1636504680,
     "wof:name":"Praia",
     "wof:parent_id":85670331,
     "wof:placetype":"locality",

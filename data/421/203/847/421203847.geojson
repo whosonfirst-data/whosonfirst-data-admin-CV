@@ -56,6 +56,9 @@
     "name:est_x_preferred":[
         "Mindelo"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0646\u062f\u0644\u0648"
+    ],
     "name:fin_x_preferred":[
         "Mindelo"
     ],
@@ -319,7 +322,7 @@
         }
     ],
     "wof:id":421203847,
-    "wof:lastmodified":1566709941,
+    "wof:lastmodified":1636504681,
     "wof:name":"Mindelo",
     "wof:parent_id":85670355,
     "wof:placetype":"locality",

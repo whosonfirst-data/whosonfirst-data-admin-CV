@@ -35,7 +35,16 @@
     "name:deu_x_preferred":[
         "Tarrafal"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0631\u0627\u0641\u0627\u0644"
+    ],
     "name:fra_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05e8\u05e4\u05d0\u05dc"
+    ],
+    "name:hun_x_preferred":[
         "Tarrafal"
     ],
     "name:kor_x_preferred":[
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1260000949,
-    "wof:lastmodified":1566709935,
+    "wof:lastmodified":1636504680,
     "wof:name":"Tarrafal",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Tarrafal"
+    ],
     "name:bak_x_preferred":[
         "\u0422\u0430\u0440\u0440\u0430\u0444\u0430\u043b"
     ],
@@ -24,6 +27,9 @@
         "Tarrafal"
     ],
     "name:ceb_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:deu_x_preferred":[
         "Tarrafal"
     ],
     "name:ell_x_preferred":[
@@ -47,6 +53,9 @@
     "name:ita_x_preferred":[
         "Tarrafal"
     ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30e9\u30d5\u30a1\u30eb"
+    ],
     "name:kor_x_preferred":[
         "\ud0c0\ud558\ud314"
     ],
@@ -65,8 +74,17 @@
     "name:spa_x_preferred":[
         "Tarrafal"
     ],
+    "name:spa_x_variant":[
+        "Mangui"
+    ],
     "name:swe_x_preferred":[
         "Tarrafal"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0430\u0440\u0440\u0430\u0444\u0430\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0440\u0440\u0430\u0444\u0430\u043b"
     ],
     "name:und_x_variant":[
         "Vila do Tarrafal"
@@ -125,7 +143,7 @@
         }
     ],
     "wof:id":421194047,
-    "wof:lastmodified":1636504680,
+    "wof:lastmodified":1690868588,
     "wof:name":"Tarrafal",
     "wof:parent_id":85670299,
     "wof:placetype":"locality",

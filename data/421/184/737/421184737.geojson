@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-24.3525845,14.893028,-24.3525845,14.893028",
+    "geom:bbox":"-24.352584,14.893028,-24.352584,14.893028",
     "geom:latitude":14.893028,
     "geom:longitude":-24.352584,
     "iso:country":"CV",
@@ -32,8 +32,14 @@
     "name:ita_x_preferred":[
         "Cova Figueira"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30fc\u30f4\u30a1\u30fb\u30d5\u30a3\u30b2\u30a4\u30e9"
+    ],
     "name:kor_x_preferred":[
         "\ucf54\ubc14\ud53c\uac8c\uc774\ub77c"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d4b\u0d35 \u0d2b\u0d3f\u0d17\u0d4d\u0d2f\u0d42\u0d31"
     ],
     "name:nds_x_preferred":[
         "Cova Figueira"
@@ -92,7 +98,7 @@
     },
     "wof:country":"CV",
     "wof:created":1459009421,
-    "wof:geomhash":"0ef3abd2843a8902d0fa85212082e2a2",
+    "wof:geomhash":"a4e863e59496e48ce7bfd0f3bad224f8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":421184737,
-    "wof:lastmodified":1566709943,
+    "wof:lastmodified":1690868591,
     "wof:name":"Cova Figueira",
     "wof:parent_id":85670293,
     "wof:placetype":"locality",
@@ -112,10 +118,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -24.3525845,
+    -24.352584,
     14.893028,
-    -24.3525845,
+    -24.352584,
     14.893028
 ],
-  "geometry": {"coordinates":[-24.3525845,14.893028],"type":"Point"}
+  "geometry": {"coordinates":[-24.352584,14.893028],"type":"Point"}
 }

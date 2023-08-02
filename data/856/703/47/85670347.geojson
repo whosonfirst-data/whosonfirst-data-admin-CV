@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0631\u064a\u0628\u064a\u0631\u0627 \u0628\u0631\u0627\u0641\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Ribeira Brava"
+    ],
     "name:ben_x_preferred":[
         "\u09b0\u09bf\u09ac\u09c7\u0987\u09b0\u09be \u09ac\u09cd\u09b0\u09be\u09ad\u09be"
     ],
@@ -92,6 +95,9 @@
     "name:kor_x_preferred":[
         "\ud788\ubca0\uc774\ub77c\ube0c\ub77c\ubc14 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud788\ubca0\uc774\ub77c\ube0c\ub77c\ubc14\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Ribeirabrava"
     ],
@@ -124,6 +130,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0dbb\u0dd9\u0db6\u0dd9\u0dba\u0dd2\u0dbb\u0dcf \u0db6\u0dbb\u0dc0\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "Ribeira Brava"
     ],
     "name:swe_x_preferred":[
         "Concelho da Ribeira Brava"
@@ -271,7 +280,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636504679,
+    "wof:lastmodified":1690868585,
     "wof:name":"Ribeira Brava",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

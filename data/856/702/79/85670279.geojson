@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0627\u0641\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Brava"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09b0\u09be\u09ad\u09be"
     ],
@@ -88,6 +91,9 @@
     ],
     "name:kor_x_preferred":[
         "\ube0c\ub77c\ubc14 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ube0c\ub77c\ubc14\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Brava"
@@ -269,7 +275,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636504677,
+    "wof:lastmodified":1690868581,
     "wof:name":"Brava",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644"
     ],
+    "name:ast_x_preferred":[
+        "Paul"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09b2"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:eng_x_variant":[
         "Paul Municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0644"
     ],
     "name:fin_x_preferred":[
         "Paul"
@@ -92,11 +98,17 @@
     "name:kor_x_preferred":[
         "\ud30c\uc6b8 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud30c\uc6b8\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Paula"
     ],
     "name:lit_x_preferred":[
         "Paulio savivaldyb\u0117"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d4b\u0d7e"
     ],
     "name:mar_x_preferred":[
         "\u092a\u0949\u0932"
@@ -122,6 +134,9 @@
     "name:ron_x_preferred":[
         "Pa\u00fal"
     ],
+    "name:ron_x_variant":[
+        "Paul"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u043b"
     ],
@@ -129,6 +144,9 @@
         "\u0db4\u0dcf\u0dc0\u0dd4\u0dc5\u0dd4"
     ],
     "name:spa_x_preferred":[
+        "Paul"
+    ],
+    "name:swa_x_preferred":[
         "Paul"
     ],
     "name:swe_x_preferred":[
@@ -153,6 +171,9 @@
         "\u067e\u0627\u0644"
     ],
     "name:vie_x_preferred":[
+        "Paul"
+    ],
+    "name:wol_x_preferred":[
         "Paul"
     ],
     "name:zho_x_preferred":[
@@ -279,7 +300,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636504677,
+    "wof:lastmodified":1690868582,
     "wof:name":"Paul",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

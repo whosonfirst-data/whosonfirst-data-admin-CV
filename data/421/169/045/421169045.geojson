@@ -22,6 +22,9 @@
     "name:afr_x_preferred":[
         "Praia"
     ],
+    "name:aka_x_preferred":[
+        "Praia"
+    ],
     "name:amh_x_preferred":[
         "\u1355\u122b\u12eb"
     ],
@@ -31,11 +34,23 @@
     "name:arg_x_preferred":[
         "Praia"
     ],
+    "name:ary_x_preferred":[
+        "\u067e\u0631\u0627\u064a\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0631\u0627\u064a\u0627"
+    ],
     "name:ast_x_preferred":[
+        "Praia"
+    ],
+    "name:avk_x_preferred":[
         "Praia"
     ],
     "name:aze_x_preferred":[
         "Praya"
+    ],
+    "name:ban_x_preferred":[
+        "Praia"
     ],
     "name:bcl_x_preferred":[
         "Praia"
@@ -48,6 +63,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09cd\u09b0\u09be\u0987\u09af\u09bc\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u09aa\u09cd\u09b0\u09be\u09af\u09bc\u09be"
     ],
     "name:bho_x_preferred":[
         "\u092a\u094d\u0930\u093e\u0907\u092f\u093e"
@@ -124,6 +142,9 @@
     "name:frp_x_preferred":[
         "Praia"
     ],
+    "name:frr_x_preferred":[
+        "Praia"
+    ],
     "name:fry_x_preferred":[
         "Praia"
     ],
@@ -176,6 +197,9 @@
         "Praia"
     ],
     "name:ile_x_preferred":[
+        "Praia"
+    ],
+    "name:ina_x_preferred":[
         "Praia"
     ],
     "name:ind_x_preferred":[
@@ -238,6 +262,9 @@
     "name:mar_x_preferred":[
         "\u092a\u094d\u0930\u093e\u0908\u092f\u093e"
     ],
+    "name:mdf_x_preferred":[
+        "\u041f\u0440\u0430\u044f"
+    ],
     "name:mkd_x_preferred":[
         "\u041f\u0440\u0430\u0458\u0430"
     ],
@@ -255,6 +282,9 @@
     ],
     "name:mwl_x_preferred":[
         "Praia"
+    ],
+    "name:mzn_x_preferred":[
+        "\u067e\u0631\u0627\u06cc\u0627"
     ],
     "name:nah_x_preferred":[
         "Praia"
@@ -285,6 +315,9 @@
     ],
     "name:oci_x_preferred":[
         "Praia"
+    ],
+    "name:olo_x_preferred":[
+        "Praja"
     ],
     "name:oss_x_preferred":[
         "\u041f\u0440\u0430\u044f"
@@ -338,6 +371,9 @@
     "name:slv_x_preferred":[
         "Praia"
     ],
+    "name:smn_x_preferred":[
+        "Praia"
+    ],
     "name:sna_x_preferred":[
         "Praia"
     ],
@@ -348,6 +384,9 @@
         "Praia"
     ],
     "name:sqi_x_preferred":[
+        "Praia"
+    ],
+    "name:srd_x_preferred":[
         "Praia"
     ],
     "name:srp_x_preferred":[
@@ -379,6 +418,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e44\u0e1b\u0e23\u0e2d\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e44\u0e1b\u0e23\u0e22\u0e32"
     ],
     "name:tur_x_preferred":[
         "Praia"
@@ -430,6 +472,9 @@
     ],
     "name:zho_x_preferred":[
         "\u57f9\u4e9e"
+    ],
+    "name:zho_x_variant":[
+        "\u666e\u62c9\u4e9a\u5e02"
     ],
     "ne:ADM0CAP":1.0,
     "ne:ADM0NAME":"Cape Verde",
@@ -582,7 +627,7 @@
         }
     ],
     "wof:id":421169045,
-    "wof:lastmodified":1636504680,
+    "wof:lastmodified":1690868588,
     "wof:name":"Praia",
     "wof:parent_id":85670331,
     "wof:placetype":"locality",

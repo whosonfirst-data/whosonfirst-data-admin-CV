@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0633\u062a\u064a\u0631\u0648\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Mosteiros"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09b8\u09cd\u099f\u09c7\u0987\u09b0\u09cb\u09b8"
     ],
@@ -88,6 +91,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubaa8\uc2a4\ud14c\uc774\ub8e8\uc2a4 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ubaa8\uc2a4\ud14c\uc774\ub8e8\uc2a4\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Mosteiros"
@@ -268,7 +274,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636504677,
+    "wof:lastmodified":1690868581,
     "wof:name":"Mosteiros",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

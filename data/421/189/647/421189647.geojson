@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u0627\u062f\u064a \u062f\u064a \u0633\u0628\u0627\u0631\u062c\u0648\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Espargos"
+    ],
     "name:ben_x_preferred":[
         "\u098f\u09b8\u09c7\u09cd\u09aa\u09be\u09b0\u0997\u09cb"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:eng_x_preferred":[
         "Espargos"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u067e\u0627\u0631\u06af\u0648\u0633"
     ],
     "name:fin_x_preferred":[
         "Espargos"
@@ -191,7 +197,7 @@
         }
     ],
     "wof:id":421189647,
-    "wof:lastmodified":1566709942,
+    "wof:lastmodified":1690868590,
     "wof:name":"Espargos",
     "wof:parent_id":85670341,
     "wof:placetype":"locality",

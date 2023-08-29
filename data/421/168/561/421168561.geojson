@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u062a\u0648 \u0646\u0648\u0641\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Porto Novo"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09cb\u09b0\u09cd\u099f\u09cb \u09a8\u09cb\u09ad\u09cb"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:eng_x_preferred":[
         "Porto Novo"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u062a\u0648 \u0646\u0648\u0648"
     ],
     "name:fin_x_preferred":[
         "Porto Novo"
@@ -73,6 +79,12 @@
     ],
     "name:kor_x_preferred":[
         "\ud3ec\ub974\ud22c\ub178\ubd80 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ud3ec\ub974\ud22c\ub178\ubd80\uc2dc"
+    ],
+    "name:lat_x_preferred":[
+        "Portus Novus"
     ],
     "name:lav_x_preferred":[
         "Portonovu"
@@ -181,7 +193,7 @@
         }
     ],
     "wof:id":421168561,
-    "wof:lastmodified":1636504680,
+    "wof:lastmodified":1690868586,
     "wof:name":"Porto Novo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

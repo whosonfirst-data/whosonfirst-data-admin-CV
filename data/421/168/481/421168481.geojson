@@ -32,6 +32,9 @@
     "name:ron_x_preferred":[
         "Calhau"
     ],
+    "name:wol_x_preferred":[
+        "Calhau"
+    ],
     "qs:gn_country":"CV",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3374800,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":421168481,
-    "wof:lastmodified":1566709940,
+    "wof:lastmodified":1690868587,
     "wof:name":"Calhau",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

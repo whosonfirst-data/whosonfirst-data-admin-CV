@@ -23,11 +23,23 @@
     "name:eng_x_preferred":[
         "Bofareira"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0641\u0627\u0631\u06cc\u0631\u0627"
+    ],
     "name:fra_x_preferred":[
         "Bofarreira"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30d5\u30ec\u30a4\u30e9"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2c\u0d4b\u0d2b\u0d31\u0d47\u0d30"
+    ],
     "name:por_x_preferred":[
         "Bafureira"
+    ],
+    "name:spa_x_preferred":[
+        "Bofarreira"
     ],
     "qs:gn_country":"CV",
     "qs:gn_fcode":"PPL",
@@ -74,7 +86,7 @@
         }
     ],
     "wof:id":421185733,
-    "wof:lastmodified":1566709943,
+    "wof:lastmodified":1690868593,
     "wof:name":"Bofareira",
     "wof:parent_id":85670339,
     "wof:placetype":"locality",

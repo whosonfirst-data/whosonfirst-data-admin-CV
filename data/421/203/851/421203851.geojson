@@ -17,10 +17,16 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Pombas"
+    ],
     "name:cat_x_preferred":[
         "Pombas"
     ],
     "name:ceb_x_preferred":[
+        "Pombas"
+    ],
+    "name:deu_x_preferred":[
         "Pombas"
     ],
     "name:ell_x_preferred":[
@@ -34,6 +40,9 @@
     ],
     "name:ita_x_preferred":[
         "Pombas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30f3\u30d0\u30b9"
     ],
     "name:kor_x_preferred":[
         "\ud3fc\ubc14\uc2a4"
@@ -50,8 +59,14 @@
     "name:spa_x_preferred":[
         "Vila das Pombas"
     ],
+    "name:spa_x_variant":[
+        "Pombas"
+    ],
     "name:swe_x_preferred":[
         "Pombas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043c\u0431\u0430\u0441"
     ],
     "name:wol_x_preferred":[
         "Pombas"
@@ -100,7 +115,7 @@
         }
     ],
     "wof:id":421203851,
-    "wof:lastmodified":1566709941,
+    "wof:lastmodified":1690868588,
     "wof:name":"Vila das Pombas",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

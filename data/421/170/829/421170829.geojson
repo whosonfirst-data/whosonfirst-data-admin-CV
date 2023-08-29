@@ -32,6 +32,9 @@
     "name:ron_x_preferred":[
         "Calhau"
     ],
+    "name:wol_x_preferred":[
+        "Calhau"
+    ],
     "qs:gn_country":"CV",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3374489,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":421170829,
-    "wof:lastmodified":1566709943,
+    "wof:lastmodified":1690868591,
     "wof:name":"Madeiral",
     "wof:parent_id":85670355,
     "wof:placetype":"locality",

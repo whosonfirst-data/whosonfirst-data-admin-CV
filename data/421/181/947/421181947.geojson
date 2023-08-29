@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0646\u0629 \u0645\u0627\u064a\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u062f\u064a\u0646\u0629 \u0645\u0627\u064a\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Porto Ingl\u00eas"
+    ],
     "name:cat_x_preferred":[
         "Vila do Maio"
     ],
@@ -40,6 +46,9 @@
     ],
     "name:fra_x_preferred":[
         "Vila do Maio"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e8\u05d8\u05d5 \u05d0\u05d9\u05e0\u05d2\u05dc\u05e1"
     ],
     "name:ita_x_preferred":[
         "Vila do Maio"
@@ -70,6 +79,9 @@
     ],
     "name:spa_x_preferred":[
         "Vila do Maio"
+    ],
+    "name:spa_x_variant":[
+        "Porto Ingl\u00eas"
     ],
     "name:swe_x_preferred":[
         "Vila do Maio"
@@ -129,7 +141,7 @@
         }
     ],
     "wof:id":421181947,
-    "wof:lastmodified":1566709942,
+    "wof:lastmodified":1690868590,
     "wof:name":"Vila do Maio",
     "wof:parent_id":85670335,
     "wof:placetype":"locality",

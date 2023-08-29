@@ -35,6 +35,9 @@
     "name:ita_x_preferred":[
         "Nova Sintra"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30fc\u30f4\u30a1\u30fb\u30b7\u30f3\u30c8\u30e9"
+    ],
     "name:kor_x_preferred":[
         "\ub178\ubc14\uc2e0\ud2b8\ub77c"
     ],
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421183037,
-    "wof:lastmodified":1566709943,
+    "wof:lastmodified":1690868592,
     "wof:name":"Vila Nova Sintra",
     "wof:parent_id":85670279,
     "wof:placetype":"locality",

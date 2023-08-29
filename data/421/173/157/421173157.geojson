@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Sal Rei"
+    ],
     "name:cat_x_preferred":[
         "Sal Rei"
     ],
@@ -44,6 +47,9 @@
     "name:kor_x_preferred":[
         "\uc0b4\ud5e4\uc774"
     ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d3e\u0d7d \u0d31\u0d47"
+    ],
     "name:mwl_x_preferred":[
         "Sal Rei"
     ],
@@ -70,6 +76,9 @@
     ],
     "name:swe_x_preferred":[
         "Sal Rei"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043b-\u0420\u0435\u0439"
     ],
     "name:und_x_variant":[
         "Sal-Rel"
@@ -128,7 +137,7 @@
         }
     ],
     "wof:id":421173157,
-    "wof:lastmodified":1566709941,
+    "wof:lastmodified":1690868589,
     "wof:name":"Sal Rei",
     "wof:parent_id":85670339,
     "wof:placetype":"locality",

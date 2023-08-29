@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0631\u0641\u0627\u0644"
     ],
+    "name:ast_x_preferred":[
+        "Tarrafal"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09b0\u09be\u09ab\u09be\u09b2"
     ],
@@ -95,6 +98,9 @@
     "name:kor_x_preferred":[
         "\ud0c0\ud558\ud314 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud0c0\ud558\ud314\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Tarafala"
     ],
@@ -153,6 +159,9 @@
         "\u062a\u0627\u0631\u0627\u0641\u0627\u0644"
     ],
     "name:vie_x_preferred":[
+        "Tarrafal"
+    ],
+    "name:wol_x_preferred":[
         "Tarrafal"
     ],
     "name:zho_x_preferred":[
@@ -275,7 +284,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636504677,
+    "wof:lastmodified":1690868581,
     "wof:name":"Tarrafal",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

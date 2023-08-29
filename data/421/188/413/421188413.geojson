@@ -41,6 +41,9 @@
     "name:kor_x_preferred":[
         "\uce7c\ub840\ud0c0"
     ],
+    "name:nds_x_preferred":[
+        "Calheta"
+    ],
     "name:nld_x_preferred":[
         "Calheta"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421188413,
-    "wof:lastmodified":1566709942,
+    "wof:lastmodified":1690868590,
     "wof:name":"Calheta",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

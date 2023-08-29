@@ -35,7 +35,13 @@
     "name:nld_x_preferred":[
         "Palmeira"
     ],
+    "name:pol_x_preferred":[
+        "Palmeira"
+    ],
     "name:por_x_preferred":[
+        "Palmeira"
+    ],
+    "name:spa_x_preferred":[
         "Palmeira"
     ],
     "name:wol_x_preferred":[
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421200787,
-    "wof:lastmodified":1566709942,
+    "wof:lastmodified":1690868591,
     "wof:name":"Palmeira",
     "wof:parent_id":85670341,
     "wof:placetype":"locality",

@@ -44,6 +44,9 @@
     "name:spa_x_preferred":[
         "Pedra de Lume"
     ],
+    "name:zho_x_preferred":[
+        "\u4f69\u5fb7\u62c9\u00b7\u5fb7\u00b7\u76e7\u59c6\u9e7d\u7058"
+    ],
     "qs:gn_country":"CV",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3374384,
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421200785,
-    "wof:lastmodified":1566709942,
+    "wof:lastmodified":1690868591,
     "wof:name":"Pedra Lume",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

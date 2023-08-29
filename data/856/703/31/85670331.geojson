@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0627\u064a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Praia"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u044f"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:eng_x_variant":[
         "Praia Municipality"
+    ],
+    "name:epo_x_preferred":[
+        "Prajo"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0631\u06cc\u0627"
@@ -94,6 +100,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud504\ub77c\uc774\uc544 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ud504\ub77c\uc774\uc544\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Praja"
@@ -286,7 +295,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636504678,
+    "wof:lastmodified":1690868583,
     "wof:name":"Praia",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

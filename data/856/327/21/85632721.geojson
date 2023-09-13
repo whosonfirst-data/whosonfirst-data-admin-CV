@@ -1206,7 +1206,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"238",
     "statoids:ds":"CV",
     "statoids:fifa":"CPV",
@@ -1278,7 +1278,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1694492216,
+    "wof:lastmodified":1694639670,
     "wof:name":"Cape Verde",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

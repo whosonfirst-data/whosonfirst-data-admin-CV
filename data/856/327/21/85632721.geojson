@@ -1244,6 +1244,7 @@
         "hasc:id":"CV",
         "icao:code":"D4",
         "ioc:id":"CPV",
+        "iso:code":"CV",
         "itu:id":"CPV",
         "loc:id":"n81141822",
         "m49:code":"132",
@@ -1258,6 +1259,7 @@
         "wk:page":"Cape Verde",
         "wmo:id":"CV"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CV",
     "wof:country_alpha3":"CPV",
     "wof:geom_alt":[
@@ -1278,7 +1280,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1694639670,
+    "wof:lastmodified":1695881329,
     "wof:name":"Cape Verde",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

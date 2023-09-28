@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046096,
-    "geom:area_square_m":544980730.161276,
+    "geom:area_square_m":544981327.707164,
     "geom:bbox":"-25.360422,16.917182,-24.986682,17.136705",
     "geom:latitude":17.032895,
     "geom:longitude":-25.198292,
@@ -148,12 +148,14 @@
         "gn:id":7602868,
         "gp:id":56051556,
         "hasc:id":"CV.PN",
+        "iso:code":"CV-PN",
         "iso:id":"CV-PN",
         "qs_pg:id":1119144,
         "unlc:id":"CV-PN"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CV",
-    "wof:geomhash":"623af6f8a15c02c18187763e3da72496",
+    "wof:geomhash":"40272a6470b29643cbae4dfe1100f5cc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -168,7 +170,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1636504677,
+    "wof:lastmodified":1695884956,
     "wof:name":"Porto Novo",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

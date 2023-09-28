@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022407,
-    "geom:area_square_m":265191681.516188,
+    "geom:area_square_m":265191486.226177,
     "geom:bbox":"-25.094146,16.605505,-24.569512,16.923",
     "geom:latitude":16.832448,
     "geom:longitude":-24.936654,
@@ -262,14 +262,16 @@
         "gn:id":3374198,
         "gp:id":2345130,
         "hasc:id":"CV.SV",
+        "iso:code":"CV-SV",
         "iso:id":"CV-SV",
         "qs_pg:id":219537,
         "unlc:id":"CV-SV",
         "wd:id":"Q648842",
         "wk:page":"S\u00e3o Vicente, Cape Verde (municipality)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CV",
-    "wof:geomhash":"c7301ac79150d6b55f693bf6adb56dd5",
+    "wof:geomhash":"6d0502a332b136e85d97a3d9aaf0fbee",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -284,7 +286,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690868584,
+    "wof:lastmodified":1695884329,
     "wof:name":"S\u00e3o Vicente",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

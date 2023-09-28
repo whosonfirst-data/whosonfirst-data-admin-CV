@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005903,
-    "geom:area_square_m":70451228.565104,
+    "geom:area_square_m":70451375.742483,
     "geom:bbox":"-23.68699,15.119065,-23.591601,15.229722",
     "geom:latitude":15.175676,
     "geom:longitude":-23.642531,
@@ -209,14 +209,16 @@
         "gn:id":3411928,
         "gp:id":56051558,
         "hasc:id":"CV.SM",
+        "iso:code":"CV-SM",
         "iso:id":"CV-SM",
         "qs_pg:id":1105207,
         "unlc:id":"CV-SM",
         "wd:id":"Q494874",
         "wk:page":"S\u00e3o Miguel, Cape Verde"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CV",
-    "wof:geomhash":"20d1a0c4328f89cbf46751d96f8cbe36",
+    "wof:geomhash":"80b8e30b63e56f93d71689a79789ca23",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -231,7 +233,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690868583,
+    "wof:lastmodified":1695884329,
     "wof:name":"S\u00e3o Miguel",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

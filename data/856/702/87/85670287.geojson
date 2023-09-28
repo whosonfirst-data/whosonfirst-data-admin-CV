@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008237,
-    "geom:area_square_m":98380772.398645,
+    "geom:area_square_m":98380561.994644,
     "geom:bbox":"-24.429691,14.944918,-24.301476,15.045396",
     "geom:latitude":14.997078,
     "geom:longitude":-24.362068,
@@ -252,14 +252,16 @@
         "gn:id":3411924,
         "gp:id":56051566,
         "hasc:id":"CV.MO",
+        "iso:code":"CV-MO",
         "iso:id":"CV-MO",
         "qs_pg:id":896710,
         "unlc:id":"CV-MO",
         "wd:id":"Q516835",
         "wk:page":"Mosteiros, Cape Verde (municipality)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CV",
-    "wof:geomhash":"8f33c3f7a30c4a325f38d30090a24234",
+    "wof:geomhash":"cf799c186d969e85b1e11bb1e3fddef3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -274,7 +276,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690868581,
+    "wof:lastmodified":1695884956,
     "wof:name":"Mosteiros",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

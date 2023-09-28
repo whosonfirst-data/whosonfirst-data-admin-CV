@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022613,
-    "geom:area_square_m":269801272.035397,
+    "geom:area_square_m":269801531.492755,
     "geom:bbox":"-23.258168,15.118598,-23.110463,15.33275",
     "geom:latitude":15.221338,
     "geom:longitude":-23.18038,
@@ -219,14 +219,16 @@
         "gn:id":3374487,
         "gp:id":2345124,
         "hasc:id":"CV.MA",
+        "iso:code":"CV-MA",
         "iso:id":"CV-MA",
         "qs_pg:id":894873,
         "unlc:id":"CV-MA",
         "wd:id":"Q2551133",
         "wk:page":"Maio, Cape Verde (municipality)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CV",
-    "wof:geomhash":"bad8db5aaced57ea94c2126d54b3d493",
+    "wof:geomhash":"aa7c641078b2bf3f1c83773c6505446a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -241,7 +243,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690868582,
+    "wof:lastmodified":1695884956,
     "wof:name":"Maio",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

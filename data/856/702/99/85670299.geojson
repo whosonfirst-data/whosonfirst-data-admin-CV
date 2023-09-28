@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011308,
-    "geom:area_square_m":134901736.159747,
+    "geom:area_square_m":134902128.783762,
     "geom:bbox":"-23.785756,15.179966,-23.648549,15.33275",
     "geom:latitude":15.247058,
     "geom:longitude":-23.722695,
@@ -263,13 +263,15 @@
         "gn:id":3374161,
         "gp:id":2345131,
         "hasc:id":"CV.TF",
+        "iso:code":"CV-TA",
         "iso:id":"CV-TA",
         "qs_pg:id":219538,
         "wd:id":"Q499598",
         "wk:page":"Tarrafal, Cape Verde (municipality)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CV",
-    "wof:geomhash":"0a45889ee66b00f63f3e85d420b402ba",
+    "wof:geomhash":"7097dca3d45907f4d4245ab88e91ffbf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -284,7 +286,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690868581,
+    "wof:lastmodified":1695884956,
     "wof:name":"Tarrafal",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

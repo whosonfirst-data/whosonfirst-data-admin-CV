@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053689,
-    "geom:area_square_m":637816214.873789,
+    "geom:area_square_m":637817114.982735,
     "geom:bbox":"-22.963979,15.982367,-22.666575,16.243964",
     "geom:latitude":16.10576,
     "geom:longitude":-22.816875,
@@ -265,14 +265,16 @@
         "gn:id":3374855,
         "gp:id":2345121,
         "hasc:id":"CV.BV",
+        "iso:code":"CV-BV",
         "iso:id":"CV-BV",
         "qs_pg:id":1083816,
         "unlc:id":"CV-BV",
         "wd:id":"Q110440",
         "wk:page":"Boa Vista, Cape Verde"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CV",
-    "wof:geomhash":"2c5d0d5bec2fc096719bbaf298b16193",
+    "wof:geomhash":"0fb4df9f88531388f7b6f063664adde6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -287,7 +289,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690868584,
+    "wof:lastmodified":1695884956,
     "wof:name":"Boa Vista",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

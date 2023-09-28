@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013684,
-    "geom:area_square_m":161685294.86958,
+    "geom:area_square_m":161685303.141483,
     "geom:bbox":"-25.245351,17.085776,-25.025868,17.196601",
     "geom:latitude":17.143427,
     "geom:longitude":-25.124874,
@@ -263,13 +263,15 @@
         "gn:id":3374274,
         "gp:id":2345126,
         "hasc:id":"CV.RG",
+        "iso:code":"CV-RG",
         "iso:id":"CV-RG",
         "qs_pg:id":1083819,
         "wd:id":"Q1355642",
         "wk:page":"Ribeira Grande, Cape Verde (municipality)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CV",
-    "wof:geomhash":"2257d66c553e0917e817c56c8cd9f4fb",
+    "wof:geomhash":"5a43ea03860949a4fbb4ee3305e69679",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -284,7 +286,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690868584,
+    "wof:lastmodified":1695884956,
     "wof:name":"Ribeira Grande",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

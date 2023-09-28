@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009493,
-    "geom:area_square_m":113372313.604379,
+    "geom:area_square_m":113372672.451033,
     "geom:bbox":"-23.596192,14.960723,-23.443105,15.064038",
     "geom:latitude":15.009811,
     "geom:longitude":-23.520709,
@@ -265,14 +265,16 @@
         "gn:id":3411926,
         "gp:id":56051562,
         "hasc:id":"CV.SD",
+        "iso:code":"CV-SD",
         "iso:id":"CV-SD",
         "qs_pg:id":78470,
         "unlc:id":"CV-SD",
         "wd:id":"Q499009",
         "wk:page":"S\u00e3o Domingos, Cape Verde (municipality)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CV",
-    "wof:geomhash":"32f6463f8c3ffd37ba020b9da193419b",
+    "wof:geomhash":"5c524b3a2a70a4b0d37db34eb6d8bb9f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -287,7 +289,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690868583,
+    "wof:lastmodified":1695884329,
     "wof:name":"S\u00e3o Domingos",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

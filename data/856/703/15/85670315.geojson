@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003381,
-    "geom:area_square_m":40368835.515069,
+    "geom:area_square_m":40368853.81945,
     "geom:bbox":"-23.647959,15.03934,-23.578475,15.105778",
     "geom:latitude":15.073006,
     "geom:longitude":-23.612637,
@@ -209,14 +209,16 @@
         "gn:id":7602871,
         "gp:id":56051557,
         "hasc:id":"CV.SS",
+        "iso:code":"CV-SS",
         "iso:id":"CV-SS",
         "qs_pg:id":1002263,
         "unlc:id":"CV-SS",
         "wd:id":"Q494877",
         "wk:page":"S\u00e3o Salvador do Mundo, Cape Verde"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CV",
-    "wof:geomhash":"d21e1a9723684e402bb660dec17fb95d",
+    "wof:geomhash":"d91d0302b1758c776cae030dc09693b0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -231,7 +233,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690868585,
+    "wof:lastmodified":1695884329,
     "wof:name":"S\u00e3o Salvador do Mundo",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

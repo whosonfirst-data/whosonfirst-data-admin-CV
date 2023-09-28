@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004652,
-    "geom:area_square_m":55572240.289565,
+    "geom:area_square_m":55572240.289557,
     "geom:bbox":"-23.56408,14.90762,-23.470448,14.98619",
     "geom:latitude":14.947615,
     "geom:longitude":-23.51589,
@@ -270,17 +270,19 @@
         "gn:id":3374332,
         "gp:id":2345125,
         "hasc:id":"CV.PC",
+        "iso:code":"CV-PR",
         "iso:id":"CV-PR",
         "qs_pg:id":235576,
         "unlc:id":"CV-PR",
         "wd:id":"Q497019",
         "wk:page":"Praia, Cape Verde (municipality)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421169045
     ],
     "wof:country":"CV",
-    "wof:geomhash":"4c66d30340c6502252da823900d3aacf",
+    "wof:geomhash":"23e2bf7cad99e6cac1c45a10943e8d7d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -295,7 +297,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690868583,
+    "wof:lastmodified":1695884956,
     "wof:name":"Praia",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

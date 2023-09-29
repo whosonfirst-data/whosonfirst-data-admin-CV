@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003175,
-    "geom:area_square_m":37520900.572057,
+    "geom:area_square_m":37521057.887211,
     "geom:bbox":"-25.072976,17.078865,-24.971262,17.144924",
     "geom:latitude":17.114427,
     "geom:longitude":-25.01333,
@@ -277,6 +277,7 @@
         "gn:id":3374391,
         "gp:id":20069964,
         "hasc:id":"CV.PA",
+        "iso:code":"CV-PA",
         "iso:id":"CV-PA",
         "loc:id":"no2014070592",
         "qs_pg:id":902458,
@@ -284,8 +285,9 @@
         "wd:id":"Q1475374",
         "wk:page":"Paul, Cape Verde"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CV",
-    "wof:geomhash":"dd45bfe2a0a11bcfb66cbef5097eee4c",
+    "wof:geomhash":"9647b6084218c6f4478b270fb52c759e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -300,7 +302,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690868582,
+    "wof:lastmodified":1695884956,
     "wof:name":"Paul",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

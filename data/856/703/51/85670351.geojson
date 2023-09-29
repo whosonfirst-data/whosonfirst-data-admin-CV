@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00898,
-    "geom:area_square_m":106408762.283602,
+    "geom:area_square_m":106408762.283624,
     "geom:bbox":"-24.4306534501,16.4826520853,-24.314417823,16.6771229631",
     "geom:latitude":16.600347,
     "geom:longitude":-24.365787,
@@ -206,14 +206,16 @@
         "gn:id":7602872,
         "gp:id":2345129,
         "hasc:id":"CV.TS",
+        "iso:code":"CV-TS",
         "iso:id":"CV-TS",
         "qs_pg:id":984076,
         "unlc:id":"CV-TS",
         "wd:id":"Q1895853",
         "wk:page":"Tarrafal de S\u00e3o Nicolau, Cape Verde (municipality)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CV",
-    "wof:geomhash":"f87189787deb339f68b2fbc78968ee46",
+    "wof:geomhash":"c537826eb17da6c5a9c594a33c5933d2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -228,7 +230,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1566709926,
+    "wof:lastmodified":1695884329,
     "wof:name":"Tarrafal de S\u00e3o Nicolau",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

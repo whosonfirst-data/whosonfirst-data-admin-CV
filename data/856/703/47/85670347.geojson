@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019455,
-    "geom:area_square_m":230535295.978851,
+    "geom:area_square_m":230534046.166719,
     "geom:bbox":"-24.376535,16.482652,-24.032826,16.681586",
     "geom:latitude":16.606457,
     "geom:longitude":-24.212297,
@@ -258,14 +258,16 @@
         "gn:id":7602869,
         "gp:id":56051567,
         "hasc:id":"CV.RB",
+        "iso:code":"CV-RB",
         "iso:id":"CV-RB",
         "qs_pg:id":989678,
         "unlc:id":"CV-RB",
         "wd:id":"Q747221",
         "wk:page":"Ribeira Brava, Cape Verde (municipality)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CV",
-    "wof:geomhash":"d6ab5ace2704a47090fd1a421ae7ac50",
+    "wof:geomhash":"4f0c70b10b06b023b3b31a342aa6b5b7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -280,7 +282,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690868585,
+    "wof:lastmodified":1695884956,
     "wof:name":"Ribeira Brava",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

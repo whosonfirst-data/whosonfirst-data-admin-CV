@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002688,
-    "geom:area_square_m":32093451.229655,
+    "geom:area_square_m":32093682.998522,
     "geom:bbox":"-23.612039,15.011658,-23.526432,15.081557",
     "geom:latitude":15.048226,
     "geom:longitude":-23.574119,
@@ -244,13 +244,15 @@
         "gn:id":7602873,
         "gp:id":56051560,
         "hasc:id":"CV.LO",
+        "iso:code":"CV-SO",
         "iso:id":"CV-SO",
         "qs_pg:id":917915,
         "unlc:id":"CV-SO",
         "wd:id":"Q494726"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CV",
-    "wof:geomhash":"e4aa4cd7d9cc2a0d8155724ac3d10019",
+    "wof:geomhash":"e869de339b8f907b5b77c2d79b344e26",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -265,7 +267,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690868583,
+    "wof:lastmodified":1695884329,
     "wof:name":"S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

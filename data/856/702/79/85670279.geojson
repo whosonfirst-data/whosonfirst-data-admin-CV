@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00502,
-    "geom:area_square_m":60001796.943768,
+    "geom:area_square_m":60001570.849271,
     "geom:bbox":"-24.758941,14.803941,-24.683258,14.900824",
     "geom:latitude":14.854187,
     "geom:longitude":-24.717711,
@@ -254,13 +254,15 @@
         "gn:id":3374832,
         "gp:id":2345122,
         "hasc:id":"CV.BR",
+        "iso:code":"CV-BR",
         "iso:id":"CV-BR",
         "qs_pg:id":1083817,
         "wd:id":"Q2571624",
         "wk:page":"Brava, Cape Verde (municipality)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CV",
-    "wof:geomhash":"3cc3b5079991db7a9a3fc8ea0fb1bce4",
+    "wof:geomhash":"4deafa7f0cb57f30343d135c194062a2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -275,7 +277,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690868581,
+    "wof:lastmodified":1695884956,
     "wof:name":"Brava",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

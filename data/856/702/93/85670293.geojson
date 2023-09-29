@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00594,
-    "geom:area_square_m":70977785.748993,
+    "geom:area_square_m":70977517.683215,
     "geom:bbox":"-24.383431,14.869565,-24.295766,14.954846",
     "geom:latitude":14.913944,
     "geom:longitude":-24.338084,
@@ -217,14 +217,16 @@
         "gn:id":7602870,
         "gp:id":56051565,
         "hasc:id":"CV.CF",
+        "iso:code":"CV-CF",
         "iso:id":"CV-CF",
         "qs_pg:id":78463,
         "unlc:id":"CV-CF",
         "wd:id":"Q2608046",
         "wk:page":"Santa Catarina do Fogo, Cape Verde"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CV",
-    "wof:geomhash":"897d9f9599888c67ef899c111243c867",
+    "wof:geomhash":"60aa89599c3072c53badb6236a6156f1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -239,7 +241,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690868581,
+    "wof:lastmodified":1695884956,
     "wof:name":"Santa Catarina do Fogo",
     "wof:parent_id":85632721,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016879,
-    "geom:area_square_m":199873036.645347,
+    "geom:area_square_m":199873883.675832,
     "geom:bbox":"-22.991567,16.593411,-22.881337,16.860297",
     "geom:latitude":16.739307,
     "geom:longitude":-22.934483,
@@ -258,14 +258,16 @@
         "gn:id":3374249,
         "gp:id":2345127,
         "hasc:id":"CV.SL",
+        "iso:code":"CV-SL",
         "iso:id":"CV-SL",
         "qs_pg:id":1083820,
         "unlc:id":"CV-SL",
         "wd:id":"Q2721003",
         "wk:page":"Sal, Cape Verde (municipality)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CV",
-    "wof:geomhash":"51a13fd31a5e54e01b37aa92ade6aa68",
+    "wof:geomhash":"d07ad3eb4e88c187f1915427d9f5f441",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -280,7 +282,7 @@
     "wof:lang_x_spoken":[
         "por"
     ],
-    "wof:lastmodified":1690868585,
+    "wof:lastmodified":1695884956,
     "wof:name":"Sal",
     "wof:parent_id":85632721,
     "wof:placetype":"region",
